@@ -211,7 +211,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Atomic radius of ions",
+                        "Ionic radius",
                         "The radius of a cation is always smaller than that of the parent atom. The number of protons and nuclear charge are the same, but cation has one less electronic shell. Electronic attraction between the nucleus and the valance electrons increases, and size of electron cloud decreases.<br><br>The radius of a anion is always greater than that of the parent atom. The number of protons and nuclear charge are the same, but anion has more electrons than its parent atom, and electron-electron repulsion increases. Electronic attraction between the nucleus and the valance electrons decreases, and size of electron cloud increases.<br><br><img src=\"Screenshot 2024-06-12 at 05.37.05 PM.png\">"
                     ],
                     "guid": "n]Qa*ifd;>",
@@ -3169,7 +3169,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-c36b5",
             "originalStockKind": 1,
             "req": [
                 [
