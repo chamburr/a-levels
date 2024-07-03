@@ -1,0 +1,3204 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "307b727e-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "01a Mole Concept and Stoichiometry",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mole and Avogadro constant",
+                        "A mole of a substance is the amount of that substance which contains&nbsp;\\(6.02*10^{23}\\)&nbsp;elementary entities of that substance.<br><br>The Avogadro constant (L) is the constant of proportionality between the number of specified entities of a substance (N) and the amount of specified entities of that substance (n).\\[N=Ln\\]"
+                    ],
+                    "guid": "D|*)fX/x:@",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Empirical and molecular formula",
+                        "The empirical formula of a compound is the formula that shows the simplest whole number ratio of the atoms of different elements present in one molecule or formula unit of the compound.<br><br>The molecular formula of a compound is the formula that shows the actual number of atoms of each element present in one molecule of the compound."
+                    ],
+                    "guid": "e)0-b2T(@B",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Avogadro's hypothesis",
+                        "Equal volumes of all gases under the same conditions of temperature and pressure contain the same number of molecules."
+                    ],
+                    "guid": "tIN8=}xKgG",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "31a139cc-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "01b Redox Reactions",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Oxidation and reduction (4)",
+                        "Oxidation involves gain of oxygen, loss of hydrogen, loss of electrons or increase in oxidation number.<br><br>Reduction involves loss of oxygen, gain of hydrogen, gain of electrons or decrease in oxidation number."
+                    ],
+                    "guid": "C+2`SX=OEu",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Oxidation number of hydrogen and oxygen",
+                        "The oxidation number of hydrogen in all compounds, except metal hydrides, is +1. In metal hydries, the oxidation number of hydrogen is -1.<br><br>The oxidation number of oxygen is -2 in all compounds, except in peroxides, superoxides and&nbsp;\\(OF_2\\). In peroxides, the oxidation number of oxygen is -1. In superoxides, the oxidation number of oxygen is -1/2. In&nbsp;\\(OF_2\\), the oxidation number is +2."
+                    ],
+                    "guid": "q99(89ogy$",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Disproportionation",
+                        "A disproportionation reaction is a redox reaction in which the same element in a substance is simultaneously oxidised and reduced."
+                    ],
+                    "guid": "tF9MU]Z5:v",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Manganate(VII) titrations",
+                        "Potassium manganate(VII),&nbsp;\\(KMnO_4\\), is a powerful oxidising agent.<br><br>In acidic medium,&nbsp;\\(Mn^{7+}\\)&nbsp;ion is reduced to aqueous&nbsp;\\(Mn^{2+}\\)&nbsp;(colour change is purple to faint pink/colourless in dilute solutions).\\[MnO_4^-+8H^++5e^-\\to Mn^{2+}+4H_2O\\]<br>In neutral or alkaline medium,&nbsp;\\(MnO_4^-\\)&nbsp;ion is reduced to solid&nbsp;\\(MnO_2\\)&nbsp;(colour change is pruple to brown/black solid).\\[MnO_4^-+4H^++3e^-\\to MnO_2+2H_2O\\]"
+                    ],
+                    "guid": "kK94|E$6v%",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Iodine-thiosulfate titrations",
+                        "Thiosulfate acts as a reducing agent and reduces iodine to iodide (colour change is pale yellow to colourless and blue-black to colourless with starch).\\[2S_2O_3^{2-}+I_2\\to S_4O_6^{2-}+2I^-\\]<br>Starch solution is normally added when the solution is pale yellow in colour. It is not added at the beginning as the iodine molecules tend to be trapped in the spiral starch molecules, leading to inaccurate results."
+                    ],
+                    "guid": "dpRrB?~za.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "308108e2-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-12 at 05.09.20 PM.png",
+                "Screenshot 2024-06-12 at 05.10.24 PM.png",
+                "Screenshot 2024-06-12 at 05.10.40 PM.png",
+                "Screenshot 2024-06-12 at 05.16.49 PM.png",
+                "Screenshot 2024-06-12 at 05.35.15 PM.png",
+                "Screenshot 2024-06-12 at 05.37.05 PM.png"
+            ],
+            "name": "02 Atomic Structure",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Orbitals (3)",
+                        "The s orbital has a spherical shape and is non-directional. As n increases, the s orbital increases in size and becomes more diffuse.<br><img src=\"Screenshot 2024-06-12 at 05.09.20 PM.png\"><br><br>The p orbital has a dumbbell shape and is directional. As n increases, the p orbital increases in size and becomes more diffuse. The three p orbitals in the same subshell are degenerate.<br><img src=\"Screenshot 2024-06-12 at 05.10.24 PM.png\"><br><br>There are five d orbitals in a d subshell.<br><img src=\"Screenshot 2024-06-12 at 05.10.40 PM.png\">"
+                    ],
+                    "guid": "BkOoCsfHQ*",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electronic configurations rules (3)",
+                        "Electrons fill orbitals from the lowest energy orbital upwards. (1s -&gt; 2s -&gt; 2p -&gt; 3s -&gt; 3p -&gt; 4s -&gt; 3d -&gt; 4p -&gt; 5s -&gt; 4d)<br><br>Orbitals of a subshell must be occupied singly by electrons of parallel spins before pairing can occur to minimise inter-electronic repulsion.<br><br>Each orbital can hold a maximum of two electrons and they must be of opposite spins to counterbalance the electrical repulsion resulting from identical charges.<br><br><img src=\"Screenshot 2024-06-12 at 05.16.49 PM.png\">"
+                    ],
+                    "guid": "ypdLLJ2f}E",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electronic configurations of Cr and Cu",
+                        "The electronic configuration of Cr is&nbsp;\\(1s^22s^22p^63s^23p^63d^54s^1\\). 3d and 4s orbitals are about equal in energy by the time Cr is reached. By having one electron each in the 3d and 4s orbitals, inter-electronic repulsion is minimised.<br><br>The electronic configuration of Cu is&nbsp;\\(1s^22s^22p^63s^23p^63d^{10}4s^1\\). The fully filled 3d subshell is unusually stable due to the symmetrical charge distribution around the metal centre."
+                    ],
+                    "guid": "GhyaQV4#TH",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electronic configurations of ions (2)",
+                        "For anions, electrons are added to the next available orbital in the atom during the formation of an anion.<br><br>For cations, electrons are removed from the orbitals with the highest energy. 4s electrons are lost before 3d electrons. Once electrons occupy the inner 3d orbitals, they provide some shielding for the outermost 4s electrons and repel the 4s electrons to a slightly higher energy level."
+                    ],
+                    "guid": "ri0,Mcmq)y",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrostatic effect factors (3)",
+                        "Number of electronic shells. If the number of electronic shells increases, the principle quantum number of the valence shell increases, the distance between the nucleus and the valence electron increases, and electrostatic attraction between the nucleus and the valence electron decreases.<br><br>Nuclear charge. If the number of protons increases, nuclear charge increases, and electrostatic attraction between the nucleus and the valence electron increases.<br><br>Shielding effect. If the number of inner electronic shell electrons increases, shielding effect experienced by the valence electron increases, and electrostatic attraction between the nucleus and the valence electron decreases."
+                    ],
+                    "guid": "q$~L-iY}is",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Atomic radius (3)",
+                        "The metallic radius of an atom is half the inter-nuclear distance between two neighbouring atoms in the metal.<br><br>The covalent radius of an atom is half the inter-nuclear distance between two covalently bonded atoms.<br><br>The van der Waals' radius of an atom is half the inter-nuclear distance between atoms which are not chemically bonded."
+                    ],
+                    "guid": "d?_iQ:@<di",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Atomic radius trends (2)",
+                        "Atomic radii decrease across a period. The number of electronic shells remain the same, the number of protons increases and nuclear charge increases, and electrons are added to the same outermost electronic shell so shielding effect remains approximately constant. Effective nuclear charge increases, electrostatic attraction between the nucleus and the valence electrons increases, and size of electron cloud decreases.<br><br>Atomic radii increase down a group. The number of electronic shells increases, the distance between the nucleus and the valence electrons increases, and shielding effect experienced by valence electrons increases. Despite increasing nuclear charge, electrostatic attraction between the nucleus and the valence electrons decreases, and size of electron cloud increases.<br><br><img src=\"Screenshot 2024-06-12 at 05.35.15 PM.png\">"
+                    ],
+                    "guid": "NsfjUUXEOM",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Atomic radius of ions",
+                        "The radius of a cation is always smaller than that of the parent atom. The number of protons and nuclear charge are the same, but cation has one less electronic shell. Electronic attraction between the nucleus and the valance electrons increases, and size of electron cloud decreases.<br><br>The radius of a anion is always greater than that of the parent atom. The number of protons and nuclear charge are the same, but anion has more electrons than its parent atom, and electron-electron repulsion increases. Electronic attraction between the nucleus and the valance electrons decreases, and size of electron cloud increases.<br><br><img src=\"Screenshot 2024-06-12 at 05.37.05 PM.png\">"
+                    ],
+                    "guid": "n]Qa*ifd;>",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionisation energy (2)",
+                        "The first ionisation energy of an element M is the energy required to remove 1 mole of electrons from 1 mole of gaseous&nbsp;\\(M\\)&nbsp;atoms to form 1 mole of gaseous&nbsp;\\(M^+\\)&nbsp;ions.<br><br>The second ionisation energy of an element M is the energy required to remove 1 mole of electrons from 1 mole of gaseous&nbsp;\\(M+\\)&nbsp;atoms to form 1 mole of gaseous&nbsp;\\(M^{2+}\\)&nbsp;ions."
+                    ],
+                    "guid": "m^4Pnd^j}3",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionisation energy trends (2)",
+                        "First ionisation energy generally increases across a period. The number of electronic shells remain the same, the number of protons increases and nuclear charge increases, and electrons are added to the same outermost electronic shell so shielding effect remains approximately constant. Effective nuclear charge increases, electrostatic attraction between the nucleus and the valence electrons increases, and more energy is required to remove the valence electron.<br><br>First ionisation energy generally decreases down a group. The number of electronic shells increases, the distance between the nucleus and the valence electrons increases, and shielding effect experienced by valence electrons increases. Despite increasing nuclear charge, electrostatic attraction between the nucleus and the valence electrons decreases, and less energy is required to remove the valence electron."
+                    ],
+                    "guid": "mnhT)?ygJ",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionisation energy trends irregularities (2)",
+                        "Group 2 and 13. The 3p electron removed from Al is at a higher energy level than the 3s electron to be removed from Mg. Less energy is required to remove the 3p electron in Al than the 3s electron in Mg, and first ionisation energy of Al is lower.<br><br>Group 15 and 16. The 3p electron removed from S is a paired electron while the 3p electron removed from P is an unpaired electron. Due to inter-electronic repulsion between paired electrons in the same orbital, less energy is required to remove the paired 3p electron from S, and the first ionisation energy of S is lower."
+                    ],
+                    "guid": "lJWdd>tvTA",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionisation energy successive trends",
+                        "Successive ionisation energies of an element increases. After the first electron is removed from the neutral atom, each successive electron is removed from an ion of increasing positive charge which attracts the electrons more strongly."
+                    ],
+                    "guid": "d}Ih`RtKE!",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electronegativity",
+                        "The electronegativity of an atom in a molecule is a relative measure of its ability to attract bonding electrons."
+                    ],
+                    "guid": "MbB{,ZV(F-",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electronegativity trends (2)",
+                        "Electronegativity increases across a period. The number of electronic shells remain the same, the number of protons increases and nuclear charge increases, and electrons are added to the same outermost electronic shell so shielding effect remains approximately constant. Effective nuclear charge increases, electrostatic attraction between the nucleus and the bonding electrons increases, and electronegativity increases.<br><br>Electronegativity decreases down a group. The number of electronic shells increases, the distance between the nucleus and the valence electrons increases, and shielding effect experienced by valence electrons increases. Despite increasing nuclear charge, electrostatic attraction between the nucleus and the bonding electrons decreases, and electronegativity decreases."
+                    ],
+                    "guid": "Me@BHpZ6IU",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "303336ee-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-12 at 08.25.15 PM.png",
+                "Screenshot 2024-06-12 at 08.51.38 PM.png",
+                "Screenshot 2024-06-12 at 09.21.18 PM.png",
+                "Screenshot 2024-06-12 at 09.37.30 PM.png"
+            ],
+            "name": "03 Chemical Bonding I",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Giant ionic lattice",
+                        "In an ionic compound, constituent ions are held in fixed positions in an orderly arrangement by ionic bonds. An ionic bond is an electrostatic attraction between oppositely charged ions in an ionic lattice, and its strength is indicated by the lattice energy of the ionic compound.\\[|\\text{Lattice energy}|\\propto|\\frac{q_+*q_-}{r_++r_-}|\\]<br>The physical properties are non-volatile, high melting and boiling points, solid, hard and brittle, non-conductors when solid (good conductors when molten or in aqueous solutions), usually soluble in polar solvents and insoluble in non-polar solvents."
+                    ],
+                    "guid": "Q;#Y:/)g[v",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Giant molecular lattice",
+                        "The atoms are held together in an extensive network by covalent bonds. Well-known examples are diamond, graphite, silicon dioxide, silicon carbide and boron nitride.<br><br>The physical properties are non-volatile, high melting and boiling points, solid, usually hard (except graphite), non-conductors (except graphite), insoluble in all solvents.<br><br><img src=\"Screenshot 2024-06-12 at 08.25.15 PM.png\">"
+                    ],
+                    "guid": "r`oDzKb}rX",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Simple molecular lattice",
+                        "A solid with simple molecular lattice is made up of molecules attracted to each other by weak intermolecular forces. Within the molecule, atoms are bonded to one another by strong covalent bonds.<br><br>The physical properties are volatile, low melting and boiling points, usually gases or volatile liquids (some are solids), soft, non-conductors when solid/liquid and usually in aqueous conditions (except HCl and others that ionise in water), insoluble in polar solvents and soluble in non-polar solvents."
+                    ],
+                    "guid": "N#&M&GAsHY",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Giant metallic lattice",
+                        "A rigid lattice of positive ions surrounded by a sea of delocalised electrons. The atoms bind strongly together by metallic bonds due to attraction between the oppositely-charged particles. Strength of metallic bond is affected by number of valence electrons, charge of cations and size of cations.<br><br>The physical properties are non-volatile, high melting and boiling points, usually solid (except mercury), hard yet malleable, good conductors when solid or liquid, insoluble in polar solvents and non-polar solvents but soluble in liquid metals."
+                    ],
+                    "guid": "H;5QmN+q4t",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionic and (dative) covalent bond",
+                        "An ionic bond is the electrostatic attraction between oppositely charged ions.<br><br>A covalent bond is the electrostatic attraction between a shared pair of electrons and positively charged nuclei.<br><br>A dative covalent bond (co-ordinate bond) is formed when the shared pair of electrons is provided by only one of the bonding atoms. To form a dative covalent bond, one atom must have a lone pair of electrons for donation while the other must have a vacant, low-lying orbital to accept the pair of electrons."
+                    ],
+                    "guid": "ICp=`!A+2m",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Octet rule exceptions (3)",
+                        "Molecules with less than 8 electrons in the valence shell of an atom. Such molecules are electron deficient. Some examples are&nbsp;\\(AlCl_3\\)&nbsp;and&nbsp;\\(BeCl_2\\).<br><br>Molecules with unpaired electrons in the valence shell of an atom. Such molecules are called radicals. Some examples are&nbsp;\\(NO\\)&nbsp;and&nbsp;\\(NO_2\\).<br><br>Molecules with more than 8 electrons in the expanded octet of the valence shell of an atom. This is only possible for elements in period 3 and beyond, because period 2 elements do not have vacant, low-lying orbitals for the expansion of octet. Some examples are&nbsp;\\(PCl_5\\)&nbsp;and&nbsp;\\(SO_3\\)."
+                    ],
+                    "guid": "LDteP~/c]A",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Valence shell electron pair repulsion theory",
+                        "The valence shell electron pair repulsion theory states that electron pairs around the central atom of a molecule are arranged as far apart as possible in space so as to minimise their mutual repulsion. Lone pair-lone pair repulsion &gt; lone pair-bond pair repulsion &gt; bond pair-bond pair repulsion.<br><br><img src=\"Screenshot 2024-06-12 at 08.51.38 PM.png\">"
+                    ],
+                    "guid": "h%IY8CK,L]",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Valence shell electron pair repulsion theory modifications (2)",
+                        "Electron pair-electron pair repulsion. Bond angles deviate from the predicted as different electron-pairs exert different repulsions. The closer the electron-pairs are to the center atom, the greater the repulsion. Lone pair exerts greater repulsion than a bond pair.<br><br>Effect of electronegativity. Repulsion between bond pairs is also increased by an increase in electronegativity of the central atoms, which can draw bond-pairs closer to itself and cause bond-pair electrons to exert more repulsion."
+                    ],
+                    "guid": "e:58Mu{ws0",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dipole moments and polar molecules",
+                        "Bond dipole moments are caused by difference in electronegativity between covalently bonded atoms as electron-pair is not equally shared. Partial charges arise on the two bonded atoms. The greater the difference in electronegativity, the greater the bond dipole moment.<br><br>A molecule is polar if its overall dipole moment is not zero, and non-polar if its overall dipole moment is zero. Overall dipole moment of a molecule is the vector sum of all the bond dipole moments.&nbsp;"
+                    ],
+                    "guid": "f1B-dJs&AU",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Instantaneous dipole-induced dipole interactions and factors (2)",
+                        "As electrons are constantly moving in any particle, at any given moment, the electron density can be unsymmetrical, resulting in an instantaneous dipole. This dipole can induce a dipole in a neighbouring particle, which causes an attraction between them, which is short-lived because electrons keep moving and dipoles vanish and reform.<br><br>Strength of interactions is affected by electron cloud size (larger electron clouds are more easily polarised, so there is greater ease in formation of dipoles), and surface area (straight-chained hydrocarbons have greater surface area and the interactions are stronger than branched isomers)."
+                    ],
+                    "guid": "rV@h~#zfut",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Permanent dipole-permanent dipole interactions and factors (1)",
+                        "Polar molecules have permanent dipoles in their structures. The molecules tend to align such that the partially positive end of one molecule is near the partially negative end of the other molecule. The electrostatic attrction between&nbsp;\\(\\delta+\\)&nbsp;end of one molecule and&nbsp;\\(\\delta-\\)&nbsp;end of the other molecule causes pd-pd interactions.<br><br>Strength of interactions is affected by dipole moments."
+                    ],
+                    "guid": "n)PY{w):ZV",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hydrogen bonding and factors (2)",
+                        "A highly electronegative F, O or N atom causes an H atom to have a high&nbsp;\\(\\delta+\\)&nbsp;charge, and allows the H atom to form a strong attraction with a lone pair of an adjacent molecule (must be F, O or N).<br><br>Strength of hydrogen bonding is affected by dipole moment and extensiveness of hydrogen bonding (average number of hydrogen bonds per molecule)."
+                    ],
+                    "guid": "C}N/4Ew3uQ",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ice, dimerisation and intramolecular hydrogen bonding",
+                        "Ice is less dense than water due to the highly ordered 3-dimensional arrangement of&nbsp;\\(H_2O\\)&nbsp;molecules, creating a very open structure and preventing molecules from getting too close to one another. The open structure occupies a larger volume and so ice is less dense than water.<br><br>Carboxylic acids exist as dimers in the vapour phase as two carboxylic acids are bonded by two hydrogen bonds. They also exist as dimers in non-polar solvents, but not in aqueous solution due to hydrogen bonding with water.<br><br>Intramolecular hydrogen bonding causes less sites to be available for hydrogen bonding with other molecules, and so intermolecular hydrogen bonding is less extensive and the bond becomes weaker.<br><br><img src=\"Screenshot 2024-06-12 at 09.21.18 PM.png\">"
+                    ],
+                    "guid": "F1%Sf!>wmo",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cases of dissolution (3)",
+                        "Simple molecules with the same type of intermolecular forces mix well.&nbsp;\\(I_2\\)&nbsp;and&nbsp;\\(C_6H_{14}\\)&nbsp;mix because solute-solvent interaction is id-id interactions, similar to solute-solute and solvent-solvent interactions.&nbsp;\\(I_2\\)&nbsp;and&nbsp;\\(H_2O\\)&nbsp;do not mix because solute-solvent interaction is id-id interactions, which are weaker than hydrogen bonding in water. Energy released in forming id-id interactions cannot compensate for hydrogen bond breaking in water.<br><br>Ionic solids tend to dissolve in water. Ions form strong ion-dipole interactions with the polar molecules, releasing energy that can compensate for energy required to overcome strong ionic bonds in the solid.<br><br>A chemical reactions occurs. For example,&nbsp;\\(HBr\\)&nbsp;reacts with&nbsp;\\(H_2O\\)&nbsp;to form&nbsp;\\(H_3O^+\\)&nbsp;and&nbsp;\\(Br^-\\)."
+                    ],
+                    "guid": "vgjb:yKFLj",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\sigma\\)&nbsp;bond and&nbsp;\\(\\pi\\)&nbsp;bond",
+                        "A&nbsp;\\(\\sigma\\)&nbsp;bond is formed when two orbitals overlap head-on, such that the electron density is concentrated between the nuclei and along the nuclear axis.<br><br>A&nbsp;\\(\\pi\\)&nbsp;bond is formed when two orbitals overlap side-to-side, such that electron cloud is above and below the nuclear axis but with zero electron density along the axis. This is weaker as side-to-side overlap has a lower degree of overlap.<br><br><img src=\"Screenshot 2024-06-12 at 09.37.30 PM.png\">"
+                    ],
+                    "guid": "J_-F!GQ5$J",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Covalent bond strength factors (3)",
+                        "Number of bonds between atoms (single vs double vs triple).<br>Effectiveness of overlap of the orbitals (more diffuse orbitals are less effective).<br>Differences in electronegativity of the bonding atoms."
+                    ],
+                    "guid": "GAU=Zy)@pW",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Covalent character and factors (2)",
+                        "The attraction of the cation for the valence shell electrons of the anion causes polarisation of the electron cloud, pulling it into the region between the two nuclei, resulting in some form of orbital overlap called covalent character.<br><br>The degree of covalent character depends on the polarising power of the cation (ability to polarise the anion, which depends on charge density) and the polarisability of the anion (ease of being polarised, which depends on its charge and size).<br><br>For example,&nbsp;\\(AlCl_3\\)&nbsp;is covalent due to high charge density of&nbsp;\\(Al^{3+}\\)&nbsp;and the sufficiently small difference in electronegativity between&nbsp;\\(Al\\)&nbsp;and&nbsp;\\(Cl\\)."
+                    ],
+                    "guid": "ru(e])#`SR",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "2ff66e58-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "04 Gaseous State",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3067ca30-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05a Chemical Energetics I",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "302dd186-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05b Chemical Energetics II",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "31a6db20-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-13 at 11.38.09 AM.png",
+                "Screenshot 2024-06-13 at 11.38.51 AM.png",
+                "Screenshot 2024-06-13 at 11.42.33 AM.png",
+                "Screenshot 2024-06-13 at 11.42.37 AM.png",
+                "Screenshot 2024-06-13 at 11.51.28 AM.png",
+                "Screenshot 2024-06-13 at 11.51.35 AM.png",
+                "Screenshot 2024-06-13 at 11.51.43 AM.png",
+                "Screenshot 2024-06-13 at 11.55.12 AM.png",
+                "Screenshot 2024-06-13 at 11.55.27 AM.png",
+                "Screenshot 2024-06-13 at 11.55.41 AM.png"
+            ],
+            "name": "06 Reaction Kinetics",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rate of reaction",
+                        "Rate of reaction can be defined as the change in concentration of a particular reactant or product per unit time.<br><br>For the reaction&nbsp;\\(aA+bB\\to cC+dD\\):<br>\\[Rate=-\\frac{1}{a}\\frac{d[A]}{dt}=-\\frac{1}{b}\\frac{d[B]}{dt}=-\\frac{1}{c}\\frac{d[C]}{dt}=-\\frac{1}{d}\\frac{d[D]}{dt}\\]<br>"
+                    ],
+                    "guid": "ME#KI+md_j",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rate of reaction factors (4)",
+                        "Physical states of the reactants. The more finely divided the solid reactant, the greater its surface area per unit volume, the greater the frequency of collision with other reactants, the faster the reaction.<br><br>Concentration of the reactants. As concentration of reactants/partial pressures of gaseous reactants increases, particles come closer together and frequency of (effective) collisions increases.<br><br>Temperature. By increasing temperature, the rate of a reaction increases significantly. Rate is approximately doubled for every 10K rise in temperature.<br><br>Catalyst. A catalyst provides an alternative reaction pathway with lower activation energy and increases the rate of reaction."
+                    ],
+                    "guid": "lc_z?l[H!x",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rate equation",
+                        "The rate equation for a reaction is a mathematical expression that relates the rate of reaction to the concentration of each reactant raised to the appropriate power.\\[Rate=k[A]^m[B]^n\\]"
+                    ],
+                    "guid": "eMWUBbFL0v",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Rate constant and (overall) order of reaction",
+                        "The rate constant is the constant of proportionality in the rate equation of the reaction.<br><br>The order of reaction with respect to a given reactant is the power to which the concentration of that reactant is raised in the rate equation. The overall order order of a reaction is the sum of the powers of the concentration terms in the rate equation."
+                    ],
+                    "guid": "fefl]jqqEq",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Half-life and first-order reaction",
+                        "The half-life of a reaction is the time taken for the concentration of a reactant to decrease to half its initial value.<br><br>For a first-order reaction, the half-life is constant at constant temperature and independent of the initial concentration of the reactant. It is given by:\\[t_{1/2}=\\frac{\\ln2}{k}\\]"
+                    ],
+                    "guid": "M7gM@~7+6$",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pseudo-order reactions (3)",
+                        "Presence of a large excess of a reactant. If initial concentration of a reactant is large relative to the other reactants, its concentration will hardly change during the reaction and its concentration can be considered effectively constant.<br><br>Reactant is also the solvent. The solvent is present in large excess and its concentration remains essentially constant throughout the reaction.<br><br>Presence of a catalyst. Catalyst is not consumed by the reaction, because it participates in the reaction but is regenerated."
+                    ],
+                    "guid": "k4Iv-d)]rf",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Single-step and multi-step reactions",
+                        "A single-step reaction is one that takes place in a single step and is termed an elementary reaction.<br><br>A multi-step reaction takes place by two or more steps. The different steps are likely to proceed at different rates. The rate of overall reaction depends on the rate of the rate-determining step (slowest step), it is the step with the highest activation energy."
+                    ],
+                    "guid": "EC*efkQjb_",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Collision theory and transition state theory",
+                        "Collision theory. Reactant particles must collide to react. They must collide in a favourable orientation to react. They must collide with a certain minimum amount of energy to react.<br><br>Transition state theory. Given a sufficiently energetic collision and a correct molecular orientation, the reactant species become an unstable transition state that exists at a potential energy maximum.<br><br><img src=\"Screenshot 2024-06-13 at 11.38.51 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.38.09 AM.png\">"
+                    ],
+                    "guid": "bFCS^QiMaq",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Maxwell-Boltzmann distribution curve, temperature and catalyst",
+                        "The Maxwell-Boltzmann distribution curve shows the distribution of kinetic energies of the molecules at a particular temperature.<br><br>When temperature increases, the average kinetic energy of reactant particles increases. Significantly more reactant particles have energy greater than or equal to the activation energy of the reaction. This results in increase in effective collision frequency and hence an increase in the rate of reaction.<br><br><img src=\"Screenshot 2024-06-13 at 11.42.33 AM.png\"><br><br>A catalyst provides an alternative reaction pathway of lower activation energy. Significantly more reactant particles have energy greater than or equal to the activation energy of the reaction. This results in increase in effective collision frequency and hence an increase in the rate of reaction.<br><br><img src=\"Screenshot 2024-06-13 at 11.42.37 AM.png\">"
+                    ],
+                    "guid": "oFY7a|!s9q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Homogenous catalyst, heterogenous catalyst and autocatalysis",
+                        "In homogeneous catalysis, the catalyst and the reactants are in the same phase, either liquid or gaseous. The catalyst is typically converted to an intermediate and subsequently undergoes reaction to yield the product and regenerate the catalyst.<br><br>In heterogeneous catalysis, the catalyst and the reactants are in different phases. The catalyst is usually in the solid phase while the reactants are usually liquids or gases. There is formation of weak bonds between the reactant molecules and the catalytic surface. The adsorption increases the reaction rate because it weakens the covalent bonds and increases the concentration of reactant molecules at the catalytic surface.<br><br>Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic."
+                    ],
+                    "guid": "nC/d>?JbLI",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Haber process and catalytic converter",
+                        "<img src=\"Screenshot 2024-06-13 at 11.51.28 AM.png\"><br><br><img src=\"Screenshot 2024-06-13 at 11.51.35 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.51.43 AM.png\">"
+                    ],
+                    "guid": "n,cK2k5|6p",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzymes and rate of enzyme-catalysed reaction factors (4)",
+                        "Enzymes are proteins which catalyse chemical reactions in living systems. They are globular proteins with active sites, and are very specific to a particular reaction or type of reaction. Enzymes become denatured and inactive when the temperature is too high and changes the 3D conformation of the active site.<br><br>Factors affecting the rate of enzyme-catalysed reactions are temperature, pH, concentration of enzyme and concentration of substrate.<br><br><img src=\"Screenshot 2024-06-13 at 11.55.12 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.55.27 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.55.41 AM.png\">"
+                    ],
+                    "guid": "i5GzQlC,3X",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3093c3a6-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "07 Chemical Equilibria",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3106d67a-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-12 at 09.58.57 PM.png",
+                "Screenshot 2024-06-12 at 10.10.40 PM.png"
+            ],
+            "name": "08 Chemical Bonding II",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Types of hybridisation (3)",
+                        "\\(sp^3\\)&nbsp;hybridisation (s, px, py, pz). This results in four equivalent orbitals, and a tetrahedral electron pair geometry. Examples are&nbsp;\\(CH_4\\),&nbsp;\\(CH_3CH_3\\),&nbsp;\\(NH_3\\)&nbsp;and&nbsp;\\(H_2O\\).<br><br>\\(sp^2\\)&nbsp;hybridisation (s, px, py). This results in three equivalent orbitals, and a trigonal planar electron pair geometry. Examples are&nbsp;\\(C_2H_4\\),&nbsp;\\(BF_3\\)&nbsp;and&nbsp;\\(HCHO\\).<br><br>\\(sp\\)&nbsp;hybridisation (s, py). This results in two equivalent orbitals, and a linear electron pair geometry. Examples are&nbsp;\\(C_2H_2\\),&nbsp;\\(BeF_2\\)&nbsp;and&nbsp;\\(CO_2\\).<br><br><img src=\"Screenshot 2024-06-12 at 09.58.57 PM.png\">"
+                    ],
+                    "guid": "M=NJGbdnA|",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effects of s-character",
+                        "\\(sp^3\\)&nbsp;(25% s character) &lt;&nbsp;\\(sp^2\\)&nbsp;(33% s character) &lt;&nbsp;\\(sp\\)&nbsp;(50% s character).<br><br>The higher the s-character, the less diffuse the hybrid orbital, the more tightly the shared electrons are held by the nuclei, the more effective its overlap with the other atom, the stronger the bond and the shorter its bond length."
+                    ],
+                    "guid": "LyfW69?m9q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Resonance",
+                        "A molecule on an ion exhibits resonance when there is continuous side-on overlap of p-orbitals over at least 3 adjacent atoms, allowing for delocalisation of the&nbsp;\\(\\pi\\)&nbsp;electrons. The resonance hybrid is more stable than the resonance structures because of the delocalisation of the&nbsp;\\(\\pi\\)&nbsp;electrons.<br><br>Examples are&nbsp;\\(O_3\\),&nbsp;\\(NO_3^-\\),&nbsp;\\(CO_3^{2-}\\),&nbsp;\\(CH_3COO^-\\)&nbsp;and&nbsp;\\(C_6H_6\\). In benzene, the six unhybridised p orbitals overlap side-on continuously, forming a plane of delocalised&nbsp;\\(\\pi\\)&nbsp;electron cloud above and below the plane of the benzene ring.<br><br><img src=\"Screenshot 2024-06-12 at 10.10.40 PM.png\">"
+                    ],
+                    "guid": "dvHY;X/Vu9",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "317c0a4e-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-14 at 10.39.59 AM.png",
+                "Screenshot 2024-06-14 at 10.40.06 AM.png",
+                "Screenshot 2024-06-14 at 10.41.40 AM.png",
+                "Screenshot 2024-06-14 at 10.45.21 AM.png",
+                "Screenshot 2024-06-14 at 10.46.31 AM.png",
+                "Screenshot 2024-06-14 at 10.50.06 AM.png",
+                "Screenshot 2024-06-14 at 10.53.05 AM.png",
+                "Screenshot 2024-06-14 at 11.14.31 AM.png",
+                "Screenshot 2024-06-14 at 11.45.27 AM.png",
+                "Screenshot 2024-06-14 at 11.46.54 AM.png",
+                "Screenshot 2024-06-14 at 11.51.06 AM.png",
+                "Screenshot 2024-06-14 at 11.51.15 AM.png",
+                "Screenshot 2024-06-14 at 11.53.06 AM.png",
+                "Screenshot 2024-06-14 at 11.53.46 AM.png"
+            ],
+            "name": "09 Organic Chemistry",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Organic compound stability (3)",
+                        "Lack of lone pairs of eletrons in the skeletal chains<br>Inability of carbon to expand its valence shell to accomodate more than 8 electrons<br>Presence of strong C-C and C-H bonds"
+                    ],
+                    "guid": "nk~4Wtn;z#",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aliphatic, alicyclic and aromatic",
+                        "Aliphatic hydrocarbons - open chains of C atoms<br>Alicyclic hydrocarbons - closed ring of C atoms<br>Aromatic hydrocarbons - contain benzene ring"
+                    ],
+                    "guid": "J(J#xnB@zU",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Functional group and homologous series",
+                        "A functional group is made up of an atom or group of atoms within the organic compound that is responsible for its characteristic chemical properties.<br><br>A homologous series is a family of compounds having the same functional group."
+                    ],
+                    "guid": "I$EhF_/{B}",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Classes of compounds (6)",
+                        "<img src=\"Screenshot 2024-06-14 at 10.39.59 AM.png\"><br><img src=\"Screenshot 2024-06-14 at 10.40.06 AM.png\">"
+                    ],
+                    "guid": "c0#:J?:.Ud",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Types of formula (6)",
+                        "<img src=\"Screenshot 2024-06-14 at 10.41.40 AM.png\">"
+                    ],
+                    "guid": "iXB)+a?wMP",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IUPAC suffix (9)",
+                        "<img src=\"Screenshot 2024-06-14 at 10.45.21 AM.png\">"
+                    ],
+                    "guid": "MIO|Su.r(9",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IUPAC root (10)",
+                        "<img src=\"Screenshot 2024-06-14 at 10.53.05 AM.png\">"
+                    ],
+                    "guid": "e,^j^MU9{J",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IUPAC prefix (17)",
+                        "<img src=\"Screenshot 2024-06-14 at 10.46.31 AM.png\">"
+                    ],
+                    "guid": "L6rFiBCz(L",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "IUPAC naming",
+                        "<img src=\"Screenshot 2024-06-14 at 10.50.06 AM.png\">"
+                    ],
+                    "guid": "vNm)JC>rj=",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Constitutional isomerism and types (3)",
+                        "Constitutional/structural isomers have the same molecular formula but different structural formula.<br><br>Chain isomers - different arrangement of C atoms<br>Positioning isomers - different positions of the same functional group<br>Functional group isomers - different functional groups"
+                    ],
+                    "guid": "isI`U[sQjj",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stereoisomerism and types (2)",
+                        "Stereoisomerism refers to the existence of two or more compounds with the same molecular formula and structural formula but different spatial arrangement of atoms.<br><br>Cis-trans isomerism - restricted rotation and two different groups attached to each C atom of C=C or C atoms in ring structure<br>Enantiomerism - non-superimposable mirror images and usually no plane of symmetry"
+                    ],
+                    "guid": "gtj2sTa3TY",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cis-trans isomerism and comparison",
+                        "Cis-trans isomerism must have restricted rotation about a bond either by the presence of a double bond (C=C, C=N or N=N) or a ring structure, and it must have two or more carbon atoms each having two different groups attached.<br><br>A cis-isomer has two identical groups on the same side, a trans-isomer has two identical groups on the opposite sides. They have similar chemical properties, but different physical properties."
+                    ],
+                    "guid": "n^eqze6^=h",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enantiomerism and comparison",
+                        "A compound displays enantiomerism if it forms non-superimposable mirror images. Such compounds are known as chiral compounds, which do not have a plane of symmetry and usually contains one or more chiral centres (\\(sp^3\\)&nbsp;hybridised&nbsp;carbon and have four different groups).<br><br>They have identical physical (except rotation of the plane of plane-polarised light) and chemical properties (except in their interaction with another chiral molecule), but different biological properties.<br><br><img src=\"Screenshot 2024-06-14 at 11.14.31 AM.png\">"
+                    ],
+                    "guid": "FMcE|-]?f$",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Optical activity and meso compound",
+                        "Optical activity<br><img src=\"Screenshot 2024-06-14 at 11.45.27 AM.png\"><br><br>A meso compound contains more than one chiral centre but has a plane of symmetry, has mirror images that are superimposable and is optically inactive.<br><img src=\"Screenshot 2024-06-14 at 11.46.54 AM.png\">"
+                    ],
+                    "guid": "e0?W,gsU4v",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Types of reaction (8)",
+                        "<img src=\"Screenshot 2024-06-14 at 11.51.06 AM.png\"><br><img src=\"Screenshot 2024-06-14 at 11.51.15 AM.png\">"
+                    ],
+                    "guid": "PdRlfOyDtF",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bond fission types (2)",
+                        "Homolytic fission. The breaking of a covalent bond such that one electron goes to each of the atoms, forming free radicals.<br><img src=\"Screenshot 2024-06-14 at 11.53.06 AM.png\"><br><br>Heterolytic fission. The breaking of a covalent bond such that both electrons go to the same atom, typically forming positive and negative ions.<br><img src=\"Screenshot 2024-06-14 at 11.53.46 AM.png\">"
+                    ],
+                    "guid": "A1pKDN4GG2",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3019aa08-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-14 at 12.03.09 PM.png",
+                "Screenshot 2024-06-14 at 12.06.54 PM.png",
+                "Screenshot 2024-06-14 at 12.07.04 PM.png",
+                "Screenshot 2024-06-14 at 12.09.48 PM.png",
+                "Screenshot 2024-06-14 at 12.09.59 PM.png",
+                "Screenshot 2024-06-14 at 12.12.01 PM.png",
+                "Screenshot 2024-06-14 at 12.13.04 PM.png",
+                "Screenshot 2024-06-14 at 12.19.03 PM.png"
+            ],
+            "name": "10 Alkanes",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degree of carbon and hydrogen atoms",
+                        "<img src=\"Screenshot 2024-06-14 at 12.03.09 PM.png\">"
+                    ],
+                    "guid": "Hf$`u|;|[_",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkane boiling and melting point",
+                        "The boiling and melting points increase with increasing number of carbon atoms. As the number of carbon atoms in alkanes increases, the number of electrons per alkane molecule increases and the size of electron cloud of the alkane molecule increases. As a result, the ease of polarisation of the electron cloud increases, leading to increasing strength of id-id attractive forces which require increasing energy to overcome.<br><br>The boiling and melting points decrease with increasing degree of branching. With branching, the molecules become more spherical and its surface area available for intermolecular interactions decreases. This reduces the extent of contact between neighbouring molecules, resulting in weaker id-id forces that require decreasing energy to overcome."
+                    ],
+                    "guid": "s^.,SI{U-h",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkane solubility",
+                        "Alkanes are essentially non-polar, so they are soluble in non-polar solvents and insoluble in water and other highly polar solvents."
+                    ],
+                    "guid": "tcx3`&>X1(",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkane preparation (2)",
+                        "<img src=\"Screenshot 2024-06-14 at 12.06.54 PM.png\"><br><img src=\"Screenshot 2024-06-14 at 12.07.04 PM.png\">"
+                    ],
+                    "guid": "BDCixZ(tGe",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkane reactivity",
+                        "The general lack of reactivity can be attributed to being non-polar (do not contain any region of high electron density to attract electrophiles, do not contain any electron-deficient sites to attract nucleophiles), and having relatively strong C-C and C-H bonds which do not break under normal conditions."
+                    ],
+                    "guid": "fmNJ*[k;JS",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkane combustion and halogenation",
+                        "Combustion<br><img src=\"Screenshot 2024-06-14 at 12.09.48 PM.png\"><br><br>Halogenation<br><img src=\"Screenshot 2024-06-14 at 12.09.59 PM.png\">"
+                    ],
+                    "guid": "A,[-,OW9oB",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Free radical and stability",
+                        "Free radical contains an unpaired electron and is electrically neutral. They are highly reactive and are intermediates of many reactions of alkanes.<br><br>The carbon with the unpaired electron is electron-deficient. As alkyl groups are electron-donating, the more alkyl groups attached to the carbon with the unpaired electron, the more stable the alkyl radical.<br><img src=\"Screenshot 2024-06-14 at 12.12.01 PM.png\">"
+                    ],
+                    "guid": "by^1<PXuHs",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Free-radical substitution",
+                        "<img src=\"Screenshot 2024-06-14 at 12.13.04 PM.png\">"
+                    ],
+                    "guid": "pTgr6G){Jm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Natural gas, crude oil and processes",
+                        "Natural gas contains mainly methane with smaller amounts of the other gaseous alkanes such as ethane, propane and butane.<br><br>Crude oil (or petroleum) is a complex mixture of hydrocarbons consisting of alkanes, cycloalkanes and aromatic compounds. The hydrocarbons can be separated by fractional distillation, or further converted through processes.<br><img src=\"Screenshot 2024-06-14 at 12.19.03 PM.png\">"
+                    ],
+                    "guid": "k@rpE0~ooB",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "30cb58ca-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-14 at 02.25.40 PM.png",
+                "Screenshot 2024-06-14 at 02.30.27 PM.png",
+                "Screenshot 2024-06-14 at 02.30.37 PM.png",
+                "Screenshot 2024-06-14 at 02.31.12 PM.png",
+                "Screenshot 2024-06-14 at 02.37.50 PM.png",
+                "Screenshot 2024-06-14 at 02.42.12 PM.png",
+                "Screenshot 2024-06-14 at 02.43.37 PM.png",
+                "Screenshot 2024-06-14 at 02.46.13 PM.png",
+                "Screenshot 2024-06-14 at 02.46.46 PM.png",
+                "Screenshot 2024-06-14 at 02.47.43 PM.png",
+                "Screenshot 2024-06-14 at 02.48.51 PM.png",
+                "Screenshot 2024-06-14 at 02.50.00 PM.png",
+                "Screenshot 2024-06-14 at 02.51.52 PM.png",
+                "Screenshot 2024-06-14 at 02.54.05 PM.png",
+                "Screenshot 2024-06-14 at 02.54.58 PM.png",
+                "Screenshot 2024-06-14 at 02.55.12 PM.png",
+                "Screenshot 2024-06-14 at 02.56.48 PM.png"
+            ],
+            "name": "11 Alkenes",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cis-trans stability and boiling/melting point",
+                        "A cis alkene is less stable than its steroisomeric trans alkene because of steric strain (due to repulsion between electron clouds) arising from crowding between two alkyl groups in this cis isomer.<br><br>Compared to the trans-isomer, a cis-isomer has higher boiling point because of its slightly higher polarity, and it also has a lower melting point because it fits into a crystalline lattice more poorly."
+                    ],
+                    "guid": "bTUI)]VLa/",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrophile",
+                        "An electrophile is an electron-pair acceptor which is attracted to an electron-rich site. An electrophile is electron-deficient and may be species with a positive (partial) charge or an incomplete octet."
+                    ],
+                    "guid": "o.EooA93ax",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrophilic addition",
+                        "<img src=\"Screenshot 2024-06-14 at 02.25.40 PM.png\">"
+                    ],
+                    "guid": "QY2N-I3F1&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene reactivity",
+                        "Alkenes are highly reactive due to the presence of the electron-rich C=C bond. It acts as a source of electrons for many reactions, the&nbsp;\\(\\pi\\)&nbsp;bond is easily broken and alkene can undergo addition reactions."
+                    ],
+                    "guid": "n%I,]}B`J.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene preparation (2)",
+                        "<img src=\"Screenshot 2024-06-14 at 02.30.27 PM.png\"><br><img src=\"Screenshot 2024-06-14 at 02.30.37 PM.png\">"
+                    ],
+                    "guid": "lZ!Vx{{Zom",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene electrophilic addition of hydrogen halides",
+                        "<img src=\"Screenshot 2024-06-14 at 02.37.50 PM.png\"><br><br>Dry gaseous hydrogen halides must be used to prevent the formation of alcohols."
+                    ],
+                    "guid": "ipEQIFM3ds",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbocation, types and stability",
+                        "A carbocation is an ion with a positively charged carbon. It is extremely reactive and has a strong tendency to accept a pair of electrons.<br><br><img src=\"Screenshot 2024-06-14 at 02.42.12 PM.png\"><br><br><img src=\"Screenshot 2024-06-14 at 02.43.37 PM.png\">"
+                    ],
+                    "guid": "owIN_mNh9O",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Markovnikov's rule",
+                        "In the addition of a hydrogen halide (HX) to the C=C bond of an unsymmetrical alkene, the major product is the one in which the hydrogen (H) atom of HX attaches itself to the doubly-bonded carbon atom already bonded with the greater number of hydrogen atoms.<br><br>Explanation: In an electrophilic addition reaction, the electrophile adds to an unsymmetrical alkene to produce the more stable carbocation intermediate. Being formed faster in the slow step, the more stable carbocation is more available to participate in the fast step to give the major product."
+                    ],
+                    "guid": "sIb~p#Xz,x",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene electrophilic addition of water/steam",
+                        "Water (electrophilic addition, hydrolysis)<br><img src=\"Screenshot 2024-06-14 at 02.46.13 PM.png\"><br><br>Steam (electrophilic addition)<br><img src=\"Screenshot 2024-06-14 at 02.46.46 PM.png\">"
+                    ],
+                    "guid": "s,i9-ay`XS",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene electrophilic addition of halogens (in&nbsp;\\(CCl_4\\))",
+                        "<img src=\"Screenshot 2024-06-14 at 02.47.43 PM.png\">"
+                    ],
+                    "guid": "nuPR3{[ge%",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene electrophilic addition of halogens (in&nbsp;\\(H_2O\\))",
+                        "<img src=\"Screenshot 2024-06-14 at 02.48.51 PM.png\">"
+                    ],
+                    "guid": "k.`=?as[Jn",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene mild oxidation (2)",
+                        "This reaction occurs without complete cleavage of the C=C bond. Dilute sulfuric acid can be used in place of sodium hydroxide, for decolourisation of the purple potassium managanate(VII).<br><br><img src=\"Screenshot 2024-06-14 at 02.50.00 PM.png\">"
+                    ],
+                    "guid": "c<[W1vJV.=",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene strong oxidation (2)",
+                        "This reaction occurs with complete cleavage of the C=C bond.<br><br><img src=\"Screenshot 2024-06-14 at 02.51.52 PM.png\"><br><br><img src=\"Screenshot 2024-06-14 at 02.54.05 PM.png\">"
+                    ],
+                    "guid": "h)i)fMGO8s",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkene reduction, combustion, and addition polymerisation",
+                        "Reduction<br><img src=\"Screenshot 2024-06-14 at 02.54.58 PM.png\"><br><br>Combustion<br><img src=\"Screenshot 2024-06-14 at 02.55.12 PM.png\"><br><br>Addition polymerisation<br><img src=\"Screenshot 2024-06-14 at 02.56.48 PM.png\">"
+                    ],
+                    "guid": "sqKoCwn$pn",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Saytzeff's rule",
+                        "For elimination reactions of alcohols or halogenoalkanes to alkenes, the preferred product is the alkene with the greater number of alkyl groups attached to the doubly-bonded carbon atoms i.e. the more substituted alkene.<br><br><img src=\"Screenshot 2024-06-14 at 02.31.12 PM.png\">"
+                    ],
+                    "guid": "d{t//|.H:%",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "313e34d0-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-13 at 10.38.01 AM.png",
+                "Screenshot 2024-06-13 at 10.40.08 AM.png",
+                "Screenshot 2024-06-13 at 10.40.37 AM.png",
+                "Screenshot 2024-06-13 at 10.43.17 AM.png",
+                "Screenshot 2024-06-13 at 10.44.38 AM.png",
+                "Screenshot 2024-06-13 at 10.45.52 AM.png",
+                "Screenshot 2024-06-13 at 10.46.24 AM.png",
+                "Screenshot 2024-06-13 at 10.46.46 AM.png"
+            ],
+            "name": "12 The Periodic Table I",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3&nbsp;variation of melting point",
+                        "Sodium, magnesium and aluminium have metallic structures where strong metallic bonds exist between positive metal ions and sea of delocalised electrons. Bond strength increases with increasing number of delocalised valence electrons, increasing charge and decreasing cationic size (increasing charge density). Energy required to break stronger metallic bonds increases.<br><br>Silicon has a giant molecular structure where strong covalent bonds exist between Si atoms, so large amount of energy is required to break Si-Si bonds.<br><br>Phosphorus, sulfur and chloride have simple molecular structures where relatively weak instantaneous dipole-induced dipole interactions exist between molecules. Strength of interactions increases with increasing size of electron cloud, so energy required to overcome increases (\\(Cl_2&lt;P_4&lt;S_8\\)).<br><br><img src=\"Screenshot 2024-06-13 at 10.38.01 AM.png\">"
+                    ],
+                    "guid": "vJKxE#+<?f",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3 variation of electrical conductivity",
+                        "Sodium, magnesium and aluminium have metallic structures where strong metallic bonds exist between positive metal ions and sea of delocalised electrons. They are good conductors due to the presence of delocalised electrons acting as mobile charge carriers. Electrical conductivity increases with increasing number of delocalised valence electrons.<br><br>Silicon has a giant molecular structure where strong covalent bonds exist between Si atoms. It is a metalloid with poor electrical conductivity.<br><br>Phosphorus, sulfur and chloride have simple molecular structures. They are non-conductors of electricity due to the absence of mobile charge carriers.<br><br><img src=\"Screenshot 2024-06-13 at 10.40.08 AM.png\">"
+                    ],
+                    "guid": "k_w.j>@W)(",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3 with oxygen, chlorine and water",
+                        "<img src=\"Screenshot 2024-06-13 at 10.40.37 AM.png\">"
+                    ],
+                    "guid": "Ia622.Juky",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3 oxides",
+                        "<img src=\"Screenshot 2024-06-13 at 10.43.17 AM.png\">"
+                    ],
+                    "guid": "Hka7DGM8v3",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3 oxides with water",
+                        "<img src=\"Screenshot 2024-06-13 at 10.44.38 AM.png\">"
+                    ],
+                    "guid": "L]g4$V+F!&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3 oxides acid-base nature",
+                        "<img src=\"Screenshot 2024-06-13 at 10.45.52 AM.png\">"
+                    ],
+                    "guid": "spAb_dtAff",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3 chlorides",
+                        "<img src=\"Screenshot 2024-06-13 at 10.46.24 AM.png\">"
+                    ],
+                    "guid": "Nl?%S$&E){",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period 3 chlorides with water",
+                        "<img src=\"Screenshot 2024-06-13 at 10.46.46 AM.png\">"
+                    ],
+                    "guid": "b*vX(X#P*h",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hydrolysis,&nbsp;\\(SiCl_4\\)&nbsp;and&nbsp;\\(CCl_4\\)",
+                        "Cations with high charge density and hence high polarising power are able to distort the electron cloud of the water molecules, weakening the O-H bond. The O-H bond undergoes heterolytic fission readily to release&nbsp;\\(H^+\\). The stronger the polarising power of the cation, the greater the extent of hydrolysis.<br><br>\\(SiCl_4\\)&nbsp;can undergo hydrolysis because the silicon atom is larger in size than the carbon atom and there is less steric hindrance around the silicon atom for the water molecule to attack, and because silicon has empty, low-lying 3d orbitals to accept the lone pair of electrons from water.<br><br>\\(CCl_4\\)&nbsp;cannot undergo hydrolysis as the electron deficient carbon is attached to four large chlorine atoms which hinder the approach of the water nucleophile, and because carbon has no low-lying empty orbitals to accept the lone pair of electrons from water."
+                    ],
+                    "guid": "CvBbLf5u=`",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3151d7a6-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-13 at 04.27.19 PM.png",
+                "Screenshot 2024-06-13 at 04.28.22 PM.png",
+                "Screenshot 2024-06-13 at 04.28.55 PM.png"
+            ],
+            "name": "13 The Periodic Table II",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 2 reactivity",
+                        "The reactivity of group 2 elements increases down the group as the ease of elements losing electrons increases down the group. This can be explained by the sum of first and second ionisation energies decreasing, or by reducing power (and hence reactivity) increasing down the group as reflected by more negative&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;values."
+                    ],
+                    "guid": "x,vidhM8ZN",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 2 carbonates thermal stability",
+                        "Thermal stability increases down the group. Down the group, cationic radius increases, resulting in lower charge density and weaker polarising power of the cations. Consequently, there is decreasing extent of distortion of the electron cloud of the&nbsp;\\(CO_3^{2-}\\)&nbsp;anion and hence decreasing extent of weakening of covalent bonds within the&nbsp;\\(CO_3^{2-}\\)&nbsp;anion. More heat energy is required to break the covalent bonds within the&nbsp;\\(CO_3^{2-}\\)&nbsp;anion, causing the decomposition temperature to increase."
+                    ],
+                    "guid": "n~$2zuG[bl",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 17 bond dissociation energy",
+                        "Bond dissociation energy decreases down the group as there is less effective orbital overlap between the bonding orbitals (as atomic size increases and valence orbitals become more diffuse). Hence, halogen-halogen bond becomes weaker down the group.<br><br>The exception is the F-F bond which is not as strong as expected. This is due to the small atomic size of the fluorine atom, with great repulsion between the lone pair of electrons on the two fluorine atoms, weakening the bond."
+                    ],
+                    "guid": "H.h2bAES8l",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 17 reactivity",
+                        "The reactivity of group 17 elements decreases down the group as the ease of elements gaining electrons decreases down the group. This can be explained by oxidising power (and hence reactivity) decreasing down the group as reflected by less positive  \\(E^{\\circ\\kern-0.65em-}\\)&nbsp;values."
+                    ],
+                    "guid": "u}P60Rm^l*",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 17 displacement",
+                        "<img src=\"Screenshot 2024-06-13 at 04.27.19 PM.png\">"
+                    ],
+                    "guid": "I@>MUw!R*F",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 17 with thiosulfate",
+                        "<img src=\"Screenshot 2024-06-13 at 04.28.22 PM.png\">"
+                    ],
+                    "guid": "Ol7/8l4OWH",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 17 with iron (2)",
+                        "<img src=\"Screenshot 2024-06-13 at 04.28.55 PM.png\">"
+                    ],
+                    "guid": "Ip0%cQle+@",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 17 hydrogen halides thermal stabiity",
+                        "Thermal stability decreases down the group. Thermal stability is related to the H-X bond strength, which decreases down the group.<br><br>Down the group, there is less effective orbital overlap between the 1s orbital of hydrogen and the valence p orbital of the halogen (as size gets bigger and the valence orbital is more diffuse). Electronegativity difference between the hydrogen and the halogen also decreases, hence decreasing bond polarity."
+                    ],
+                    "guid": "qaYzP1YiRV",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "306d38b2-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-14 at 09.19.27 PM.png",
+                "Screenshot 2024-06-14 at 09.21.26 PM.png",
+                "Screenshot 2024-06-14 at 09.22.20 PM.png",
+                "Screenshot 2024-06-14 at 09.33.13 PM.png",
+                "Screenshot 2024-06-14 at 09.33.34 PM.png",
+                "Screenshot 2024-06-14 at 09.35.55 PM.png"
+            ],
+            "name": "14 Arenes",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benzene structure",
+                        "Benzene has a structure in which the six&nbsp;\\(\\pi\\)&nbsp;electrons are delocalised, giving it extra stability and its aromatic character. The majority of reactions benzene undergoes involve substitution in the ring, to retain the delocalisation of the six&nbsp;\\(\\pi\\)&nbsp;electrons in the continuously overlapping p-orbitals and its aromatic character."
+                    ],
+                    "guid": "bhz=Aq^,tx",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrophilic substitution",
+                        "<img src=\"Screenshot 2024-06-14 at 09.19.27 PM.png\">"
+                    ],
+                    "guid": "L-av}Rb,S~",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benzene electrophilic substitution (4)",
+                        "<img src=\"Screenshot 2024-06-14 at 09.21.26 PM.png\"><br><img src=\"Screenshot 2024-06-14 at 09.22.20 PM.png\">"
+                    ],
+                    "guid": "j@@gob:Bjz",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Activating and deactivating group (2)",
+                        "An activating group is electron-donating. It increases the electron density in the benzene ring and makes the ring more susceptible to electrophilic attack (more reactive), and it helps to disperse the positive charge in the intermediate carbocation and stabilise the carbocation.<br><br>A deactivating group is electron-withdrawing. It decreases the electron density in the benzene ring and makes the ring less susceptible to electrophilic attack (less reactive), and it tends to intensify the positive charge in the intermediate carbocation and destabilise the carbocation."
+                    ],
+                    "guid": "v1{m0~LC;b",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inductive and resonance effect",
+                        "An inductive effect is the donation or withdrawal of electrons through&nbsp;\\(\\sigma\\)&nbsp;bonds due to the electronegativity difference between atoms.<br><br>A resonance effect is the donation or withdrawal of electrons through&nbsp;\\(\\pi\\)&nbsp;bonds due to the continuous side-on p-orbital overlap of the substituent and the benzene ring. This results in delocalisation of electrons, either towards or away from the benzene ring."
+                    ],
+                    "guid": "Mw|{(EEfrm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2,4-directing and 3-directing groups",
+                        "A 2,4-directing group causes an electrophile to attack chiefly at 2-position and 4-position relative to it.<br><br>A 3-directing group causes an electrophile to attack chiefly at 3-position relative to it."
+                    ],
+                    "guid": "HA-/Ch47Z*",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benzene combustion and reduction",
+                        "Combustion<br><img src=\"Screenshot 2024-06-14 at 09.33.13 PM.png\"><br><br>Reduction<br><img src=\"Screenshot 2024-06-14 at 09.33.34 PM.png\">"
+                    ],
+                    "guid": "tD%}_TCJ:f",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alkylbenzene oxidation (3)",
+                        "Alkylbenzenes with a hydrogen or oxygen atom bonded to the benzylic carbon atom can undergo oxidation.<br><br><img src=\"Screenshot 2024-06-14 at 09.35.55 PM.png\">"
+                    ],
+                    "guid": "s@lF;Ap!A]",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "310d7f3e-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-13 at 05.14.35 PM.png",
+                "Screenshot 2024-06-13 at 05.32.01 PM.png",
+                "Screenshot 2024-06-13 at 05.46.33 PM.png",
+                "Screenshot 2024-06-13 at 05.49.40 PM.png"
+            ],
+            "name": "15 Acid-Base Equilibria",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arrhenius, Bronsted-Lowry and Lewis theories",
+                        "By Arrhenius theory, an acid releases&nbsp;\\(H^+\\)&nbsp;ions in aqueous solution and a base releases&nbsp;\\(OH^-\\)&nbsp;ions in aqueous solution.<br><br>By Bronsted-Lowry theory, an acid is a proton donor and a base is a proton acceptor.<br><br>By Lewis theory, an acid is an electron-pair acceptor and a base is an electron-pair donnor."
+                    ],
+                    "guid": "nk+QFzBj>X",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "pH, pOH and&nbsp;\\(K_w\\)/\\(pK_w\\)",
+                        "The ionic product of water is&nbsp;\\(K_w=[H^+][OH^-]\\).<br>\\[pH=-\\lg[H^+],\\ pOH=-\\lg[OH^-]\\]\\[pK_w=-\\lg[K_w]=pH+pOH\\]&nbsp;\\[K_w=1.0*10^{-14},\\ pK_w=14\\ (at\\ 25^\\circ C)\\]<br>"
+                    ],
+                    "guid": "qeRs/fdsF8",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acid and base dissociation constant, formulas",
+                        "Acid dissociation constant is a measure of the strength of the acid. The value is dependent on temperature, but does not vary with concentration.\\[K_a=\\frac{[H^+][A^-]}{[HA]},\\ pK_a=-\\lg K_a\\]<br>Base dissociation constant is a measure of the strength of the base. The value is dependent on temperature, but does not vary with concentration.\\[K_b=\\frac{[BH^+][OH^-]}{[B]},\\ pK_b=-\\lg K_b\\]<br>Useful formulas for weak acids/bases:\\[[H^+]=\\sqrt{K_a[HA]_{initial}}\\]\\[[OH^-]=\\sqrt{K_b[B]_{initial}}\\]<br>"
+                    ],
+                    "guid": "os[kWjv.AQ",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Conjugate acid-base pair and relationship",
+                        "<img src=\"Screenshot 2024-06-13 at 05.14.35 PM.png\"><br><br>The stronger the acidity of the acid, the weaker the basicity its conjugate base, as noted from the relationship:\\[K_w=K_aK_b,\\ pK_w=pK_a+pK_b\\]<br>"
+                    ],
+                    "guid": "mHYZKI4W2&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Salt and types of salt solution",
+                        "A salt is defined as a compound formed by the reaction of an acid and a base.<br><br><img src=\"Screenshot 2024-06-13 at 05.32.01 PM.png\">"
+                    ],
+                    "guid": "NfxZqZARUS",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Buffer solution, acidic and alkaline",
+                        "A buffer solution is a solution which is able to resist pH changes when a small amount of an acid or a base is added.<br><br>Acidic buffer consists of a mixture of a weak acid and its conjugate base. Alkaline buffer consists of a mixture of a weak base and its conjugate acid."
+                    ],
+                    "guid": "u!xekfn<&%",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Henderson-Hasselbalch equation",
+                        "This equation can be used to calculate the pH of a buffer solution, how much acid/salt is needed to make a buffer solution of required pH, and the effect on the pH of a buffer solution when a small amount of acid/base is added.<br>\\[pH=pK_a+\\lg(\\frac{[A^-]}{[HA]})\\]\\[pOH=pK_b+\\lg(\\frac{[BH^+]}{[B]})\\]<br>"
+                    ],
+                    "guid": "GhNidgp~kR",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Buffer capacity, maximum buffer capacity, effective buffer range",
+                        "The buffer capacity of a buffer is a measure of its ability to resist pH change.<br><br>A buffer has maximum buffer capacity when&nbsp;\\(\\frac{[A^-]}{[HA]}=1\\)&nbsp;or&nbsp;\\(pH=pK_a\\)&nbsp;for an acidic buffer, or when&nbsp;\\(\\frac{[BH^+]}{[B]}=1\\)&nbsp;or&nbsp;\\(pOH=pK_b\\)&nbsp;for an alkaline buffer.<br><br>Effective buffer range is the pH range over which the buffer acts effectively in keeping pH approximately constant. For an acidic buffer, the effective buffer range is&nbsp;\\(pK_a\\pm1\\)."
+                    ],
+                    "guid": "o8OIaKqzu_",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Blood as a biological buffer",
+                        "<img src=\"Screenshot 2024-06-13 at 05.46.33 PM.png\">"
+                    ],
+                    "guid": "B.q5*z`MPb",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Equivalent point and end-point",
+                        "In titration, the equivalence point is the stage reached when the amount of acid needed to react with the amount of base is precisely that required by the stoichiometric equation, and it marks the completion of the titration.<br><br>The completion of an acid-base titration can be detected by a distinct colour change brought about by a suitable indicator. The point during titration at which this colour change occurs is called the end-point of the titration."
+                    ],
+                    "guid": "Ar~#^:*~MV",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Indicators (6)",
+                        "A suitable indicator is one where its pH range coincides with the region of rapid pH change of the titration curve.<br><br><img src=\"Screenshot 2024-06-13 at 05.49.40 PM.png\">"
+                    ],
+                    "guid": "CfPbJD-e$8",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "308d5c96-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-13 at 09.32.27 PM.png"
+            ],
+            "name": "16 Solubility Equilibria",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Solubility and saturated solution",
+                        "The maximum amount of solute which can dissolve in a given amount of solvent at a particular temperature is called the solubility of that solvent.<br><br>A solution containing the maximum amount of solute that can be dissolved in the given amount of solvent is called the saturated solution. For sparing soluble salts, the ions are in dynamic equilibrium with the excess undissolved solid, and dissolution and precipitation occurs at the same rate."
+                    ],
+                    "guid": "rn}|rJcwtm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Solubility product",
+                        "The solubility product is given by (concentration is in saturated solution of a sparing soluble salt):\\[K_{sp}\\ of\\ M_aX_{b(s)}=[M^{b+}]^a[X^{a-}]^b\\]<br>The solubility product can give a direct comparison of the solubility of two salts only if the total number of ions per unit formula of the compound is the same in both cases. In this case, the higher the&nbsp;\\(K_{sp}\\)&nbsp;value, the higher the solubility of the ionic compound.<br>"
+                    ],
+                    "guid": "yWgeMaCFKQ",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionic product",
+                        "The ionic product is the product of the concentration of the constituent ions in the solution at that instant raised to the powers of the stochiometric coefficients.\\[\\text{Ionic product}=[M^{b+}]^a[X^{a-}]^b\\]&nbsp;<br><img src=\"Screenshot 2024-06-13 at 09.32.27 PM.png\"><br>"
+                    ],
+                    "guid": "h`e[+wX0_v",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Common ion effect",
+                        "The common ion effect refers to the reduced solubility of a salt in a solution that already contains an ion common to the salt. This can be explained using Le Chatelier's principe."
+                    ],
+                    "guid": "OE4rD=tzB)",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Complex ion",
+                        "A complex ion contains a central metal ion linked to one or more surrounding ions or molecules by dative bonds. Solubility of a sparing soluble salt is increased if a reagent added reacts with one of its constituent ions to form a complex ion."
+                    ],
+                    "guid": "N{QE^7Eki@",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effect of pH on solubility",
+                        "For a sparingly soluble salt containing the conjugate base of a weak acid, the solubility of the salt in an aqueous solution is often increased when a strong acid is added. This can be explained using Le Chatelier's principle."
+                    ],
+                    "guid": "r(7Z%TTD^R",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "2ffddf62-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-14 at 09.51.35 PM.png",
+                "Screenshot 2024-06-14 at 09.57.21 PM.png",
+                "Screenshot 2024-06-14 at 09.57.38 PM.png",
+                "Screenshot 2024-06-14 at 09.58.09 PM.png",
+                "Screenshot 2024-06-15 at 09.19.45 AM.png",
+                "Screenshot 2024-06-15 at 09.26.53 AM.png",
+                "Screenshot 2024-06-15 at 09.29.48 AM.png",
+                "Screenshot 2024-06-15 at 09.32.58 AM.png",
+                "Screenshot 2024-06-15 at 09.35.38 AM.png",
+                "Screenshot 2024-06-15 at 09.36.57 AM.png",
+                "Screenshot 2024-06-15 at 09.38.35 AM.png",
+                "Screenshot 2024-06-15 at 09.39.11 AM.png",
+                "Screenshot 2024-06-15 at 09.39.20 AM.png",
+                "Screenshot 2024-06-15 at 09.42.31 AM.png",
+                "Screenshot 2024-06-15 at 09.42.46 AM.png",
+                "Screenshot 2024-06-15 at 09.50.57 AM.png",
+                "Screenshot 2024-06-22 at 08.09.16 PM.png"
+            ],
+            "name": "17 Halogen Derivatives",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoalkane types (3)",
+                        "<img src=\"Screenshot 2024-06-14 at 09.51.35 PM.png\">"
+                    ],
+                    "guid": "s)WkrW|xJ/",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoalkane boiling point",
+                        "The boiling point of halogenoalkane is higher than the corresponding alkane due to being polar compounds, containing polar C-X bonds.<br><br>For halogenoalkane RX with the same R/X, the boiling point increases as the size of X/R increases due to larger and more polarisable electron cloud as the number of electrons per molecule increases, causing increase in strength of id-id interactions."
+                    ],
+                    "guid": "l#utx1+dG%",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoalkane solubility",
+                        "Halogenoalkane have poor solubility in water because they are not able to interact with water molecules via hydrogen bonding. They are soluble in organic solvents such as hexane."
+                    ],
+                    "guid": "fQJ/(Ox}Ak",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoalkane preparation (3)",
+                        "<img src=\"Screenshot 2024-06-14 at 09.57.21 PM.png\"><br><br><img src=\"Screenshot 2024-06-14 at 09.57.38 PM.png\"><br><img src=\"Screenshot 2024-06-14 at 09.58.09 PM.png\"><br><br><img src=\"Screenshot 2024-06-22 at 08.09.16 PM.png\">"
+                    ],
+                    "guid": "vY|9GW.>c,",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nucleophile",
+                        "A nucleophile is a species that is able to donate an electron pair to an electron-deficient atom to form a covalent bond.<br><br>Nucleophilic substitution may occur via the&nbsp;\\(S_N2\\)&nbsp;mechanism or the&nbsp;\\(S_N1\\)&nbsp;mechanism."
+                    ],
+                    "guid": "gI)pw-zA!c",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(S_N2\\)&nbsp;mechanism",
+                        "A second-order, bimolecular reaction. One enantiomeric form of product and optically active.\\[Rate=k[RX][:Nu^-]\\]<br><img src=\"Screenshot 2024-06-15 at 09.19.45 AM.png\"><br>"
+                    ],
+                    "guid": "pq%g5jc0f~",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(S_N2\\)&nbsp;mechanism reactivity factors (2)",
+                        "Strength of carbon-halogen bonds. The reaction involves the heterolytic fission of the C-X bond, so the weaker the C-X bond, the faster the rate of reaction.<br><br>Steric effect of R group. The nucleophile must approach the halogenoalkane molecule and attack the electron-deficient carbon atom from the backside, and this is hindered by alkyl substituents bonded to the carbon atom. Hence, the mechanism is favoured by less steric hindrance around the carbon atom.<br><br><img src=\"Screenshot 2024-06-15 at 09.26.53 AM.png\">"
+                    ],
+                    "guid": "ec(zl!Pcu?",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(S_N1\\)&nbsp;mechanism",
+                        "A first-order, unimolecular reaction. Racemic mixture and optically inactive.\\[Rate=k[RX]\\]<br><img src=\"Screenshot 2024-06-15 at 09.29.48 AM.png\"><br>"
+                    ],
+                    "guid": "LmnGRai@Y=",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(S_N1\\)&nbsp;mechanism reactivity factors (2)",
+                        "Strength of the carbon-halogen bond. The rate-determining step of the reaction involves the cleavage of the C-X bond, so the weaker the C-X bond, the faster the rate of the reaction.<br><br>Stability of carbocation. The rate of reaction increases as the stability of the carbocation increases. This is because a more stable carbocation is formed faster due to a lower activation energy.<br><br><img src=\"Screenshot 2024-06-15 at 09.32.58 AM.png\">"
+                    ],
+                    "guid": "qrfLMrfeNm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(S_N2\\)&nbsp;or&nbsp;\\(S_N1\\)&nbsp;mechanism",
+                        "<img src=\"Screenshot 2024-06-15 at 09.35.38 AM.png\"><br><br>Special case<br><img src=\"Screenshot 2024-06-15 at 09.36.57 AM.png\">"
+                    ],
+                    "guid": "w2D.|gmaZ(",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoalkane nucleophilic substitution (3)",
+                        "<img src=\"Screenshot 2024-06-15 at 09.38.35 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 09.39.11 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 09.39.20 AM.png\">"
+                    ],
+                    "guid": "v`^#P{f94L",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoalkane elimination",
+                        "<img src=\"Screenshot 2024-06-15 at 09.42.31 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 09.42.46 AM.png\">"
+                    ],
+                    "guid": "yYoprEVDT8",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoarene nucleophilic substitution unreactivity (2)",
+                        "Partial double bond character in the carbon-halogen bond. The p orbital containing the lone pair of electrons on the halogen atom overlaps with the&nbsp;\\(\\pi\\)&nbsp;electron cloud of the benzene ring, allowing the lone pair of electron in the p orbital of the halogen atom to delocalise into the&nbsp;\\(\\pi\\)&nbsp;electron cloud, creating a partial double bond character in the C-X bond and strengthening the bond.<br><br>Steric hindrance due to benzene ring. A halogenoarene cannot react via the&nbsp;\\(S_N2\\)&nbsp;mechanism as backside attack is blocked by the benzene ring (\\(\\pi\\)&nbsp;electron cloud will repel the lone pair of electrons of incoming nucleophile), and it cannot react via the&nbsp;\\(S_N1\\)&nbsp;mechanism because it is not able to form a stable carbocation."
+                    ],
+                    "guid": "HaA~y&LnZ&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Halogenoalkane distinguishing test",
+                        "<img src=\"Screenshot 2024-06-15 at 09.50.57 AM.png\">"
+                    ],
+                    "guid": "Bs6h0T|@1r",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chlorofluorocarbons and ozone layer",
+                        "Chlorofluorocarbons or CFCs are halogenoalkanes that contain only chlorine, fluorine and carbon. They are stable and chemically unreactive, have low toxicity, is non-flammable, odourless, volatile, and easily liquefy under pressure.<br><br>The ozone layer above the Earth's surface absorb short wavelength of ultraviolet light very strongly to prevent harmful effects of the ultraviolet radiation against living organisms. CFCs react with ozone molecules after exposure to ultraviolet radiation to produce chlorine radicals, and causes depletion of the ozone layer in the upper atmosphere."
+                    ],
+                    "guid": "E+u$qAV>[1",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "304222e4-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-15 at 09.59.31 AM.png",
+                "Screenshot 2024-06-15 at 10.17.36 AM.png",
+                "Screenshot 2024-06-15 at 10.17.44 AM.png",
+                "Screenshot 2024-06-15 at 10.18.04 AM.png",
+                "Screenshot 2024-06-15 at 10.18.23 AM.png",
+                "Screenshot 2024-06-15 at 10.21.14 AM.png",
+                "Screenshot 2024-06-15 at 10.22.04 AM.png",
+                "Screenshot 2024-06-15 at 10.22.27 AM.png",
+                "Screenshot 2024-06-15 at 10.23.01 AM.png",
+                "Screenshot 2024-06-15 at 10.23.16 AM.png",
+                "Screenshot 2024-06-15 at 10.24.03 AM.png",
+                "Screenshot 2024-06-15 at 10.24.18 AM.png",
+                "Screenshot 2024-06-15 at 10.25.22 AM.png",
+                "Screenshot 2024-06-15 at 10.33.36 AM.png",
+                "Screenshot 2024-06-15 at 10.35.56 AM.png",
+                "Screenshot 2024-06-15 at 10.36.23 AM.png",
+                "Screenshot 2024-06-15 at 10.36.31 AM.png",
+                "Screenshot 2024-06-15 at 10.37.09 AM.png",
+                "Screenshot 2024-06-15 at 10.37.22 AM.png",
+                "Screenshot 2024-06-15 at 10.39.24 AM.png",
+                "Screenshot 2024-06-15 at 10.42.17 AM.png",
+                "Screenshot 2024-06-15 at 10.42.28 AM.png",
+                "Screenshot 2024-06-15 at 10.46.17 AM.png",
+                "Screenshot 2024-06-15 at 10.46.28 AM.png",
+                "Screenshot 2024-06-15 at 10.46.40 AM.png"
+            ],
+            "name": "18 Hydroxy Compounds",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol types (3)",
+                        "<img src=\"Screenshot 2024-06-15 at 09.59.31 AM.png\">"
+                    ],
+                    "guid": "i.,%(fyBpW",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol boiling point and factors (3)",
+                        "Alcohol have much higher boiling point than alkanes, because of its ability to form hydrogen bonds between molecules.<br><br>Length of alkyl chain. Boiling point increases with the length of the alkyl change as more energy is required to break the id-id interactions between molecules with larger and more polarisable electron cloud.<br><br>Branching. With branching, molecules become more spherical and there is less surface area of contact for id-id interactions.<br><br>Number of -OH groups. An increase in the number of -OH groups lead to more extensive hydrogen bonding."
+                    ],
+                    "guid": "K7lQl[S(kP",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol solubility",
+                        "Alcohols are more soluble in water compared to corresponding alkanes as alcohols are able to form hydrogen bonds with water. As the hydrocarbon chain becomes longer, the alcohol shows decrease in solubility because the hydrocarbon is non-polar, and interfere with hydrogen bonding.<br><br>Alcohols are miscible in most organic solvents as the hydrocarbon portions can interact with hydrocarbon portions of other organic solvents via id-id interactions."
+                    ],
+                    "guid": "vc9:Ag}}yk",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol preparation (3)",
+                        "<img src=\"Screenshot 2024-06-15 at 10.17.36 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.17.44 AM.png\"><br><br><img src=\"Screenshot 2024-06-15 at 10.18.04 AM.png\"><br><br><img src=\"Screenshot 2024-06-15 at 10.18.23 AM.png\">"
+                    ],
+                    "guid": "t5x?5d{ahZ",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol reactions involving C-O bond (2)",
+                        "<img src=\"Screenshot 2024-06-15 at 10.22.04 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.22.27 AM.png\">"
+                    ],
+                    "guid": "odM39G#*l2",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol reactions involving O-H bond (2)",
+                        "<img src=\"Screenshot 2024-06-15 at 10.23.01 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.23.16 AM.png\">"
+                    ],
+                    "guid": "teW|uO/zAV",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol oxidation (3)",
+                        "<img src=\"Screenshot 2024-06-15 at 10.24.03 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.24.18 AM.png\">"
+                    ],
+                    "guid": "HwCvRMM!-.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol iodoform",
+                        "<img src=\"Screenshot 2024-06-15 at 10.25.22 AM.png\">"
+                    ],
+                    "guid": "Mg<F]X})X!",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Phenol boiling point and solubility",
+                        "Phenols have a relatively high boiling point due to intermolecular hydrogen bonding.<br><br>Phenols are only partially soluble in water at room temperature as its large non-polar benzene ring interferes with the formation of hydrogen bonding between the -OH group and water."
+                    ],
+                    "guid": "MKTi/U%[hd",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Phenol reactivity",
+                        "The orbital containing the lone pair of electrons on the oxygen atom overlaps with the&nbsp;\\(\\pi\\)&nbsp;electron cloud of the benzene ring and the lone pair of electrons is delocalised into the ring. This results in the partial double bond character, strengthening the bond. Hence, phenols&nbsp;do not undergo reactions involving the cleavage of the C-O bond."
+                    ],
+                    "guid": "do2w`B3Ai$",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Phenol reactions with acyl halides (2)",
+                        "<img src=\"Screenshot 2024-06-15 at 10.35.56 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.33.36 AM.png\">"
+                    ],
+                    "guid": "tI!U~=VtR2",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Phenol reactions involving benzene ring (2)",
+                        "<img src=\"Screenshot 2024-06-15 at 10.36.23 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.36.31 AM.png\"><br><br><img src=\"Screenshot 2024-06-15 at 10.37.09 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.37.22 AM.png\">"
+                    ],
+                    "guid": "P4VZjl[mN|",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Phenol distinguishing test",
+                        "Phenol reacts with neutral&nbsp;\\(FeCl_{3(aq)}\\)&nbsp;to form a violet compound."
+                    ],
+                    "guid": "DD]uxMzr.0",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acidity of alcohol, phenol and water",
+                        "The more stable the conjugate base, the equilibrium for the acid dissociation lies more to the right, the stronger the acid.<br><img src=\"Screenshot 2024-06-15 at 10.39.24 AM.png\"><br><br>Stability of phenoxide ion vs hydroxide ion. The phenoxide ion is more stable due to resonance stabilisation, with delocalisation of negative charge on oxygen into the ring.<br><br>Stability of alkoxide ion vs hydroxide ion. The alkoxide ion is less stable due to the electron-donating effect of the alkyl group which increases the electron density and intensifies the negative charge on the oxygen atom, destabilising the anion."
+                    ],
+                    "guid": "mRS~~ZM@%=",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acidity of alcohol and phenol factors (2)",
+                        "Electron-donating vs electron-withdrawing group<br><img src=\"Screenshot 2024-06-15 at 10.46.28 AM.png\"><br><br>Effect of substituents<br><img src=\"Screenshot 2024-06-15 at 10.46.17 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.46.40 AM.png\">"
+                    ],
+                    "guid": "rN7-zTM=v|",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol and phenol reactions with sodium, sodium hydroxide and sodium carbonate",
+                        "<img src=\"Screenshot 2024-06-15 at 10.42.17 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.42.28 AM.png\">"
+                    ],
+                    "guid": "uPk*1=|<(d",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alcohol and phenol combustion",
+                        "Alcohol burns with a clean smokeless flame.<br><img src=\"Screenshot 2024-06-15 at 10.21.14 AM.png\"><br><br>Phenol burns with a sooty flame due to its high C to H ratio."
+                    ],
+                    "guid": "rp[lKkDbGS",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "315f68c6-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-15 at 02.34.44 PM.png",
+                "Screenshot 2024-06-15 at 02.42.35 PM.png",
+                "Screenshot 2024-06-15 at 02.42.49 PM.png",
+                "Screenshot 2024-06-15 at 02.45.30 PM.png",
+                "Screenshot 2024-06-15 at 02.45.57 PM.png",
+                "Screenshot 2024-06-15 at 02.58.40 PM.png",
+                "Screenshot 2024-06-15 at 02.59.10 PM.png",
+                "Screenshot 2024-06-15 at 03.00.38 PM.png",
+                "Screenshot 2024-06-15 at 03.01.23 PM.png",
+                "Screenshot 2024-06-15 at 03.04.20 PM.png",
+                "Screenshot 2024-06-15 at 03.04.32 PM.png",
+                "Screenshot 2024-06-15 at 07.34.44 PM.png",
+                "Screenshot 2024-06-15 at 07.36.22 PM.png",
+                "Screenshot 2024-06-15 at 07.40.16 PM.png"
+            ],
+            "name": "19 Carbonyl Compounds",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl types (2)",
+                        "<img src=\"Screenshot 2024-06-15 at 02.34.44 PM.png\">"
+                    ],
+                    "guid": "x|8C*m<aZ0",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl boiling point and solubility",
+                        "As polar compounds, carbonyls have relatively high boling points.<br><br>The lone pair of electrons on the carbonyl oxygen atom allows carbonyl compounds to form bonds with the H atom of water molecules. Solubility decreases as the length of carbon chain increases, due to the increasing size of the non-polar alkyl chain. They&nbsp;have good solubility in non-polar solvents."
+                    ],
+                    "guid": "G~<;z}+vj^",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl preparation (3)",
+                        "Oxidation of alcohol<br><img src=\"Screenshot 2024-06-15 at 02.42.35 PM.png\"><br><img src=\"Screenshot 2024-06-15 at 02.42.49 PM.png\"><br><br>Oxidation of alkenes<br><img src=\"Screenshot 2024-06-15 at 02.45.30 PM.png\"><br><br>Electrophilic substitution of benzene<br><img src=\"Screenshot 2024-06-15 at 02.45.57 PM.png\">"
+                    ],
+                    "guid": "wv6Y{W?DZm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl reactivity",
+                        "Carbonyl compounds undergo nucleophilic addition reactions because of the unsaturated C=O bond. They attract nucleophiles due to the carbon atom bearing a partial positive charge.<br><br>Aldehydes are more reactive than ketones because they have a more electron-deficient carbon and there is less steric hindrance.<br><br>Aromatic carbonyl compounds are less reactive towards nucleophilic attack because the carbonyl carbon atom is less electron-deficient."
+                    ],
+                    "guid": "z7h1T>1rs,",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl reactivity factors (2)",
+                        "Electronic factor. Inductive effect - alkyl groups are electron-donating by inductive effect, which reduces the magnitude of the partial positive charge on the carbonyl carbon, and hence decrease the attraction for nucleophiles. Resonance effect - aryl groups are electron-donating by resonance.<br><br>Steric factor. Bulky alkyl groups increase steric hindrance about the carbonyl carbon, hinder the approach of the attacking nucleophile and hence contribute to a reduction in reactivity."
+                    ],
+                    "guid": "sHC]%w!.IE",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nucleophilic addition",
+                        "\\[Rate=k[ethanal][CN^-]\\]<br><img src=\"Screenshot 2024-06-15 at 07.40.16 PM.png\"><br>"
+                    ],
+                    "guid": "d3OU[IjU^5",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl nucleophilic addition",
+                        "<img src=\"Screenshot 2024-06-15 at 02.58.40 PM.png\">"
+                    ],
+                    "guid": "dj`7&!ZQ^q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cyanohydrins hydrolysis and reduction",
+                        "<img src=\"Screenshot 2024-06-15 at 02.59.10 PM.png\">"
+                    ],
+                    "guid": "m<.F*IDGC=",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl reduction",
+                        "<img src=\"Screenshot 2024-06-15 at 03.00.38 PM.png\">"
+                    ],
+                    "guid": "D;R;LX9i{d",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl condensation",
+                        "<img src=\"Screenshot 2024-06-15 at 03.01.23 PM.png\">"
+                    ],
+                    "guid": "HyVSesfQgD",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl oxidation",
+                        "<img src=\"Screenshot 2024-06-15 at 07.36.22 PM.png\"><br><br>Unlike aldehydes, ketones are not easily oxidised to carboxylic acids (except aromatic ketones, when heated with acidified&nbsp;\\(KMnO_4\\)). This is because only aldehydes have an hydrogen atom attached to the carbonyl carbon, and the hydrogen is abstracted in oxidation either as a proton or an atom."
+                    ],
+                    "guid": "z6qCDOX&-z",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tollens' reagent and Fehling's solution",
+                        "<img src=\"Screenshot 2024-06-15 at 03.04.20 PM.png\"><br><img src=\"Screenshot 2024-06-15 at 03.04.32 PM.png\">"
+                    ],
+                    "guid": "r4Z)w^`>]A",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carbonyl iodoform",
+                        "<img src=\"Screenshot 2024-06-15 at 07.34.44 PM.png\">"
+                    ],
+                    "guid": "kODra6)AR#",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "30e5f34c-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-15 at 09.57.19 PM.png",
+                "Screenshot 2024-06-15 at 09.57.29 PM.png",
+                "Screenshot 2024-06-15 at 10.00.59 PM.png",
+                "Screenshot 2024-06-15 at 10.01.34 PM.png",
+                "Screenshot 2024-06-15 at 10.02.37 PM.png",
+                "Screenshot 2024-06-15 at 10.03.29 PM.png",
+                "Screenshot 2024-06-15 at 10.03.56 PM.png",
+                "Screenshot 2024-06-15 at 10.04.43 PM.png",
+                "Screenshot 2024-06-15 at 10.05.21 PM.png",
+                "Screenshot 2024-06-15 at 10.05.31 PM.png",
+                "Screenshot 2024-06-15 at 10.05.50 PM.png",
+                "Screenshot 2024-06-15 at 10.06.30 PM.png",
+                "Screenshot 2024-06-15 at 10.06.48 PM.png",
+                "Screenshot 2024-06-15 at 10.07.49 PM.png",
+                "Screenshot 2024-06-15 at 10.11.07 PM.png",
+                "Screenshot 2024-06-15 at 10.13.30 PM.png",
+                "Screenshot 2024-06-15 at 10.14.29 PM.png",
+                "Screenshot 2024-06-15 at 10.20.02 PM.png"
+            ],
+            "name": "20 Carboxylic Acids and Derivatives",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid boiling point and solubility",
+                        "Carboxylic acids have relatively high boiling points due to hydrogen bonds between carboxylic acid molecules. The -OH group is more polarised than alcohol due to the presence of the electron-withdrawing C=O group. They dimerise in vapour state and in non-polar solvents.<br><br>The first four aliphatic acids are completely miscible with water due to the ability of the -COOH group to form hydrogen bonds with water and the partial dissociation to form ions (\\(H_3O^+\\)&nbsp;and&nbsp;\\(RCOO^-\\)), which are capable of forming ion-dipole interactions with water molecules. As the length of the non-polar hydrocarbon chain increases, solubility in water decreases."
+                    ],
+                    "guid": "oTN)WAw/az",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid preparation (7)",
+                        "<img src=\"Screenshot 2024-06-15 at 09.57.19 PM.png\"><br><img src=\"Screenshot 2024-06-15 at 09.57.29 PM.png\">"
+                    ],
+                    "guid": "Rf~G5.DfQ-",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acidity of alcohol, phenol, water and carboxylic acids",
+                        "<img src=\"Screenshot 2024-06-15 at 10.00.59 PM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.01.34 PM.png\">"
+                    ],
+                    "guid": "mwvGqW;;Zj",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acidity of carboxylic acid factors (3)",
+                        "Nature of R group<br><img src=\"Screenshot 2024-06-15 at 10.02.37 PM.png\"><br><br>Number of substituents on R group<br><img src=\"Screenshot 2024-06-15 at 10.03.29 PM.png\"><br><br>Positions of substituents on R group&nbsp;<br><img src=\"Screenshot 2024-06-15 at 10.03.56 PM.png\">"
+                    ],
+                    "guid": "Lol=j;2wm{",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid oxidation",
+                        "<img src=\"Screenshot 2024-06-15 at 10.04.43 PM.png\">"
+                    ],
+                    "guid": "l6X2uDwqaq",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid acid-base",
+                        "<img src=\"Screenshot 2024-06-15 at 10.05.21 PM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.05.31 PM.png\">"
+                    ],
+                    "guid": "H,y$(h|/z{",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid condensation",
+                        "<img src=\"Screenshot 2024-06-15 at 10.05.50 PM.png\">"
+                    ],
+                    "guid": "ce|4s3@Y<X",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid nucleophilic substitution",
+                        "<img src=\"Screenshot 2024-06-15 at 10.06.30 PM.png\">"
+                    ],
+                    "guid": "N~k|63vL^o",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid reduction",
+                        "<img src=\"Screenshot 2024-06-15 at 10.06.48 PM.png\">"
+                    ],
+                    "guid": "wugdUf-oOz",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid derivatives (3)",
+                        "<img src=\"Screenshot 2024-06-15 at 10.07.49 PM.png\">"
+                    ],
+                    "guid": "K:?g`qi%O@",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carboxylic acid derivatives boiling point and solubility",
+                        "Acyl chlorides and esters have lower boiling points than the parent carboxylic acids as a result of their inability to form intermolecular hydrogen bonds with their own molecule.<br><br>Esters are generally insoluble in polar solvents but soluble in non-polar solvents. Acyl chlorides are insoluble in non-polar solvents and soluble in water. Solubility in water is dependent on the size of the hydrocarbon chain."
+                    ],
+                    "guid": "J:+sD5I_B^",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acyl chloride hydrolysis",
+                        "<img src=\"Screenshot 2024-06-15 at 10.11.07 PM.png\"><br><br>Acyl chloride can also undergo alkaline hydrolysis with&nbsp;\\(NaOH\\)&nbsp;instead of water to produce a carboylate salt with&nbsp;\\(OH\\)&nbsp;replaced by&nbsp;\\(O^-Na^+\\)."
+                    ],
+                    "guid": "lRy=[CuFqj",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acyl chloride condensation",
+                        "<img src=\"Screenshot 2024-06-15 at 10.14.29 PM.png\">"
+                    ],
+                    "guid": "bI.n9XaDR;",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Acyl/alkyl/aryl chloride hydrolysis",
+                        "<img src=\"Screenshot 2024-06-15 at 10.13.30 PM.png\">"
+                    ],
+                    "guid": "JY~<xajL*W",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ester hydrolysis",
+                        "<img src=\"Screenshot 2024-06-15 at 10.20.02 PM.png\">"
+                    ],
+                    "guid": "eOshp;-d_2",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3098b99c-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-16 at 11.12.28 AM.png",
+                "Screenshot 2024-06-16 at 11.19.11 AM.png",
+                "Screenshot 2024-06-16 at 11.23.51 AM.png",
+                "Screenshot 2024-06-16 at 11.25.21 AM.png",
+                "Screenshot 2024-06-16 at 11.25.47 AM.png",
+                "Screenshot 2024-06-16 at 11.27.32 AM.png",
+                "Screenshot 2024-06-16 at 11.27.54 AM.png",
+                "Screenshot 2024-06-16 at 11.28.34 AM.png",
+                "Screenshot 2024-06-16 at 11.29.16 AM.png",
+                "Screenshot 2024-06-16 at 11.29.50 AM.png",
+                "Screenshot 2024-06-16 at 11.30.21 AM.png",
+                "Screenshot 2024-06-16 at 11.30.32 AM.png",
+                "Screenshot 2024-06-16 at 11.31.58 AM.png",
+                "Screenshot 2024-06-16 at 11.32.59 AM.png",
+                "Screenshot 2024-06-16 at 11.33.12 AM.png",
+                "Screenshot 2024-06-16 at 11.33.34 AM.png",
+                "Screenshot 2024-06-16 at 11.39.26 AM.png",
+                "Screenshot 2024-06-16 at 11.39.46 AM.png",
+                "Screenshot 2024-06-16 at 11.40.10 AM.png",
+                "Screenshot 2024-06-16 at 11.43.37 AM.png",
+                "Screenshot 2024-06-16 at 11.44.33 AM.png",
+                "Screenshot 2024-06-16 at 11.44.51 AM.png",
+                "Screenshot 2024-06-16 at 11.46.12 AM.png",
+                "Screenshot 2024-06-16 at 11.46.28 AM.png",
+                "Screenshot 2024-06-16 at 11.47.37 AM.png",
+                "Screenshot 2024-06-16 at 11.49.35 AM.png",
+                "Screenshot 2024-06-16 at 11.51.03 AM.png",
+                "Screenshot 2024-06-16 at 11.51.22 AM.png",
+                "Screenshot 2024-06-16 at 11.51.30 AM.png",
+                "Screenshot 2024-06-16 at 11.51.40 AM.png",
+                "Screenshot 2024-06-16 at 11.54.12 AM.png"
+            ],
+            "name": "21 Nitrogen Compounds",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amine types (3)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.12.28 AM.png\">"
+                    ],
+                    "guid": "K.LE5~N=.;",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amine boiling point and solubility",
+                        "Boiling point generally increases with increasing&nbsp;\\(M_r\\). Among isomeric amines, boiling point increases in the following order:&nbsp;\\(3^\\circ&lt;2^\\circ&lt;1^\\circ\\)&nbsp;amines. Amines have higher boiling points than alkanes due to hydrogen bonding, and lower boiling points than alcohols due to weaker hydrogen bond (less polar).<br><br>Amines can form hydrogen bonds with water and are soluble in water. Higher members have poorer solubility because they have relatively large non-polar hydrocarbon portions."
+                    ],
+                    "guid": "Ql1Z_g_<^V",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Basicity of amine",
+                        "Amine can act as Bronsted-Lowry base or Lewis base. The strength as a base is dependent on the availability of the lone pair of electrons on the nitrogen atom to form a dative bond.<br><br>Gaseous phase<br><img src=\"Screenshot 2024-06-16 at 11.19.11 AM.png\"><br><br>Aqueous solution<br><img src=\"Screenshot 2024-06-16 at 11.23.51 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.31.58 AM.png\">"
+                    ],
+                    "guid": "Oz*s_%gsJw",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amine preparation (5)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.25.21 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.25.47 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.27.32 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.27.54 AM.png\">"
+                    ],
+                    "guid": "qV(TyGjMhf",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amine acid-base",
+                        "<img src=\"Screenshot 2024-06-16 at 11.28.34 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.29.16 AM.png\">"
+                    ],
+                    "guid": "nw3YWHi&9,",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amine nucleophilic substitution",
+                        "<img src=\"Screenshot 2024-06-16 at 11.30.21 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.29.50 AM.png\">"
+                    ],
+                    "guid": "L.fVt&~.Ox",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amine condensation",
+                        "<img src=\"Screenshot 2024-06-16 at 11.30.32 AM.png\">"
+                    ],
+                    "guid": "Luzy=bq)n>",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amine ring reaction (2)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.32.59 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.33.12 AM.png\">"
+                    ],
+                    "guid": "Jr8+M<vFXM",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amide types (3)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.33.34 AM.png\">"
+                    ],
+                    "guid": "o!m9TyGr=M",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amide boiling/melting point and solubility",
+                        "Amides are polar organic compounds. Compared to&nbsp;\\(3^\\circ\\)&nbsp;amides,&nbsp;\\(1^\\circ\\)&nbsp;and&nbsp;\\(2^\\circ\\)&nbsp;amides have higher melting and boiling points due to the presence of hydrogen bonding.&nbsp;\\(3^\\circ\\)&nbsp;amide molecules do not form hydrogen bonds since there is no hydrogen directly bonded to the electronegative N atom.<br><br>Lower members of aliphatic amides are soluble in water because they can interact with water molecules via hydrogen bonding. Solubility of amides in water decreases with increasing size of the non-polar hydrocarbon chain."
+                    ],
+                    "guid": "g8C`PKAu|.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Basicity of amide",
+                        "The lack of basicity in amides arises because the orbital containing the lone pair of electrons on the nitrogen atom overlaps with the&nbsp;\\(\\pi\\)&nbsp;electron cloud of the adjacent C=O bond and the lone pair of electrons is delocalised, and they are not available for coordination to a proton."
+                    ],
+                    "guid": "xuPw!y:]9R",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amide preparation (1)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.39.26 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.39.46 AM.png\">"
+                    ],
+                    "guid": "v|]1m=&,>Y",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amide hydrolysis",
+                        "<img src=\"Screenshot 2024-06-16 at 11.40.10 AM.png\">"
+                    ],
+                    "guid": "Q00uG*LY)3",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amide reduction",
+                        "Amides can undergo reduction to form amines using&nbsp;\\(LiAlH_4\\)&nbsp;in dry ether."
+                    ],
+                    "guid": "F8S;)Z_{QS",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amino acid optical activity",
+                        "With the exception of aminoethanoic acid (glycine), all 2-amino acids display enontiomerism and can exist in optically active forms.<br><br><img src=\"Screenshot 2024-06-16 at 11.43.37 AM.png\">"
+                    ],
+                    "guid": "i,U!Eu;*E;",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amino acid zwitterions and properties (3)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.44.33 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.44.51 AM.png\">"
+                    ],
+                    "guid": "G.BVJ^<VZ%",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amino acid acid-base",
+                        "Amino acids are amphoteric since they contain both acidic and basic groups.<br><br><img src=\"Screenshot 2024-06-16 at 11.46.12 AM.png\">"
+                    ],
+                    "guid": "s0lzM)Wg8)",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Amino acid condensation (3)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.46.28 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.47.37 AM.png\">"
+                    ],
+                    "guid": "fOpg2zmK~0",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Peptide and protein",
+                        "A peptide is a compound containing two or more acid resides linked by peptide bonds between the&nbsp;\\(\\alpha\\)-amino group of each acid and the&nbsp;\\(\\alpha\\)-carboxyl group of the neighbouring acid. Each amino acid unit is called an amino acid residue.<br><br><img src=\"Screenshot 2024-06-16 at 11.49.35 AM.png\">"
+                    ],
+                    "guid": "H/_u=YX1^?",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Peptide and protein hydrolysis types (2)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.51.03 AM.png\">"
+                    ],
+                    "guid": "Q8RPLNXZMm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Peptide and protein hydrolysis (2)",
+                        "<img src=\"Screenshot 2024-06-16 at 11.51.22 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.51.30 AM.png\"><br><img src=\"Screenshot 2024-06-16 at 11.51.40 AM.png\">"
+                    ],
+                    "guid": "qA)Nx/>nln",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Condensation polymers",
+                        "Condensation polymers are formed when monomers containing two functional groups come together and lose a small molecule such as&nbsp;\\(H_2O\\)&nbsp;or&nbsp;\\(HCl\\).<br><br><img src=\"Screenshot 2024-06-16 at 11.54.12 AM.png\">"
+                    ],
+                    "guid": "v}TN8z~kFc",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "31184e8c-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-16 at 04.00.20 PM.png",
+                "Screenshot 2024-06-16 at 04.06.50 PM.png",
+                "Screenshot 2024-06-16 at 04.07.07 PM.png",
+                "Screenshot 2024-06-16 at 04.07.17 PM.png",
+                "Screenshot 2024-06-16 at 04.11.51 PM-d6d1b4a185e1b0dbfd9a3c0a9805294bb1712cb6.png",
+                "Screenshot 2024-06-16 at 04.13.27 PM.png",
+                "Screenshot 2024-06-16 at 04.22.38 PM.png",
+                "Screenshot 2024-06-16 at 04.33.37 PM.png"
+            ],
+            "name": "22a Electrochemistry I",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrolyte and types (3)",
+                        "An electrolyte is a compound which will conduct an electric current when it is in aqueous solution or in molten state, due to the flow of charge carried by its ions.<br><br>A strong electrolyte is a compound which fully ionises.<br>A weak electrolyte is a compound which only partially ionises.<br>A non-electrolyte is a compound which does not ionise."
+                    ],
+                    "guid": "nV_DBmmn!q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrode potential and factors (3)",
+                        "If a metal electrode is immersed in an aqueous solution containing a metal oxide, an equilibrium is established which leads to negative charge formation on the electrode. There is a potential difference between the negatively charged metal and the positively charged solution, known as electrode potential.<br><br>Temperature<br>Concentration of ions in aqueous solution<br>Partial pressure of any gas involved in the reaction"
+                    ],
+                    "guid": "kAj>~Q)Bwm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard hydrogen electrode",
+                        "The standard hydrogen electrode consists of a platinum electrode coated with finely divided platinum. It is immersed in a solution where&nbsp;\\([H^+]=1mol\\ dm^{-3}\\), with hydrogen gas at 1 bar bubbled over the platinum electrode and temperature kept at 25℃ or 298K.<br><br>Platinum is used because it is inert. The electrode allows&nbsp;\\(H_2\\)&nbsp;to be adsorbed on its surface and establish the following equilibrium (potential on the platium electrode is arbitrarily assigned a value of 0.00V):\\[2H^++2e^-\\rightleftharpoons H_2,\\ E^{\\circ\\kern-0.65em-}=0.00V\\]<br><img src=\"Screenshot 2024-06-16 at 04.00.20 PM.png\"><br>"
+                    ],
+                    "guid": "u<krA1U`_-",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard electrode potential",
+                        "The standard electrode potential of a half-cell is the electromotive force, measured at 298K, between the half-cell and the standard hydrogen electrode, in which the concentration of any reacting species in solution is&nbsp;\\(1mol\\ dm^{-3}\\)&nbsp;and any gaseous species is at a pressure of 1 bar.<br><br>\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;values give an indication of the position of equilibrium of reaction. A more positive/negative&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;value indicates that the position of equilibrium lies to the right/left. The forward/backward reaction is favoured, the more likely reduction/oxidation occurs, the higher the tendency to gain/lose electrons, and the stronger the oxidising/reducing agent."
+                    ],
+                    "guid": "D$l<_zK|ox",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard electrode potential measurement (3)",
+                        "<img src=\"Screenshot 2024-06-16 at 04.06.50 PM.png\"><br><img src=\"Screenshot 2024-06-16 at 04.07.07 PM.png\"><br><img src=\"Screenshot 2024-06-16 at 04.07.17 PM.png\">"
+                    ],
+                    "guid": "J.y4kq&I!{",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrochemical cell",
+                        "<img src=\"Screenshot 2024-06-16 at 04.11.51 PM-d6d1b4a185e1b0dbfd9a3c0a9805294bb1712cb6.png\">"
+                    ],
+                    "guid": "vURK|QzSMy",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Salt bridge roles (2)",
+                        "<img src=\"Screenshot 2024-06-16 at 04.13.27 PM.png\">"
+                    ],
+                    "guid": "z*(MWV(jSv",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard cell potential",
+                        "The standard cell potential is the potential difference between two half-cells under standard conditions, and give a measure of the e.m.f. of the cell.\\[E^{\\circ\\kern-0.65em-}_{cell}=E^{\\circ\\kern-0.65em-}_{cathode}-E^{\\circ\\kern-0.65em-}_{anode}\\]\\(E^{\\circ\\kern-0.65em-}_{cathode}\\)&nbsp;is the reduction potential of the half-cell undergoing reduction.<br>\\(E^{\\circ\\kern-0.65em-}_{anode}\\)&nbsp;is the reduction potential of the half-cell undergoing oxidation.<br>"
+                    ],
+                    "guid": "Q6w($fidC-",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard cell potential spontaneity",
+                        "The relationship between&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;and&nbsp;\\(G^{\\circ\\kern-0.65em-}\\)&nbsp;is:\\[\\Delta G^{\\circ\\kern-0.65em-}=-nFE^{\\circ\\kern-0.65em-}\\]n is the number of moles of electrons transferred in the redox reaction.<br>F is the Faraday constant.<br><br><img src=\"Screenshot 2024-06-16 at 04.22.38 PM.png\"><br>"
+                    ],
+                    "guid": "cCuaI%!gg:",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard cell potential spontaneity limitations (3)",
+                        "Kinetic factor is not taken into consideration.&nbsp;\\(E^{\\circ\\kern-0.65em-}_{cell}\\)&nbsp;is a measure of the position of equilibrium but gives no indication of rate.<br><br>Reaction takes place under non-standard conditions.&nbsp;\\(E^{\\circ\\kern-0.65em-}_{cell}\\)&nbsp;is the cell potential at standard conditions, predictions under non-standard conditions may not be valid.<br><br>Side reaction may occur. If a side reaction occurs, especially with insoluble ionic solid formation, a non-spontaneous reaction may become spontaneous."
+                    ],
+                    "guid": "jk?H8jGj$t",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hydrogen-oxygen fuel cell, advantages and disadvantages",
+                        "<img src=\"Screenshot 2024-06-16 at 04.33.37 PM.png\"><br><br>Advantages<br>- Able to attain maximum power with minimum weight and volume<br>- High efficiency of conversion of chemical energy to electrical energy<br>- Fuel cells do not 'go dead' as reactants are supplied continuously and products are continually removed<br>- The product of reaction is non-polluting<br><br>Disadvantages<br>- Expensive due to the use of Pt as catalyst at the graphite electrodes<br>- Most fuels require a high temperature to react in a fuel cell<br>- Hydrogen is potentially explosive"
+                    ],
+                    "guid": "Qy395,n5*8",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "312c1430-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-16 at 04.40.07 PM.png",
+                "Screenshot 2024-06-16 at 04.54.29 PM.png",
+                "Screenshot 2024-06-16 at 05.17.04 PM.png",
+                "Screenshot 2024-06-16 at 05.22.20 PM.png",
+                "Screenshot 2024-06-16 at 05.24.26 PM.png",
+                "Screenshot 2024-06-16 at 05.25.14 PM.png"
+            ],
+            "name": "22b Electrochemistry II",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eletrolytic cell",
+                        "The process of passing electricity (from an external source) to force a non-spontaneous redox reaction to occur is called electrolysis. The cell in which electrolysis occurs is called the electrolytic cell.<br><br><img src=\"Screenshot 2024-06-16 at 04.40.07 PM.png\">"
+                    ],
+                    "guid": "u6;vg6),yw",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrochemical vs electrolytic cell",
+                        "<img src=\"Screenshot 2024-06-16 at 04.54.29 PM.png\">"
+                    ],
+                    "guid": "zx)9Xe/Zm1",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Selective discharge and factors (4)",
+                        "The cation or anion that is discharged is the one that requires the least energy. This is called selective/preferential discharge.<br><br>Factors in order:<br>1. Physical state of electrolyte (molten or aqueous) - molten preferred<br>2. Electrode potential - more positive/less negative preferred for reduction, less positive/more negative preferred for oxidation<br>3. Relative concentration of the species - higher concentration can override small differences in standard electrode potential by shifting equilibrium<br>4. Nature of the electrodes (inert vs reactive) - reactive electrode must be considered if present in electrolysis reactions"
+                    ],
+                    "guid": "nOYFdBk0Nv",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anondising of aluminium",
+                        "Coating aluinium objects with aluminium oxide via electrolysis is called anodising. The advantages are to protect the metal from corrosion, that the anodic film is hard and resistant to wear and a good electrical insulator, and that the film can be dyed to give colour-anodised alumnium.<br><br><img src=\"Screenshot 2024-06-16 at 05.17.04 PM.png\">"
+                    ],
+                    "guid": "wvPkctW-])",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electrolytic purification of copper",
+                        "The impurities in copper obtained from ores reduce the electrical conductivity, so it must be purified before being used for electrical wires.<br><br><img src=\"Screenshot 2024-06-16 at 05.22.20 PM.png\">"
+                    ],
+                    "guid": "QuJm/!M=bD",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faraday's constant",
+                        "<img src=\"Screenshot 2024-06-16 at 05.25.14 PM.png\">"
+                    ],
+                    "guid": "nU!c?GJLC",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faraday's first law",
+                        "The mass of substance and/or volume of gas liberated during electrolysis is directly proportional to the amount of charge that passed through the cell.<br><br><img src=\"Screenshot 2024-06-16 at 05.24.26 PM.png\">"
+                    ],
+                    "guid": "hQXL(K3;]6",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Faraday's second law",
+                        "The amount of charge required to discharge 1 mole of an element depends on the charge on the ion. In other words, the number of Faradays required to discharge one mole of an ion at the electrode equals the amount of charge on the ion."
+                    ],
+                    "guid": "xI>/ZclID_",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "319bd464-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "23 Transition Elements",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "54adb4c6-36d8-11ef-af6f-47f65b4af33a",
+    "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 2,
+            "lapse": {
+                "delays": [
+                    15.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 3,
+                "mult": 0.0
+            },
+            "maxTaken": 180,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    15.0,
+                    1440.0,
+                    4320.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    6,
+                    8,
+                    0
+                ],
+                "order": 1,
+                "perDay": 1000
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 4,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 3,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 1000,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Chemistry",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 8367583320482944981,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -442860831672305872,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -3955593040495740720,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

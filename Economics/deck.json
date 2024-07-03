@@ -1,0 +1,1665 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "32794d26-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-05 at 02.32.25 PM.png"
+            ],
+            "name": "01 Central Problem of Economics",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Positive and normative statements",
+                        "A positive statement is a statement of fact. A normative statement is a statement of value or opinion."
+                    ],
+                    "guid": "BkN.S({j>",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Problem of scarcity",
+                        "Scarcity arises from limited resources and unlimited wants. Choices have to be made due to this fundamental problem."
+                    ],
+                    "guid": "E{v4$&Y6cm",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Opportunity cost, explicit and implicit",
+                        "Opportunity cost is the expected benefits from the next best alternative that is forgone when making a decision. Explicit costs are costs that require a direct money payment, while implicit costs are the value of everything else that is sacrificed (e.g. time)."
+                    ],
+                    "guid": "Pk/:.yOvH6",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marginal benefit and cost",
+                        "Marginal benefit refers to the additional benefit derived from undertaking an additional unit of an activity. Marginal cost refers to the additional opportunity cost incurred when undertaking an additional unit of an activity."
+                    ],
+                    "guid": "H]pmOaY.9h",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marginalist principle",
+                        "At any given unit of an activity, if the marginal benefit exceeds the marginal cost, it is rational for the economic agent to undertake the activity, because the agent would gain more benefit than cost through this action. Otherwise, it is rational not to undertake it because the agent would incur more cost than benefit."
+                    ],
+                    "guid": "y}^>*9<^@-",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Law of diminishing marginal utility/revenue",
+                        "As the consumer becomes more satisfied, each additional unit of the good consumed will give less additional utility than previous units. As the firm's output rises beyond a certain threshold, its marginal cost of production would start to increase as factors of production become more inefficient."
+                    ],
+                    "guid": "NWhIILKl&(",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Production possibility curve",
+                        "The production possibility curve shows all the maximum attainable combinations of two goods that a country can produce within a specified time period with all its resources fully and efficiently employed, at a given state of technology.<br><br><img src=\"Screenshot 2024-06-05 at 02.32.25 PM.png\">"
+                    ],
+                    "guid": "QAn9;{jyAd",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3296c50e-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-05 at 03.07.33 PM.png"
+            ],
+            "name": "02 Price Mechanism and Its Applications",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Market equilibrium",
+                        "Market equilibrium refers to a situation in which buyers and sellers are on aggregate satisfied with the current combination of price and quantity of a good bought or sold and are under no incentive to change their present economic actions."
+                    ],
+                    "guid": "tp<XE.UU;W",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Market adjustment process",
+                        "There is a surplus in the market since quantity supplied exceeds the quantity demanded, resulting in a downward pressure on the price. To sell the surplus, producers will begin to lower prices. As price falls, consumers are willing and able to buy more causing quantity demanded to increase. As price falls, producers will also be less incentivised to produce due to a fall in profitability, causing quantity supplied to decrease. This fall in price continues until the equilibrium price is reached.<br><br>There is a shortage in the market since ququantity demanded exceeds quantity supplied, resulting in an upward pressure on the price. Consumers will try outbid one another for existing supplies. As price increases, producers will be incentivised to produce more due to an increase in profitability. Due to the increased price, consumers will be less willing and able to buy, thereby causing quantity demanded to fall. This rise in price continues until the equilibrium price is reached."
+                    ],
+                    "guid": "vw34vqrYI0",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Demand and law of demand",
+                        "The demand for a commodity refers to the amount that consumers are willing and able to purchase at each given price over a period of time.<br><br>The quantity demanded of a good is inversely related to its price, ceteris paribus."
+                    ],
+                    "guid": "dP(nPx3eOZ",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Income and substitution effects",
+                        "The income effect occurs when a change in price of the good affects consumers' real income or purchasing power, which in turn affects consumers' ability to buy the good.<br><br>The substitution effect occurs when a change in price of the good causes consumers to switch to (or from) alternative products, which in turn affects the quantity demanded of the good."
+                    ],
+                    "guid": "s^`ZV#7SlL",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price determinants of demand (10)",
+                        "Tastes and preferences<br>Seasonal/climatic changes<br>Expectations of future prices<br>Income (normal vs inferior good)<br>Prices of related goods (substitutes vs complements)<br>Derived demand<br>Government policies (direct tax vs direct subsidy)<br>Population<br>Interest rates<br>Exchange rates"
+                    ],
+                    "guid": "L-&t=.qoYp",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Supply and law of supply",
+                        "The supply of a good or service refers to the quantity of a good or service that producers are willing and able to offer for sale at each given price over a given period of time.<br><br>The quantity supplied is directly related to the price of a product."
+                    ],
+                    "guid": "Dn1cH?U5Z^",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price determinants of supply (7)",
+                        "Costs of production/Prices of factors of production<br>Innovation/State of technology<br>Natural factors<br>Number of firms<br>Government policies (indirect taxes vs indirect subsidy)<br>Prices of related goods (joint supply vs competitive supply)<br>Expectations of future price changes"
+                    ],
+                    "guid": "L]f>N%6[5F",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Demand-supply graph",
+                        "<img src=\"Screenshot 2024-06-05 at 03.07.33 PM.png\">"
+                    ],
+                    "guid": "tTi2vnLkiT",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consumer and producer surplus",
+                        "Consumer surplus is the difference between the maximum amount that consumers are willing and able to pay for a given quantity of a good and what they actually pay, and measures consumer welfare.<br><br>Producer surplus refers to the difference between the amount received by producers for selling their good and the minimum prices that they are willing and able to accept for supply additional units of the good."
+                    ],
+                    "guid": "AX_Hc:V:{_",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Functions of the price mechanism",
+                        "Signalling (allocative) function<br>Rationing (distributive) function<br>Incentive function"
+                    ],
+                    "guid": "w_8k2aW`+.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Allocative and productive efficiency",
+                        "Allocative efficiency is the situation in which the society produces and consumes a combination of goods and services that maximises its welfare.<br><br>Productive efficiency is achieved when all resources and fully and efficiently utilised."
+                    ],
+                    "guid": "KZrEQ324j[",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price elasticity of demand",
+                        "Price elasticity of demand is a measure of the degree of responsiveness of the quantity demanded of a good to a change in its price, ceteris paribus.\\[PED=\\frac{\\text{% change in quantity demanded}}{\\text{% change in price of good itself}}\\]Sign of PED is negative because of the inverse relationship between price and quantity demanded. Magnitude below 1 is price inelastic demand, at 1 is unitary price elastic demand, above 1 is price elastic demand.<br>"
+                    ],
+                    "guid": "xAhe[E0l-~",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Determinants of price elasticity of demand (4)",
+                        "Number and closeness of its substitutes<br>Proportion of income spent on the good<br>Habituality of consumption<br>Time horizon"
+                    ],
+                    "guid": "EptaS6a]Q/",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price elasticity of supply",
+                        "Price elasticity of supply is a measure of the degree of responsiveness of the quantity supplied of a good to a change in its price, ceteris paribus. \\[PES=\\frac{\\text{% change in quantity supplied}}{\\text{% change in price of good itself}}\\]Sign of PES is positive because of the direct relationship between price and quantity demanded. Magnitude below 1 is price inelastic supply, at 1 is unitary price elastic supply, above 1 is price elastic supply.<br>"
+                    ],
+                    "guid": "zQgx]m{_I;",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Determinants of price elasticity of supply (5)",
+                        "Level of stock or inventory<br>Availability of spare capacity<br>Mobility of factors of production<br>Time horizon<br>Length of production period"
+                    ],
+                    "guid": "E#2/~t)f7f",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cross elasticity of demand",
+                        "Cross elasticity of demand is a measure of the degree of responsiveness of the quantity demanded of a good to a change in the price of another good, ceteris paribus.\\[CED=\\frac{\\text{% change in quantity demanded of good A}}{\\text{% change in price of good B}}\\]Sign of CED is positive when the two goods are substitutes, negative when the two goods are complements. Magnitude indicates the strength of the relationship, the closer the substitutes/complements, the greater the magnitude.<br>"
+                    ],
+                    "guid": "A1J:AOLc}(",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Income elasticity of demand",
+                        "Income elasticity of demand is a measure of the degree of responsiveness of the quantity demanded of a good to a change consumers' income, ceteris paribus.<span style=\"font-style: normal; font-weight: 400;\"></span>\\[YED=\\frac{\\text{% change in quantity demanded}}{\\text{% change in income}}\\]Sign of YED is positive when the good is a normal good, negative when the good is an inferior good. Magnitude indicates the strength of the relationship between income and the demand for the good. Normal goods with YED less than 1 is classified as a necessity, more than 1 is classified as a luxury.<br>"
+                    ],
+                    "guid": "g+>n{pX?ld",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of elasticity concepts (4)",
+                        "Computation issues<br>Issues with prediction<br>Cost concerns<br>Ceteris paribus assumption"
+                    ],
+                    "guid": "uk}P-#d-!7",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Direct and indirect taxes",
+                        "Direct taxes are taxes on income and wealth and are paid to the tax authorities directly by the economic agent with the income/wealth. This affect the willingness and ability of households to consume goods and services and leads to a shift of the demand curve.<br><br>Indirect taxes are taxes on goods and services that are paid to the tax authorities indirectly by the suppliers of the goods and services. A specific tax is an indirect tax of a fixed sum per unit sold (parallel shift), while an ad valorem tax is an indirect tax of a certain percentage of the price of the good (pivotal shift)."
+                    ],
+                    "guid": "zZZ:,$#RcU",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Direct and indirect subsidies",
+                        "Direct subsidies are subsidies granted by the tax authorities directly to the economic agent with the income/wealth. This affect the willingness and ability of households to consume goods and services and leads to a shift of the demand curve.<br><br>Indirect subsidies are subsidies granted by the tax authorities indirectly to the suppliers of the goods and services. A specific subsidy is an indirect subsidy of a fixed sum per unit sold (parallel shift), while an ad valorem subsidy is an indirect subsidy of a certain percentage of the price of the good (pivotal shift)."
+                    ],
+                    "guid": "vJG/yQ#d3/",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price and quantity controls",
+                        "Minimum price/price floor is a legally established minimum price to prevent prices from falling below a certain level. The price floor must be set above the market equilibrium price.<br><br>Maximum price/price ceiling is a legally established maximum price to prevent prices from rising above a certain level. the price ceiling must be set below the market equilibrium price.<br><br>A quota is a limit on the quantity produced imposed by the government through legislation and regulation. The quantitative restriction must be set below the market equilibrium quantity."
+                    ],
+                    "guid": "u*UD_Nl6wX",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "327036d2-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-05 at 09.18.32 PM.png",
+                "Screenshot 2024-06-05 at 09.19.45 PM.png"
+            ],
+            "name": "03 Firms and Decisions",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Objective of firms (4)",
+                        "Profit maximisation<br>Revenue maximisation<br>Profit satisificing<br>Market share dominance"
+                    ],
+                    "guid": "k)0]|ojA8$",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Short and long run",
+                        "Short run is a time period during which at least one factor of production is fixed. Output can increase only by using more variable factors.<br><br>Long run is a time period long enough for all inputs to be varied, except the level of technology."
+                    ],
+                    "guid": "r/+Dr6CSna",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fixed and variable cost",
+                        "Fixed cost is a cost that does not vary with output level. It is a cost that must be paid even when production does not take place.<br><br>Variable cost is cost that varies with output level. It is not incurred when production does not take place."
+                    ],
+                    "guid": "wxz]t,2v.w",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Short run cost graph",
+                        "<img src=\"Screenshot 2024-06-05 at 09.18.32 PM.png\">"
+                    ],
+                    "guid": "P;.c_hO1+|",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Long run average cost graph",
+                        "<img src=\"Screenshot 2024-06-05 at 09.19.45 PM.png\">"
+                    ],
+                    "guid": "F?:z&BB`~g",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Internal economies of scale (3)",
+                        "Technical economies of scale<br>- Factor indivisibility<br>- Law of increased dimensions (the container principle)<br>- Specialisation and division of labour<br>Financial economies of scale<br>- Lower interest rate and larger loans<br>- Raise capital through bonds<br>Marketing economies of scale<br>- Bargaining advantage<br>- Bulk advertising and large-scale promotion"
+                    ],
+                    "guid": "c9>[^UFM%6",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Internal diseconomies of scale (2)",
+                        "High cost of monitoring and management<br>Low morale of employees"
+                    ],
+                    "guid": "-|S/x|,Xr",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "External economies of scale (2)",
+                        "Economies of information<br>- Common research and development knowledge<br>Economies of concentration/agglomeration economies<br>- Availability of skilled labour<br>- Well-developed infrastructure"
+                    ],
+                    "guid": "s<q,_Z5tM&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "External diseconomies of scale (2)",
+                        "Increased strain on infrastructure<br>Shortage of industry-specific resources"
+                    ],
+                    "guid": "gILOotPNFk",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Supply side factors for size of firms (3)",
+                        "MES at low levels of output relative to market<br>Saucer shaped LRAC<br>Banding and joint ventures"
+                    ],
+                    "guid": "n1K@%Wk6)q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Demand side factors for size of firms (4)",
+                        "Nature of the product<br>Market segmentation and specialization<br>Geographical factors<br>Profit cycles"
+                    ],
+                    "guid": "IP8(Ht$vz{",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Other factors for size of firms (2)",
+                        "Unwillingness to take greater risks<br>Profit satisficing objective"
+                    ],
+                    "guid": "sU.=d{RmV0",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Market structures (4)",
+                        "Perfect competition<br>Monopolistic competition<br>Oligopoly<br>Monopoly"
+                    ],
+                    "guid": "x+MOEi9^1q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Perfect competition (4)",
+                        "Large number of buyers and sellers<br>No barriers to entry and exit<br>Homogenous product<br>Perfect knowledge (price taker)"
+                    ],
+                    "guid": "lokL-Wc-ui",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Monopoly (4)",
+                        "Single producer<br>Complete barriers to entry and exit<br>- Artificial barriers (strategic barriers, statutory barriers)<br>- Natural or structural barriers to entry<br>- Barriers to exit (sunk costs)<br>Unique product - no close substitutes for the product<br>Imperfect knowledge"
+                    ],
+                    "guid": "PXk=(>+C2-",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Monopolistic competition (4)",
+                        "Large number of small buyers and sellers relative to market size<br>Low barriers to entry and exit<br>Differentiated products<br>- Real physical differences<br>- Imaginary differences<br>- Differences in conditions of sale<br>Imperfect knowledge"
+                    ],
+                    "guid": "h5n@t[e2lt",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Oligopoly (4)",
+                        "A few dominant firms relative to market size<br>High barriers to entry<br>- Artificial barriers (strategic barriers, statutory barriers)<br>- Natural or structural barriers to entry<br>Products can be homogenous or differentiated<br>Imperfect knowledge"
+                    ],
+                    "guid": "xoS^;WNahf",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Oligopoly cooperative and competitive model (4)",
+                        "Cooperative model (collusion)<br>- Cartels<br>- Price leadership<br><br>Competitive model<br>- Price rigidity<br>- Price wars"
+                    ],
+                    "guid": "e3z4:~4g?*",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pricing strategies (3)",
+                        "Uniform pricing<br>Price discrimination<br>Price competition"
+                    ],
+                    "guid": "gb;(x&Zp&?",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price discrimination and conditions (3)",
+                        "Price discrimination occurs when a producer sells the same good at different prices whereby the price difference does not reflect differences in the cost of supplying the customer.<br><br>The seller must have market power.<br>The firm must be able to identify and segment the market according to differences in price elasticity of demand (customer characteristics, location, past purchase behaviour).<br>The firm must be able to prevent resale and abitrage."
+                    ],
+                    "guid": "J@lPI0Y%Rd",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price discrimination benefits and limitations (6)",
+                        "Capture consumer surplus<br>Consumers who are more price sensitive will be able to enter the market<br>Produce in cases where cost of providing a good or service cannot be covered by the low revenue generated<br><br>Price discrimination is only if firms are successful in segmenting the market and preventing resale<br>Price discrimination can create opportunities for the resale market to grow."
+                    ],
+                    "guid": "Ez}Nt@~[#t",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price competition (4)",
+                        "Predatory pricing<br>Price wars<br>Limit pricing<br>Discounts"
+                    ],
+                    "guid": "M,eP6o4`uU",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price strategies (6)",
+                        "Product differentiation<br>Advertising<br>\"Free gifts with purchase\" promotion<br>Customer loyalty rewards programs<br>Research and development<br>Green and ethical marketing"
+                    ],
+                    "guid": "m:6wM8=V@U",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cost-reducing strategies (6)",
+                        "Source for cheaper inputs<br>Increase scale of production<br>Band together or set up jointly owned enterprises<br>Cluster in together for economies of concentration<br>Develop existing and new business processes<br>Offshoring stages of production to another country"
+                    ],
+                    "guid": "I-N]8)DOk;",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Growth strategies (2)",
+                        "Mergers and acquisition<br>- Horizontal integration<br>- Vertical intergration (forward integration, backward integration)<br>- Diversification/Conglomeration<br>Franchising"
+                    ],
+                    "guid": "c>m~/P&(sE",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cognitive biases (3)",
+                        "Saliency bias - focus on salient features to cause irrational decision-making<br>Loss aversion bias - prefer avoiding losses to acquiring equivalent gains<br>Sunk cost fallacy - stick with a strategy that they already invested heavily"
+                    ],
+                    "guid": "sjA?FddAv$",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3265251c-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "04 Microeconomic Objectives and Policies",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Market failure",
+                        "Market failure is defined as the failure of the free market to achieve an efficient allocation of resources that maximises the society's welfare."
+                    ],
+                    "guid": "ecyQ(y.xRl",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sources of market failure (5)",
+                        "Externalities<br>Information failure<br>Zero provision of public goods<br>Market dominance<br>Immobility of factors of production"
+                    ],
+                    "guid": "God_.8f/I,",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Positive/negative externalities from production/consumption",
+                        "The self-interested consumers/producers are only concerned with the private benefits of [...], and would ignore external benefits/costs of [...]. The presence of these marginal external benefit/cost causes a deviation of marginal society benefit (MPB+MEB) from the marginal private benefit curve. The free market equilibrium is where MPB=MPC, which is higher than societal optimal quantity where MSC=MCB. The overconsumption/underconsumption of [...] units result in deadweight/welfare loss represented by ABC. For each additional unit consumed/produced more/less than equilibrium, [...]."
+                    ],
+                    "guid": "fcnksF.a|K",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Information failure (2)",
+                        "Imperfect information<br>Asymmetric information<br>- Adverse selection<br>- Moral harzard"
+                    ],
+                    "guid": "y<.fM8ARY&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Public goods",
+                        "Public goods are goods that are non-rivalry in consumption and non-excludable. They also exhibit characteristic of non-rejectability."
+                    ],
+                    "guid": "B)|o9Bp|Zp",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Immobility of factors of production (2)",
+                        "Occupational immobility<br>Geographical immobility"
+                    ],
+                    "guid": "wKz:+F9@JV",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Forms of government intervention (3)",
+                        "Taxes and subsidies<br>Legislation and regulation<br>- Legislation/laws<br>- Quota<br>- Tradeable permits system<br>Direct provision of goods<br>- Goods under-consumed/produced<br>- Public goods"
+                    ],
+                    "guid": "E=^V24Er!",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Market dominance measures (6)",
+                        "Reducing barriers to entry<br>Anti-trust (anti-monopoly) laws<br>Regulations on standards of provision<br>Price regulation<br>- Marginal cost pricing<br>- Average cost pricing<br>Lump-sum tax<br>Nationalisation"
+                    ],
+                    "guid": "w5oZ$j=I0W",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Information failure measures (2)",
+                        "Education and campaigns<br>Laws to address asymmetric information"
+                    ],
+                    "guid": "k4}5R]xM[m",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Government failure (6)",
+                        "Unintended consequences not addressed<br>Imperfect information<br>Bureaucracy and inefficiency of government intervention<br>Time lags<br>Shifts in government policy<br>Rent seeking"
+                    ],
+                    "guid": "M$J<a|MSRN",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "32915646-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05 Key Economic Indicators",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Macroeconomic aims (4)",
+                        "Economic growth<br>Price stability<br>Full employment<br>Favourable balance of trade position"
+                    ],
+                    "guid": "xJLEgZ{rV_",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Actual and potential economic growth",
+                        "Actual growth is the increase in national output actually produced for a given period of time, commonly measured by the percentage increase in real GDP.<br><br>Potential growth is the increase in the productive capacity of the economy for a given period of time. An increase in quantity or quality of resources will contribute to potential economic growth."
+                    ],
+                    "guid": "hF?0%/t5Ne",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fundamental identity of national income",
+                        "National product (value of all goods and services produced in an economy) equals national income (total income earned by workers in an economy) equals national expenditure (total expenditure by consumers in an economy)."
+                    ],
+                    "guid": "fWz3X~_3fh",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gross domestic product, real and nominal",
+                        "Gross domestic product is the value of all final goods and services produced within the geographical boundary of a country over a given period of time<br><br>Real GDP is the value of final goods and services produced in a given year expressed in terms of the prices in a base year.<br><br>Nominal GDP is the value of the final goods and services produced in a given year expressed in terms of the prices in that same year."
+                    ],
+                    "guid": "QM`DX*uo|)",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gross national income",
+                        "Growth national income measures the value of all final output of goods and services produced by nationally owned factors of production during a given period of time, using the income approach.<br><br>GNI = GDP + NFIA (net factor income from abroad)"
+                    ],
+                    "guid": "b4mD9)<]n=",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of GDP/GNI (2)",
+                        "Presence of non-market activities<br>Presence of underground economy"
+                    ],
+                    "guid": "mU1*/9q~rg",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Price stability",
+                        "Price stability results from a low and stable rate of inflation. This means that prices increase gradually and do not fluctuate in wild and unpredictable manners."
+                    ],
+                    "guid": "e1G}6HIyL&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consumer price index and inflation rate",
+                        "Consumer price index measures the price of a fixed basket of goods and services commonly purchased by a typical household.<br><br>Inflation rate measures the change in price level from year to year, and is measured in percentages. It is calculated as (CPI (current year) - CPI (previous year))/(CPI (previous year)) * 100%."
+                    ],
+                    "guid": "JlEUN93HH&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of CPI (2)",
+                        "Substitution bias<br>Quality adjustment bias"
+                    ],
+                    "guid": "L4S$cU~:45",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Full employment",
+                        "Full employment indicates a non-zero, low rate of unemployment that is compatible with price stability, when all those who are able and willing to work have gained employment. At full employment, structural and frictional unemployment can still occur."
+                    ],
+                    "guid": "bC<YYF>BFl",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of unemployment rate (2)",
+                        "Unemployed people stop looking for jobs and leave the labour force<br>Size of the labour force increases but people are not immediately employed"
+                    ],
+                    "guid": "i#Hv3ahidh",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Accounts in the balance of payment (3)",
+                        "Current account<br>- Trade balance (goods, services)<br>- Income balance (primary income, secondary income)<br>Capital and financial account<br>- Direct investment<br>- Portfolio investment<br>Reserve assets account"
+                    ],
+                    "guid": "PbZnqjcts.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Material standard of living",
+                        "Material standard of living can be indicated by the quantity of goods and services consumed by the average person in a country in a given time period. It is typically measured using real GDP per capita."
+                    ],
+                    "guid": "LPPtlCiS];",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of real GDP per capita (2)",
+                        "Income distribution<br>Composition of GDP"
+                    ],
+                    "guid": "QGmW5vvdcg",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-material standard of living",
+                        "Non-material standard of living refers to the qualitative aspects of life. It can be measured using real GDP per capita or other welfare indicators.<br><br>Healthcare<br>Education<br>Pollution<br>Stress level<br>Security"
+                    ],
+                    "guid": "JwHY%RHF^t",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of welfare indicators (2)",
+                        "Relationship between real GDP per capita and non-material welfare is unclear<br>Welfare indicators are subjective because welfare cannot be quantified"
+                    ],
+                    "guid": "riX==aok%m",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Purchasing power parity",
+                        "Purchasing power parity is a theory of exchange rates whereby a unit of any given currency should be able to buy the same quantity of goods in all countries. It accounts for differences in cost of living when comparing material welfare between countries."
+                    ],
+                    "guid": "wsL|eC?4v?",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of PPP-adjusted real GDP per capita (4)",
+                        "Difficulties in determining the basket of goods<br>Difference in consumption patterns based on context of countries<br>Difference in accounting procedures<br>Omission of non-marketed transactions"
+                    ],
+                    "guid": "ry%~lD:7|/",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "327fd90c-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-06 at 11.38.02 AM.png",
+                "Screenshot 2024-06-06 at 11.54.22 AM.png",
+                "Screenshot 2024-06-06 at 11.54.41 AM.png",
+                "Screenshot 2024-06-06 at 12.13.45 PM.png"
+            ],
+            "name": "06 How the Macroeconomy Works",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Circular flow of income",
+                        "<img src=\"Screenshot 2024-06-06 at 11.38.02 AM.png\">"
+                    ],
+                    "guid": "uw43zqW9ow",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aggregate demand",
+                        "Aggregate demand refers to the total level of spending for an economy, based on the amount of domestically produced goods and services which households, firms, government and foreigners desire to buy, at each general price level."
+                    ],
+                    "guid": "t7@@d`pNc=",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wealth, interest rate and international subsitution effects",
+                        "The wealth effect occurs when the general price level falls, causing the purchasing power of households to increase.<br><br>The interest rate effect occurs when the general price level falls, causing households to require less money to purchase a given quantity of goods and services. Given a fixed supply of money, a fall in demand of money would cause interest rates to fall. A lower interest rate encourages borrowing by households for consumption on interest sensitive items.<br><br>The international substitution effect occurs when the domestic general price level falls while foreign prices remain constant, causing domestically produced goods to become cheaper relative to foreign substitutes. Residents are likely to demand less foreign goods. Foreigners are likely to purchase more of this country's goods."
+                    ],
+                    "guid": "y~@RB>+x+e",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Autonomous and induced consumption",
+                        "Autonomous consumption refers to consumption that is independent on the current level of real national income.<br><br>Induced consumption refers to consumption that is dependent on the current level of real national income."
+                    ],
+                    "guid": "OQU;*fdZ}4",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price determinants of aggregate demand for consumption (5)",
+                        "Economic outlook and consumer confidence<br>Interest rates and access to credit<br>Distribution of income<br>Wealth<br>Personal income taxes"
+                    ],
+                    "guid": "FPMuu?3^(G",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price determinants of aggregate demand for investment (4)",
+                        "Interest rates and access to credit<br>Business confidence and expectations<br>Corporate tax rates<br>Technology changes"
+                    ],
+                    "guid": "La:8F,35Gk",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price determinants of aggregate demand for net exports (4)",
+                        "National income of trading partners/domestic households<br>Relative price levels between countries<br>Exchange rates<br>Trade policies - protectionism"
+                    ],
+                    "guid": "NUP}zZ53[A",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marginal efficiency of investment",
+                        "According to the marginal efficiency of investment theory, there is an inverse relationship between interest rate and investment. The MEI refers to the expected rate of return (or income or profit) of an additional unit of investment while the rate of interest refers to the cost of borrowing."
+                    ],
+                    "guid": "lVmx1jnVF8",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aggregate supply",
+                        "Aggregate supply refers to the total value of output of goods and services that domestic firms as a whole produce and sell at each general price level."
+                    ],
+                    "guid": "Am22Hy{X%G",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-price determinants of aggregate supply (5)",
+                        "Changes in input prices<br>Changes in quantity of resources<br>Changes in quality of resources<br>Technological advancements<br>Government policies"
+                    ],
+                    "guid": "v>;b)j)(|;",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Multiplier",
+                        "Multiplier is a numerical coefficient by which a change in autonomous spending is multiplied to show the final change in equilibrium national income.\\[k=\\frac{\\Delta NY}{\\Delta AD}\\]ΔNY is change in equilibrium national income<br>ΔAD is change in spending\\[k=\\frac{1}{MPS+MPT+MPM}=\\frac{1}{MPW}=\\frac{1}{1-MPC}\\]MPS is the marginal propensity to save<br>MPT is the marginal propensity to tax<br>MPM is the marginal propensity to import<br>MPW is the marginal propensity to withdraw<br>MPC is the marginal propensity to consume"
+                    ],
+                    "guid": "xpt*37$k`<",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Multiplier effect",
+                        "With an increase in [...], there will be an equivalent increase in aggregate demand. The AD curve shifts to the right from AD<sub>1</sub>&nbsp;to AD<sub>1a</sub>. To meet this rise in AD, firms affected wil need to produce more output and hire more factors of production. Firms will pay out income to the factors of production in return for the output produced. Hence, real national income will increase from Y<sub>1</sub>&nbsp;to Y<sub>1a</sub>.<br><br>Households spend a proportion of this increase in income on buying domestically produced consumer goods and services (based on MPC). This increase in induced consumption causes AD<sub>1a</sub>&nbsp;to rise to AD<sub>1b</sub>. Again, in response to rising AD, production and thus income increases. This second round of income induced further consumption, and subsequently increasing AD and income again.<br><br>However, this process does not continue infinitely because of the presence of withdrawals in the form of savings, taxes and import expenditure. This causes the additional increase in spending and income to be a fraction of the previous addition to the circular flow, and the rightward shifts in the AD curve becomes smaller and smaller in each successive round. Eventually when the cumulative sum of withdrawals equals the initial increase in autonomous AD, the multiplier process will stop.<br><br>The initial rise in AD has resulted in a more than proportionate rise in real national income, the multiplied increase in real national income represents actual economic growth.<br><br><img src=\"Screenshot 2024-06-06 at 12.13.45 PM.png\">"
+                    ],
+                    "guid": "qxsP8Zg313",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of multiplier effect (4)",
+                        "Size of multiplier k<br>Level of spare capacity in the economy<br>Time lags<br>Difficulties in measurement"
+                    ],
+                    "guid": "bd,)tks,8n",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aggregate demand-supply graph",
+                        "<img src=\"Screenshot 2024-06-06 at 11.54.22 AM.png\"><br><img src=\"Screenshot 2024-06-06 at 11.54.41 AM.png\">"
+                    ],
+                    "guid": "rL6<{Lqv6I",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "326a81ce-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "07 Macroeconomic Aims and Issues",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sustained and inclusive economy growth",
+                        "Sustained economic growth requires both actual and potential growth.<br><br>Inclusive economic growth indicates a rate of growth that is sustained over a period of time, is broad-based across economic sectors, and creates productive employment for the majority of the country's population."
+                    ],
+                    "guid": "Q[e#j~gW4D",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits and costs of economic growth (6)",
+                        "Higher current and future standards of living<br>- Higher material standard of living<br>- Higher non-material standard of living<br>Decrease in demand-deficient (or cyclical) unemployment<br>Higher capacity for redistributing income and helping the poor<br><br>Overheating economy and demand-pull inflation<br>Unequal and inequitable distribution of income<br>Negative externalities and environmental costs"
+                    ],
+                    "guid": "x(i,~},R3i",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Causes of weak economic growth (6)",
+                        "Fall in aggregate demand<br>Lack of fixed capital investment<br>Lack of/fall in quantity and quality of natural resources<br>Lack of investment in human capital<br>Lack of technological advancement<br>Structural rigidities"
+                    ],
+                    "guid": "k#(~y8JJ=0",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of weak economic growth (5)",
+                        "Higher unemployment<br>Lower standard of living and savings<br>Slower long term economic growth rates due to pessimistic outlook<br>Lower inflation rate<br>Influences on the balance of payments position"
+                    ],
+                    "guid": "k13(FLXL>{",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Types of unemployment (3)",
+                        "Demand-deficient/cyclical unemployment<br>Structural unemployment<br>- Changes in pattern of demand<br>- Foreign competition (or changes in comparative advantage)<br>- Changes in technology and occupational immobility<br>- Geographic immobility<br>Frictional unemployment"
+                    ],
+                    "guid": "zwo[22iQX5",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of unemployment (4)",
+                        "Forgone output or income in the economy and lower living standards<br>Strain on government budget<br>Social problems<br>Hysteresis (applies to demand-deficient unemployment)"
+                    ],
+                    "guid": "LgEQUlD<.[",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inflation and types of inflation (3)",
+                        "Inflation is a situation where there is a sustained increase in the general price level.<br><br>Mild/low inflation<br>Galloping inflation<br>Hyperinflation"
+                    ],
+                    "guid": "O5z[U{.w^w",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Causes of inflation (2)",
+                        "Demand-pull inflation<br>Cost-push inflation<br>- Inflation due to exhaustion of raw materials<br>- Import-induced inflation<br>- Wage-push inflation<br>- Profits-push inflation<br>- Tax-push inflation"
+                    ],
+                    "guid": "g{$nG-Vl|I",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits of low and stable inflation (6)",
+                        "Promotes investment and economic growth<br>Promotes international competitiveness and improve the BOT and BOP<br>Promotes sustained economic growth and lower unemployment<br>Economic agents can take actions to protect themselves to maintain current and future standard of living<br>Improve efficiency in resource allocation<br>Increases the leeway for monetary policy"
+                    ],
+                    "guid": "bF3GlR}}a2",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Costs of high and unstable inflation (8)",
+                        "More difficult to protect material standard of living<br>Reduces investment which hinders potential economic growth<br>Reduces international competitiveness and worsens the BOP<br>Difficulty in sustaining economic growth<br>Arbitrary redistribution of income worsening income distribution<br>- Fixed income earners vs variable income eaners<br>- Workers in strong trade union vs workers in weak trade union<br>- Debtors vs creditors<br>- Holders of financial assets vs those with physical or real assets<br>Significant \"menu costs\"<br>Hinders efficient resource allocation<br>Wage-price spiral causing a breakdown in the functions of money"
+                    ],
+                    "guid": "Gw{tD]-g)2",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Deflation and causes of deflation (2)",
+                        "Deflation occurs when there is sustained decrease in general price level, i.e. negative rate of deflation.<br><br>Causes of deflation are fall in aggregate demand and increase in aggregate supply."
+                    ],
+                    "guid": "gVK,u||[=S",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of deflation (3)",
+                        "A deflationary spiral can develop which affects economic growth and employment<br>Deflation can increase the real burden of debts<br>Deflation is harder to solve than inflation"
+                    ],
+                    "guid": "nMg/eNdONT",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Exchange rate and types of systems (3)",
+                        "Exchange rate is the price of one country's currency in terms of another currency or a basket of foreign currencies.<br><br>Free float exchange rate system<br>Fixed exchange rate system<br>Mannaged float exchange rate system"
+                    ],
+                    "guid": "r|dK_GzpLc",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of exchange rate stability (4)",
+                        "Reduction in uncertainty about exchange rate can lead to improvement in capital/financial account and promote sustained economic growth<br>Fixed exchange rate regimes can often lead to severe financial crises because they are difficult to maintain in the long run<br>Foreign reserve accumulations also entail opportunity costs<br>Fixed exchange rate regimes can also be inflationary if the domestic country tries to maintain an exchange rate below the free market exchange rate"
+                    ],
+                    "guid": "yeeBK3.kUb",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Causes of balance of trade deficit/surplus (5)",
+                        "Changes in global conditions<br>- Cyclical changes in global demand<br>- Sustained economic growth in the importing country<br>Changes in international competitiveness<br>- Changes in comparative advantage<br>- Changes in taste and preference<br>- Changes in relative inflation rates between countries<br>Changes in exchange rates<br>Government policies<br>Random factors/shocks"
+                    ],
+                    "guid": "H_7TMXYx`M",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of balance of trade deficit (3)",
+                        "Implications on economic growth and standard of living<br>Implications on equity<br>Opportunity costs"
+                    ],
+                    "guid": "PiMUE<|x>O",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Consequences of balance of trade surplus (3)",
+                        "Implications on economic growth and standard of living<br>Accumulation of foreign exchange reserves<br>Possible retaliation by trade partners"
+                    ],
+                    "guid": "sY!7{8`?sP",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "328a62fa-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Screenshot 2024-06-06 at 04.54.10 PM.png"
+            ],
+            "name": "08 Macroeconomic Policies",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fiscal policy",
+                        "Fiscal policy is the deliberate management of government spending and taxation designed to influence the level of economic activity to achieve the economic goals of the government."
+                    ],
+                    "guid": "sH%LKkgDJM",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marginal and average tax rate",
+                        "Marginal tax rate is the proportion of additional income paid in taxes.\\[MTR=\\frac{\\text{Change in tax paid}}{\\text{Change in income}}\\]Average tax rate is the proportion of total income paid in taxes.\\[ATR=\\frac{\\text{Total tax paid}}{\\text{Total income}}\\]<br>"
+                    ],
+                    "guid": "djI:g?gXzp",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Types of taxes (3)",
+                        "Proportional tax<br>Progressive tax<br>Regressive tax"
+                    ],
+                    "guid": "H(Nk]#7R|Q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Economic effects of taxes (5)",
+                        "Incentive to work (labour supply)<br>Savings<br>Investments<br>Inflation<br>Resource allocation"
+                    ],
+                    "guid": "iCL_3XSj}Y",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Economic effects of government expenditure (3)",
+                        "Income and wealth redistribution and standard of living<br>Economic growth<br>Resource allocation"
+                    ],
+                    "guid": "B,p=1Rjgz_",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Discretionary fiscal policy and types (2)",
+                        "Discretionary fiscal policy refers to a deliberate change in government expenditure and/or taxes to bring about the desired change in the level of AD.<br><br>Expansionary fiscal policy is used to boost economic growth and other economic indicators (increase government expenditure, reduce taxes).<br><br>Contractionary fiscal policy is used to curb excessively high aggregate demand that brings about inflationary pressures (reduce government expensiture, increase taxes)."
+                    ],
+                    "guid": "l{|tYzp&^g",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Non-discretionary fiscal policy",
+                        "This is an automatic fiscal policy that checks or stimulates economic activities, not by any deliberate government action, but by the operation of built-in or automatic stabilisers. Examples are progressive tax structure, unemployment compensation and family assistance programme."
+                    ],
+                    "guid": "er^ns^sLwT",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effects of fiscal policy (5)",
+                        "Economic growth and employment<br>- Actual growth and employment<br>- Potential growth<br>- Inclusive economic growth<br>- Sustainable economic growth<br>- Standard of living<br>Inflation<br>Balance of trade<br>Income distribution<br>Resource allocation"
+                    ],
+                    "guid": "f^)~/]k#S[",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of expansionary discretionary fiscal policy (8)",
+                        "Size of multiplier<br>Role of consumer and business confidence<br>Problem of time lags<br>- Recognition lag<br>- Administrative lag<br>- Operational lag<br>Crowding out effect<br>- Crowding out of domestic private investment<br>- Crowding out in an open economy<br>Sustainability of running a budget deficit<br>- Choice of instruments<br>- Large and persistent budget deficit vs cyclical deficit<br>Conflicts with other macroeconomic objectives<br>- Trade-off with internal aims<br>- Trade-off with external aims<br>Role of expectations<br>Other limitations<br>- Inflexibility<br>- Political pressures from lobby groups"
+                    ],
+                    "guid": "F$^UkqGH$G",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of contractionary discretionary fiscal policy (4)",
+                        "Role of expectations and confidence<br>Conflict with other macroeconomic aims<br>Inflexibility<br>Undesirable impact on economic growth and standard of living"
+                    ],
+                    "guid": "o(X/C4Eluv",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of non-discretionary fiscal policy (2)",
+                        "Adverse supply-side effects<br>Problem of fiscal drag"
+                    ],
+                    "guid": "J*!M&zt*F6",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Monetary policy and types (2)",
+                        "Monetary policy refers to the actions of a central bank to influence the availability of credit (money supply), cost of credit (interest rates), or value of its currency in the foreign exchange market (exchange rate), to achieve macroeconomic goals.<br><br>Monetary policy can be expansionary or contractionary."
+                    ],
+                    "guid": "rDjJh%An9V",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effects of monetary policy (3)",
+                        "Internal effect<br>External effect<br>Impact on real national income, employment and inflation"
+                    ],
+                    "guid": "DcSyr3b$G<",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of expansionary monetary policy (6)",
+                        "Interest elasticity of demand for investment<br>Expectations of the future state of the economy<br>Liquidity trap<br>Time lags between implementation and impact on the economy<br>Inability to achieve specific macroeconomic objectives<br>Unintended consequences: conflicts with other macroeconomic aims"
+                    ],
+                    "guid": "le!VK)|N6H",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of contractionary monetary policy (2)",
+                        "Short/long term basis of projects<br>Conflicts with other economic goals"
+                    ],
+                    "guid": "yvQW@hxcCj",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marginal efficiency of investment curve",
+                        "<img src=\"Screenshot 2024-06-06 at 04.54.10 PM.png\">"
+                    ],
+                    "guid": "I2(m1wZV;U",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Supply-side policies and types (2)",
+                        "Supply-side policies are designed to improve structural performance of an economy, to improve the productive capacity of an economy by increasing the quantity, quality and mobility of factors of production in an economy.<br><br>Supply-side policies can be market-oriented or interventionist."
+                    ],
+                    "guid": "cgm1Xhg9M^",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Market-oriented supply-side policies (5)",
+                        "Privatisation<br>Pro-competition policies<br>- A tougher competition policy regime<br>- Deregulation/liberalisation<br>- Promoting freer trade between nations<br>Reducing the power of trade unions<br>Tax cuts<br>- Effects on labour supply<br>- Effects on capital accumulation<br>Cuts in welfare benefits"
+                    ],
+                    "guid": "HlSS{*D,[Q",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Interventionist supply-side policies (5)",
+                        "Education and training<br>Grants to encourage research and development<br>Encourage small business start-ups/entrepreneurship<br>Nationalisation<br>Other labour market policies<br>- Income policies (wage guides/flexible wages/wage freeze)<br>- Wage subsidies"
+                    ],
+                    "guid": "mOe~u6(]2~",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effects of supply-side policies (4)",
+                        "Growth and inflation<br>- Inclusive economic growth<br>- Sustainable economic growth<br>Employment<br>Balance of trade and balance of payments<br>Standard of living"
+                    ],
+                    "guid": "H=<a*6,G/+",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of supply-side policies (4)",
+                        "Depends on accuracy and availability of information to government<br>Trade-offs (exacerbating income inequalities)<br>Difficult or unfeasible due to limited fiscal budget<br>Policy acceptability (politically unpopular policies)"
+                    ],
+                    "guid": "O0nM2,}J$e",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "329cf79e-36d7-11ef-af6f-47f65b4af33a",
+            "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "09 Globalisation and the International Economy",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "55f4dfe4-36d8-11ef-af6f-47f65b4af33a",
+    "deck_config_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "2ff68410-36d7-11ef-af6f-47f65b4af33a",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 2,
+            "lapse": {
+                "delays": [
+                    15.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 3,
+                "mult": 0.0
+            },
+            "maxTaken": 180,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    15.0,
+                    1440.0,
+                    4320.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    6,
+                    8,
+                    0
+                ],
+                "order": 1,
+                "perDay": 1000
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 4,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 3,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 1000,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Economics",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 8367583320482944981,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -442860831672305872,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -3955593040495740720,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
