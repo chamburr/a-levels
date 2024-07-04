@@ -605,11 +605,214 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-11caf767ecc717a98c5fe0a5cc1ebcc8ebccaf57.jpg"
+            ],
             "name": "05a Chemical Energetics I",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enthalpy",
+                        "The enthalpy of a system is a measure of the energy content of the system and has the symbol H. The higher the energy content of a system, the more unstable it is"
+                    ],
+                    "guid": "M<pFbh_gzv",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Exothermic vs endothermic reaction (5)",
+                        "<img src=\"paste-11caf767ecc717a98c5fe0a5cc1ebcc8ebccaf57.jpg\">"
+                    ],
+                    "guid": "lpf(.kvd5",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard enthalpy change of reaction,&nbsp;\\(\\Delta H^\\circ _r\\)",
+                        "Standard enthalpy change of reaction (\\(\\Delta H^\\circ _r\\)) is the energy change in a chemical reaction when the molar quantities of reactants stated in the chemical equation react under standard conditions (i.e. 1 bar and 298 K)"
+                    ],
+                    "guid": "S_clou,vi",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard enthalpy change of formation,&nbsp;\\(\\Delta H^\\circ _f\\)&nbsp;(2)",
+                        "Standard enthalpy change of formation (\\(\\Delta H^\\circ _f\\)) of a substance is the <u>energy change</u> when 1 mole of the pure substance in a specified state is formed from its constituent elements in their standard states under standard conditions (i.e. 1 bar and 298 K)<br><br>Standard enthalpy change of formation (\\(\\Delta H^\\circ _f\\)) of an element in its standard state under standard conditions is zero"
+                    ],
+                    "guid": "fd7$^KrYwk",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard enthalpy change of combustion,&nbsp;\\(\\Delta H^\\circ _c\\)",
+                        "Standard enthalpy change of combustion (\\(\\Delta H^\\circ _c\\)) of a substance is the <u>energy released</u> when 1 mole of the substance is completely burnt in excess oxygen under standard conditions (i.e. 1 bar and 298 K)"
+                    ],
+                    "guid": "Oiydb}<ME9",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard enthalpy change of neutralisation,&nbsp;\\(\\Delta H^\\circ _{neut}\\)",
+                        "Standard enthalpy change of neutralisation (\\(\\Delta H^\\circ _{neut}\\)) between an acid and a base is the <u>energy change</u> when the acid and the base react to form 1 mole of water under standard conditions (i.e. 1 bar and 298 K)"
+                    ],
+                    "guid": "p+$6el>Kg.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Weak acid-strong base neutralisation",
+                        "Less exothermic than that of the strong acid-strong base neutralisation reaction<br><br>This is because during the neutralisation reaction, the&nbsp;\\(CH_3COOH\\)&nbsp;molecules have to undergo further dissociation to produce&nbsp;\\(H^+\\)&nbsp;ions for reaction with the&nbsp;\\(OH^-\\)&nbsp;ions<br><br>The dissociation of&nbsp;\\(CH_3COOH\\)&nbsp;involves the breaking of the&nbsp;\\(O-H\\)&nbsp;bond (endothermic) and hydration of the&nbsp;\\(CH_3COO^-\\)&nbsp;and&nbsp;\\(H^+\\)&nbsp;ions (exothermic). Overall dissociation reaction is endothermic<br><br>Since some energy is consumed to bring about further dissociation of the&nbsp;\\(CH_3COOH\\)&nbsp;molecules during the neutralisation reactoin, the energy released from the reaction will be less"
+                    ],
+                    "guid": "MgIh:q1?l!",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard enthalpy change of atomisation,&nbsp;\\(\\Delta H^\\circ _{atom}\\)&nbsp;(2)",
+                        "Standard enthalpy change of atomisation (\\(\\Delta H^\\circ _{atom}\\)) of an element is the <u>energy absorbed</u> when 1 mole of gaseous atoms is formed from the element under standard conditions (i.e. 1 bar and 298 K)<br><br>Standard enthalpy change of atomisation (\\(\\Delta H^\\circ _{atom}\\)) of a compound is the <u>energy absorbed</u> when 1 mole of the compound is converted to gaseous atoms under standard conditions"
+                    ],
+                    "guid": "gNc:G2~]PT",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bond dissociation energy (BDE)",
+                        "Bond dissociation energy of a&nbsp;\\(X-Y\\)&nbsp;bond is the <u>energy required</u> to break 1 mole of that particular&nbsp;\\(X-Y\\)&nbsp;bond in a particular compound in gaseous state"
+                    ],
+                    "guid": "ezL{`u]uFf",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bond energy (BE) of a bond",
+                        "Bond energy of a&nbsp;\\(X-Y\\)&nbsp;bond is the average <u>energy required</u> to break 1 mole of the&nbsp;\\(X-Y\\)&nbsp;bonds in the gaseous state"
+                    ],
+                    "guid": "o`I*?#&W$(",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionisation energy, IE",
+                        "The first ionisation energy of an element is the <u>energy required</u> to remove 1 mole of electrons from 1 mole of gaseous atoms to form 1 mole of singly positively charged gaseous ions<br><br>Similar for 2nd IE"
+                    ],
+                    "guid": "v;ys0gPq9v",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Electron affinity, EA (2)",
+                        "The first electron affinity (\\(1^{st} EA\\)) of an element is the <u>energy change</u> when 1 mole of gaseous atoms acquires 1 mole of electrons to form 1 mole of singly negatively charged gaseous ions<br><br>The second electron affinity of an element is the&nbsp;<u>energy absorbed</u>&nbsp;when 1 mole of singly negatively charged gaseous ions acquires 1 mole of electrons to form 1 mole of doubly negatively charged gaseous ions"
+                    ],
+                    "guid": "Qjy]BBo:Pi",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lattice energy, LE",
+                        "The lattice energy (LE) of an ionic compound is the <u>energy released</u> when 1 mole of the solid ionic compound is formed from its constituent gaseous ions under standard conditions (i.e. 1 bar and 298 K)"
+                    ],
+                    "guid": "JQ23Rhs?2p",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard enthalpy change of hydration,&nbsp;\\(\\Delta H^\\circ _{hyd}\\)&nbsp;(2)",
+                        "Standard enthalpy change of hydration (\\(\\Delta H^\\circ _{hyd}\\)) of an ion is the <u>energy released</u> when 1 mole of the gaseous ion is hydrated under standard conditions (i.e. 1 bar and 298 K)<br><br>\\(|\\Delta H^\\circ _{hyd}[M^+(g)]| \\propto |\\frac{q_+}{r_+}|\\)<br><br>\\(|\\Delta H^\\circ _{hyd}[X^-(g)]| \\propto |\\frac{q_-}{r_-}|\\)"
+                    ],
+                    "guid": "h(M+}mWfRB",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Standard enthalpy change of solution,&nbsp;\\(\\Delta H^\\circ _{soln}\\)",
+                        "Standard enthalpy change of solution (\\(\\Delta H^\\circ _{soln}\\)) of a substance is the <u>energy change</u> when 1 mole of the substance is completely dissolved in a solvent to form an infinitely dilute solution under standard conditions (i.e. 1 bar and 298 K)"
+                    ],
+                    "guid": "lj.v^?$p0X",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Calorimetry",
+                        "\\(q = mc\\Delta T\\)<br>\\(\\Delta H = -\\frac{q}{n}\\)<br><br>Assumptions:<br>Negligible heat loss to the surrounding air due to insulation<br>The density of the solution is approximately that of water (\\(1.00\\;g\\;cm^{-3}\\))<br>The specific heat capacity of the solution is approximately that of water <br>(\\(4.18\\;J\\;g^{-1}\\;K^{-1}\\))<br>There is&nbsp;\\(100\\%\\)&nbsp;efficiency in the transfer of heat from the reaction to the solution"
+                    ],
+                    "guid": "BPw9qJ_2y<",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hess' Law",
+                        "Hess' Law states that the enthalpy change of a chemical reaction is the same regardless of whether the reaction takes place in one step or several steps, provided the initial and final states of the reactions and products are the same"
+                    ],
+                    "guid": "cG]S|-M9aj",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Common formulas",
+                        "\\(\\Delta H^\\circ _r = \\sum n \\Delta H^\\circ _c(reactants) - \\sum n \\Delta H^\\circ _c (products)\\)<br><br>\\(\\Delta H^\\circ _r = \\sum n \\Delta H^\\circ _f(products) - \\sum n \\Delta H^\\circ _f (reactants)\\)<br><br>\\(\\Delta H^\\circ _r = \\sum BE (reactants) - \\sum BE (products)\\)"
+                    ],
+                    "guid": "K1#{]tW15E",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lattice energies",
+                        "Calculated using Born-Haber cycle<br>Use F.A.I.L (formation, atomisation, ionisation (IE &amp; EA), lattice energy)<br><br>For predominantly ionic compounds, experimental lattice energy values are in good agreement with theoretical lattice energy values, suggesting that structure of the lattice for these compounds is quite close to being purely ionic<br><br>For ionic compounds with partial covalent character, experimental lattice energy values differ, suggesting that bonding is not as close to 'purely ionic'. Experimental lattice energy values are more exothermic"
+                    ],
+                    "guid": "ERQq$W@?WJ",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aqueous solution formation (2)",
+                        "Separation of ions in the solid ionic lattice into monoatomic gaseous ions (endo) followed by hydration of gaseous ions, forming ion-dipole interactions (exo)<br><br>\\(\\Delta H^\\circ _{soln} = -LE + \\sum \\Delta H^\\circ _{hyd}\\)"
+                    ],
+                    "guid": "siD+7XX%/l",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
