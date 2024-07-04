@@ -128,7 +128,7 @@
                         "Two point masses attract each other with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.\\[F=\\frac{GMm}{r^2}\\]"
                     ],
                     "guid": "x-;pB%.G|T",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -138,7 +138,7 @@
                         "Gravitational field is a region of space in which a mass placed in that region experiences a gravitational force."
                     ],
                     "guid": "ENo*x<9]g1",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -148,7 +148,7 @@
                         "Gravitational field strength at a point in space is defined as the gravitational force experienced per unit mass at that point.\\[g=\\frac{F}{m}=\\frac{GM}{r^2}\\]<br>"
                     ],
                     "guid": "P|7AR[Gik$",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -158,7 +158,7 @@
                         "The shell theorem states that inside a solid sphere of constant density, the gravitational force varies linearly with distance from the centre, becoming zero by symmetry at the centre of mass.<br><br><img src=\"Screenshot 2024-06-07 at 01.58.08 PM.png\">"
                     ],
                     "guid": "tp[FNo!=F1",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -168,7 +168,7 @@
                         "Gravitational potential energy of a mass at a point in a gravitational field is defined as the work done by an external force in bringing the mass from infinity to that point.&nbsp;The point at infinity is defined to have zero gravitational potential energy.\\[U=-\\frac{GMm}{r}\\]<br>"
                     ],
                     "guid": "VvybD^?)|",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -178,7 +178,7 @@
                         "Gravitational potenetial at a point in a gravitational field is defined as the work done per unit mass by an external force in bringing a small test mass from infinity to that mass.\\[\\phi=\\frac{U}{m}=-\\frac{GM}{r}\\]<br>"
                     ],
                     "guid": "BN|ly4QvF<",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -188,7 +188,7 @@
                         "<img src=\"Screenshot 2024-06-07 at 02.07.33 PM.png\">"
                     ],
                     "guid": "t*wSPm=OWS",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -198,7 +198,7 @@
                         "The minimum speed needed for the object to just escape from the gravitational influence of a massive body is called escape velocity.\\[E_p+E_k=-\\frac{GMm}{R_{earth}}+\\frac{1}{2}mv^2\\ge0\\]\\[v\\ge\\sqrt{2gR_{earth}}\\]<br>"
                     ],
                     "guid": "zm_2t7~LQB",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -208,7 +208,7 @@
                         "The square of the period of revolution of the planets are directly proportional to the cubes of their mean distances from the Sun.\\[T^2=\\frac{4\\pi^2}{GM}r^3\\]"
                     ],
                     "guid": "P<GVsV#kf%",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -218,7 +218,7 @@
                         "<img src=\"Screenshot 2024-06-07 at 02.17.38 PM.png\">"
                     ],
                     "guid": "K)L?zHB:]n",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -228,7 +228,7 @@
                         "A geostationary satellite is one that remains at a fixed position in the sky as viewed from any location on the Earth's surface.<br><br>Advantages<br>- There is continuous surveillance of the region under it.<br>- It is easy for the ground station to communicate with it as it is permanently within view. Ground-based antennas can remain fixed in one direction.<br>- Due to high altitude, the satellite can transmit and receive signals over a large area.<br><br>Disadvantages<br>- A significant loss of signal strengths.<br>- Poorer resolution in imaging satellites.<br>- Time-lag in telecommunication."
                     ],
                     "guid": "e$axe/MYWk",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -238,7 +238,7 @@
                         "A binary star system consists of two stars that are gravitationally bound. The two stars orbit around the center of the mass of the system."
                     ],
                     "guid": "Nht5`93x9P",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -266,7 +266,7 @@
                         "When there is no net flow of heat between two objects in thermal contact, the two objects are in a state of thermal equilibrium."
                     ],
                     "guid": "m_k$O6KjAL",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -276,7 +276,7 @@
                         "If objects A and B are each separately in thermal equilibrium with a third object C, then A and B are also in thermal equilibrium with each other."
                     ],
                     "guid": "E*@:iL<:^}",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -286,7 +286,7 @@
                         "Absolute scale of temeprature or the thermodynamic scale of temperature is one that is independent of the property of any substance and has an absolute zero.<br><br>Absolute zero is defined as the zero point (0K) of the thermodynamic temperature scale and the temperature at which all substances have a minimum internal energy."
                     ],
                     "guid": "ML/:aI6c2K",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -296,7 +296,7 @@
                         "An ideal gas is a gas which obeys the equation of state&nbsp;\\(pV=nRT\\)&nbsp;at all pressures, volumes and temperatures."
                     ],
                     "guid": "PBjUm>8h=b",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -306,7 +306,7 @@
                         "\\[pV=\\frac{1}{3}Nm\\langle c^2\\rangle,\\ p=\\frac{1}{3}\\rho\\langle c^2\\rangle\\]\\[\\langle E_k\\rangle=\\frac{1}{2}m\\langle c^2\\rangle=\\frac{1}{2}mc_{rms}^2=\\frac{3}{2}kT\\]<br>"
                     ],
                     "guid": "y9}5@{mJJn",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -337,7 +337,7 @@
                         "During melting, the heat supplied to the solid is used to overcome the attractive forces between the atoms or molecules which causes the lattice structure of the solid to collapse.<br><br>During boiling, the heat supplied to the liquid is used to overcome the attractive forces between the molecules to break the intermolecular forces completely."
                     ],
                     "guid": "HN)t[vWh&H",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -347,7 +347,7 @@
                         "The molecules of a liquid are continually in motion and they make frequent collisions with each other. During collisions, some molecules gain energy while others lose energy. If a molecule near the surface of the liquid gains enough kinetic energy, it will be able to escape from the attractive forces of the molecules below it.<br><br>Since the more energetic molecules escape, the average kinetic energy of the remaining molecules decreases. The decrease in the average microscopic kinetic energy results in a decrease in the temperature of the liquid."
                     ],
                     "guid": "e(bG2Rw9uA",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -357,7 +357,7 @@
                         "The heat capacity of a body is the quantity of heat required to cause a unit rise in temperature of body. \\[C=\\frac{Q}{\\Delta T}\\]<br>The specific heat capacity of a body is the quantity of heat required per unit mass to cause a unit rise in temperature of body. \\[c=\\frac{Q}{m\\Delta T}\\]<br>"
                     ],
                     "guid": "h&~Y;VJvO3",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -367,7 +367,7 @@
                         "The specific latent heat of fusion is the quantity of heat required to convert unit mass of solid to liquid without any change of temperature.\\[l_f=\\frac{Q}{m}\\]The specific latent heat of vaporisation is the quantity of heat required to convert unit mass of liquid to gas without any change of temperature.\\[l_v=\\frac{Q}{m}\\]<br>"
                     ],
                     "guid": "N_@ra{1i9Y",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -377,7 +377,7 @@
                         "Specific latent heat of vaporisation is higher than specific latent heat of fusion.<br><br>To melt a solid, work must be done to separate some of the molecules against their mutual attractions so that the structure no longer has any rigidity. When a liquid vaporises, all the remaining bonds must be broken. Thus, melting means the breaking of relatively fewer bonds.<br><br>The volume occupied in the gaseous state is much larger than that in the liquid state. The gas needs to do work against the external or atmospheric pressure. Energy is required by the gas to do work during the expansion process."
                     ],
                     "guid": "r_o>%~*neB",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -387,7 +387,7 @@
                         "The internal energy of a system is the sum of the microscopic kinetic energy, due to the random motion of the molecules, and the microscopic potential energy, associated with the molecular forces of the system.<br><br>Internal energy of an ideal gas (only applies to monoatomic gases because such atoms perform translational motion only):\\[U=\\frac{3}{2}NkT=\\frac{3}{2}nRT=\\frac{3}{2}pV\\]<br>"
                     ],
                     "guid": "nr-cB)rm{h",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -397,7 +397,7 @@
                         "The first law of thermodynamics states that the increase in the internal energy of a system is equal to the sum of the heat supplied to the system and the work done on the system, and the internal energy of a system depends only on its state.\\[\\Delta U=Q+W\\]<br><img src=\"Screenshot 2024-06-07 at 10.38.26 PM.png\"><br>"
                     ],
                     "guid": "d]}Uc8d.@M",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -407,7 +407,7 @@
                         "<img src=\"Screenshot 2024-06-07 at 10.48.15 PM.png\"><br><br>Work done is the area under the graph. It is negative when there is an increase in volume. It is positive when there is a decrease in volume."
                     ],
                     "guid": "p_5C}&0lm2",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -417,7 +417,7 @@
                         "Isothermal process (T is constant)<br>Isobaric process (p is constant)<br>Isovulmetric/isochloric/isometric process (V is constant)<br>Adiabatic process (no heat transfer, Q=0)<br>Cyclic process"
                     ],
                     "guid": "nYw:F.LlIv",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -445,7 +445,7 @@
                         "Simple harmonic motion is defined as the motion of a particle about a fixed point such that its acceleration is proportional to its displacement from the fixed point and is always directed towards the point.\\[a=-\\omega^2x\\]<br>"
                     ],
                     "guid": "p,r.yw!AK!",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -455,7 +455,7 @@
                         "Angular frequency is defined as the rate of change of phase angle of the oscillation, and is equal to the product of 2π and its frequency.\\[\\omega=2\\pi f\\]<br>"
                     ],
                     "guid": "bVVXv>qJaG",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -465,7 +465,7 @@
                         "Amplitude is the magnitude of the maximum displacement of the particle from its equilibrium position. Period is the time taken to complete one oscillation. Frequency is the number of oscillations per unit time.\\[T=\\frac{2\\pi}{\\omega}=\\frac{1}{f}\\]<br>"
                     ],
                     "guid": "n@cmyt<ji,",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -475,7 +475,7 @@
                         "\\[x=x_o\\cos\\omega t\\]\\[v=-x_o\\omega\\sin\\omega t\\]\\[a=-x_o\\omega^2\\cos\\omega t\\]"
                     ],
                     "guid": "N8Pqj#%*=s",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -485,7 +485,7 @@
                         "A free oscillation occurs when an object oscillates with no resistive and driving forces acting on it. Its total energy and amplitude remain constant with time."
                     ],
                     "guid": "v?!](m]h[j",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -495,7 +495,7 @@
                         "Spring-mass system\\[a=-\\frac{kx}{m},\\ \\omega=\\sqrt{\\frac{k}{m}},\\ T=2\\pi\\sqrt{\\frac{m}{k}}\\]Simple pendulum\\[a=-\\frac{gs}{L},\\ \\omega=\\sqrt{\\frac{g}{L}},\\ T=2\\pi\\sqrt{\\frac{L}{g}}\\]<br>"
                     ],
                     "guid": "j;)]+5k0[H",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -505,7 +505,7 @@
                         "Damping is the process whereby energy is removed from an oscillating system."
                     ],
                     "guid": "kWh>A&ZzUF",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -515,7 +515,7 @@
                         "Light damping results in osclliations whereby the amplitude decays exponentially with time. The frequency of oscillations is slightly smaller than the undamped frequency.<br><br>Critical damping results in no oscillation and the system returns to the equilibrium position in the shortest time.<br><br>Heavy damping results in no oscillation and the system takes a long time to return to its equilibrium position."
                     ],
                     "guid": "e@^ri{J(y@",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -525,7 +525,7 @@
                         "Forced oscillations are produced when a body is subjected to a periodic external driving force.<br><br>Resonance occurs when a system responds at maximum amplitude to an external driving force. This occurs when the frequency of the driving force is equal to the natural frequency of the driven system."
                     ],
                     "guid": "Ba9{p7{b=s",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -535,7 +535,7 @@
                         "Tuning a radio receiver (eletrical resonance)<br>Increasing the intensity of a note produced by a string in a musical instrument (acoustic resonance)<br>Magnetic resonance"
                     ],
                     "guid": "O(msd(*t8t",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -563,7 +563,7 @@
                         "Frequency of a wave is the number of oscillations made per unit time.<br><br>Wavelength of a wave is the distance between two consecutive points which are in phase.<br><br>Speed of a wave is the speed at which the wave shape moves."
                     ],
                     "guid": "JCK#_UKufE",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -573,7 +573,7 @@
                         "Particles of a wave are considered to be in phase when they execute the same motion at the same time.<br><br>Particules that show different stages of motion are out of phase with each other. They have a non-zero phase difference.<br><br>Particles in a wave are in anti-phase when they execute motions that are out of phase by π rad or 180°."
                     ],
                     "guid": "j4N.%e.v*`",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -583,7 +583,7 @@
                         "The intensity of a wave is defined as the rate of transfer of energy per unit area normal to the direction of energy transfer of the wave.\\[I=\\frac{P}{S}=kA^2\\]<br>"
                     ],
                     "guid": "q`:g]*[g{e",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -593,7 +593,7 @@
                         "\\[I=\\frac{P}{4\\pi r^2}=\\frac{k}{r^2}\\]"
                     ],
                     "guid": "fLt{_J1AUK",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -603,7 +603,7 @@
                         "A transverse wave is one in which its particles oscillate in a direction perpendicular to the direction of energy transfer.<br><br>A longitudinal wave is one in which its particles oscillates in a direction parallel to the direction of energy transfer."
                     ],
                     "guid": "B%u+k!k_O_",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -613,7 +613,7 @@
                         "Polarisation is a phenomenon whereby the oscillations of the wave particles in transverse waves are restricted to one direction only and this direction is perpendicular to the direction of energy transfer."
                     ],
                     "guid": "r:@IZx{JOg",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -623,7 +623,7 @@
                         "When unpolarised light is incident on an ideal polariser, the intensity of the transmitted light is exactly half that of the incident unpolarised light, no matter how the polarising axis is oriented.\\[I=\\frac{I_o}{2}\\]"
                     ],
                     "guid": "boT_LRyH5=",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -633,7 +633,7 @@
                         "Malus' law states that the intensity of a beam of plane-polarised light after passing through a polariser varies with the square of the cosine of the angle through which the polariser is rotated from the position that gives maximum intensity.\\[A=A_o\\cos\\theta\\]\\[I=I_o\\cos^2\\theta\\]<br>"
                     ],
                     "guid": "KC@iuCI9|A",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -673,7 +673,7 @@
                         "The principle of superposition states that when two or more waves of the same kind meet at a point in space, the resultant displacement at that point is equal to the vector sum of the displacements of the individual waves at that point."
                     ],
                     "guid": "Dcv[J)x9wd",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -683,7 +683,7 @@
                         "A stationary wave is the result of the superposition of two progressive waves of the same type, frequency, amplitude and speed, travelling along the same line but in opposite directions."
                     ],
                     "guid": "OihIjsn(QU",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -693,7 +693,7 @@
                         "A node is a point in a stationary wave where the amplitude is zero.<br><br>An antinode is a point in a stationary wave where the amplitude is the maximum."
                     ],
                     "guid": "LpCi7$4_]1",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -703,7 +703,7 @@
                         "<img src=\"Screenshot 2024-06-08 at 11.11.00 AM.png\">"
                     ],
                     "guid": "r*s;6h~{^/",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -713,7 +713,7 @@
                         "<img src=\"Screenshot 2024-06-08 at 11.14.39 AM.png\"><br><img src=\"Screenshot 2024-06-08 at 11.14.47 AM.png\"><br><img src=\"Screenshot 2024-06-08 at 11.15.00 AM.png\">"
                     ],
                     "guid": "k4Eh^E`B=@",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -723,7 +723,7 @@
                         "Diffraction is the bending of waves after passing through an aperture or round an obstacle."
                     ],
                     "guid": "w!<!uh/mnl",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -733,7 +733,7 @@
                         "Waves exhibit coherence when they have a constant phase difference."
                     ],
                     "guid": "HLb]1atAze",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -743,7 +743,7 @@
                         "Interference is the superposition of two or more waves to give a resultant wave whose resultant amplitude is given by the principle of superposition.<br><br>Constructive inteference occurs when two coherent waves arrive at the same point with a phase difference of zero to produce a maximum.<br><br>Destructive inteference occurs when two coherent waves arrive at the same point with a phase difference of π rad&nbsp;to produce a minimum."
                     ],
                     "guid": "h,khfg=n0/",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -753,7 +753,7 @@
                         "The path difference between two waves is the difference in the distance that each wave travels from its source to the point where they meet."
                     ],
                     "guid": "wvcOV.2PR2",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -763,7 +763,7 @@
                         "<img src=\"Screenshot 2024-06-08 at 11.26.30 AM.png\">"
                     ],
                     "guid": "D3f^#QRe[r",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -773,7 +773,7 @@
                         "<img src=\"Screenshot 2024-06-08 at 11.27.14 AM.png\"><br><img src=\"Screenshot 2024-06-08 at 11.28.10 AM.png\">"
                     ],
                     "guid": "pOHLbVc6mY",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -783,7 +783,7 @@
                         "The formula is only applicable if the rays are almost parallel and the angle of the fringes from the normal is small.\\[x=\\frac{\\lambda D}{a}\\]Typical values for slit width w is 0.2mm, slit separation a is 0.5mm, slit-screen distance D is 1m, wave length of light λ is 500nm.<br>"
                     ],
                     "guid": "q<63aEeb:D",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -793,7 +793,7 @@
                         "A diffraction grating consists of a large number of parallel, equally spaced lines of equal width.<br><br>Since the waves passing through all the slits are in phase, for constructive interference,&nbsp;\\(d\\sin\\theta_n=n\\lambda\\). We can determine the maximum order of the bright fringes since&nbsp;\\(n&lt;\\frac{d}{\\lambda}\\).<br><br><img src=\"Screenshot 2024-06-08 at 11.31.27 AM.png\">"
                     ],
                     "guid": "J)FAQ<aKWq",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -803,7 +803,7 @@
                         "<img src=\"Screenshot 2024-06-08 at 11.40.24 AM.png\"><br><br>The first minimum for single slit diffraction can be obtained using the following equation, where b is the width of the single slit.\\[\\sin\\theta=\\frac{\\lambda}{b}\\]<br>For θ&lt;6°, the width y of the central bright fringe on a screen a distance D away can be approximated by the following equation.\\[y\\approx\\frac{2D\\lambda}{b}\\]<br>"
                     ],
                     "guid": "MP*{pCCF/e",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -813,7 +813,7 @@
                         "<img src=\"Screenshot 2024-06-08 at 11.41.02 AM.png\">"
                     ],
                     "guid": "qd4S-S*x*U",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -823,7 +823,7 @@
                         "Rayleigh criterion states that two images are just resolved by an aperture when the central maximum of the diffraction pattern of one image falls on the first minimum of the diffraction pattern of the other image.\\[\\theta_{min}\\approx\\frac{\\lambda}{b},\\ \\theta_{min}\\approx1.22\\frac{\\lambda}{D}\\text{ (for circular apertures)}\\]<br><img src=\"Screenshot 2024-06-24 at 04.21.10 PM.png\"><br>"
                     ],
                     "guid": "wT=PJ7,R%A",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -854,7 +854,7 @@
                         "An electric field is a region of space in which a charge placed in that region experiences an electric force."
                     ],
                     "guid": "yvAbmW8*Ux",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -864,7 +864,7 @@
                         "The electric field strength at a point is defined as the electric force exerted per unit positive charge at that point.\\[E=\\frac{F}{q}=\\frac{1}{4\\pi\\epsilon_0}\\frac{Q}{r^2}\\]<br>"
                     ],
                     "guid": "Pe%tlZ_$no",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -874,7 +874,7 @@
                         "Coulumb's law states that the force between two point charges is proportional to the product of the charges and inversely proportional to the square of the distance between them.\\[F=\\frac{1}{4\\pi\\epsilon_0}\\frac{Qq}{r^2}\\]"
                     ],
                     "guid": ".~_cv,b@Y",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -884,7 +884,7 @@
                         "The electric potential energy of a charge at a point in an electric field is defined as the work done by an external force in bring the charge from infinity to that point.\\[U=\\frac{1}{4\\pi\\epsilon_0}\\frac{Qq}{r}\\]<br>"
                     ],
                     "guid": "v}k%9;+dmN",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -894,7 +894,7 @@
                         "The electric potential at a point in an electric field is defined as the work done per unit positive charge by an external force in bringing a small test charge from infinity to that point.\\[V=\\frac{U}{q}=\\frac{1}{4\\pi\\epsilon_0}\\frac{Q}{r}\\]"
                     ],
                     "guid": "xC[N%H{KOc",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -904,7 +904,7 @@
                         "The electric-volt is defined as the energy gained by an electron when it is accelerated through a potential difference of 1V.\\[1eV=1.60*10^{-19}C*1V=1.60*10^{-19}J\\]<br>"
                     ],
                     "guid": "no]<Y^.VR&",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -914,7 +914,7 @@
                         "<img src=\"Screenshot 2024-06-08 at 01.26.12 PM.png\"><br><img src=\"Screenshot 2024-06-08 at 01.26.19 PM.png\">"
                     ],
                     "guid": "p;Di)kD!pe",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -924,7 +924,7 @@
                         "The magnitude of the field strength can be found by calculating the potential gradient.\\[|E|=\\frac{|\\Delta V|}{d}\\]When a particle of charge q of mass m is placed in a uniform electric field of field strength E, a constant electric force F acts on the charge.\\[F=qE\\]<br>If the constant electric force F is the only force acting on the particle, the acceleration a of the particle is also constant and kinematic equations of motion can be applied.\\[a=\\frac{F}{m}=\\frac{qE}{m}\\]<br>"
                     ],
                     "guid": "iiuauGPxY+",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -955,7 +955,7 @@
                         "Electric current is defined as the rate of flow of charge.\\[I=\\frac{Q}{t}\\]<br>"
                     ],
                     "guid": "E`q`;{dEyo",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -965,7 +965,7 @@
                         "When there is an electric current in a conductor, the free charge carriers in the conductor move with an average velocity in the order of&nbsp;\\(10^{-4}ms^{-1}\\), this is called the drift velocity&nbsp;\\(v_D\\).\\[I=nAv_Dq\\]<br><img src=\"Screenshot 2024-06-08 at 01.46.14 PM.png\"><br>"
                     ],
                     "guid": "I>?Hh]~4>K",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -975,7 +975,7 @@
                         "The potential difference between two points in a circuit is defined as the amount of electrical energy per unit charge that is converted to other forms of energy when charge passes from one point to the other.\\[V=\\frac{W}{Q}\\]"
                     ],
                     "guid": "OO|MuX]{^h",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -985,7 +985,7 @@
                         "The electromotive force of a source is defined as the amount of electrical energy per unit charge that is converted from other forms of energy when charge passes through the source.\\[E=\\frac{W}{Q}\\]"
                     ],
                     "guid": "GO&jQzWMac",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -995,7 +995,7 @@
                         "The resistance of a circuit component is defined as the ratio of the potential difference across it to the current flowing through it.\\[R=\\frac{V}{I}\\]<br>"
                     ],
                     "guid": "h4=H.[`sCN",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1005,7 +1005,7 @@
                         "Ohm's law states that the potential difference across a conductor is proportional to the electric current passing through it, provided that its temperature remains constant."
                     ],
                     "guid": "t?19qN>J&",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1015,7 +1015,7 @@
                         "\\[R=\\rho\\frac{l}{A}\\]"
                     ],
                     "guid": "LwXGV/c{8]",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1025,7 +1025,7 @@
                         "As current increases, more charge carriers move through the conductor per unit time which results in more collisions with the lattice ions. This increases the temperature of the conductor which affects resistivity in two ways.<br><br>Conductivity increases. Electrons gain enough energy to break free, which results in an increase in the number density of charge carriers.<br><br>Resisitivity increases. Lattice ions gain thermal energy and start to vibrate faster with greater amplitude. This causes more collisions between the charge carriers and the lattice ions which in turn slows down the movement of charge carriers."
                     ],
                     "guid": "fn+b(mI-mz",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1035,7 +1035,7 @@
                         "Electric power is the rate at which energy conversion takes place.\\[P=IV=IE=\\frac{V^2}{R}\\]<br>"
                     ],
                     "guid": "G%y6qavWp%",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1045,7 +1045,7 @@
                         "A source of e.m.f. delivers the maximum amount of power to an external load when the resistance of the load is equal to the internal resistance of the source.<br><br><img src=\"Screenshot 2024-06-24 at 07.17.05 PM.png\">"
                     ],
                     "guid": "QgNlE@8@WJ",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -1076,7 +1076,7 @@
                         "<img src=\"Screenshot 2024-06-10 at 09.34.30 AM.png\">"
                     ],
                     "guid": "K^QS~BXd)(",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1086,7 +1086,7 @@
                         "<img src=\"Screenshot 2024-06-10 at 09.35.03 AM.png\">"
                     ],
                     "guid": "H6$<5BeSgi",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1096,7 +1096,7 @@
                         "Potentiometer is an instrument that can be used to measure the e.m.f. of a source without drawing any current from the source. The term potentiometer can be used for any variable resistor.<br><br>The balance point is the point where no current passes through."
                     ],
                     "guid": "f!=N|2_0a*",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1106,7 +1106,7 @@
                         "When a potentiometer is used to compare the e.m.f.s of cells, no errors are introduced by the internal resistances of the cells because no current flows through the cells at balance point. A real voltmeter has a finite resistance and draws current from the cell, thus lowers the terminal p.d. of the cell when it is connected across the cell."
                     ],
                     "guid": "BXmOVTPSke",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -1141,7 +1141,7 @@
                         "A magnetic field is a region of space in which a moving charge or a current-carrying conductor or any ferromagnetic object placed in that region experiences a magnetic force. It is known as a field of force."
                     ],
                     "guid": "Jtbgab7CbN",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1151,7 +1151,7 @@
                         "<img src=\"Screenshot 2024-06-10 at 09.51.07 AM.png\">"
                     ],
                     "guid": "JtR:@.9[Tm",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1161,7 +1161,7 @@
                         "<img src=\"Screenshot 2024-06-10 at 09.52.55 AM.png\">"
                     ],
                     "guid": "FiwA[-:/aB",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1171,7 +1171,7 @@
                         "The magnetic flux density of a magnetic field is numerically equal to the force per unit length per unit current acting on a long straight current-carrying conductor placed at right angles to the magnetic field.\\[B=\\frac{F}{IL}\\]The S.I. unit for flux density is tesla (T).<br><br><img src=\"Screenshot 2024-06-24 at 07.54.43 PM.png\"><br>"
                     ],
                     "guid": "xhq{9d|c/@",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1181,7 +1181,7 @@
                         "Like currents attract, unlike currents repel.<br><br>The force per unit length on each wire is given by the equation:\\[\\frac{F}{L}=\\frac{\\mu_0I_1I_2}{2\\pi d}\\]"
                     ],
                     "guid": "ruF,*~f)=,",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1191,7 +1191,7 @@
                         "A moving charge can also experience a force in a magnetic field. The direction of conventional current can be determined by Fleming's left-hand rule.\\[F=Bqv\\sin\\theta\\]<img src=\"Screenshot 2024-06-10 at 10.06.07 AM.png\"><br>"
                     ],
                     "guid": "c.w2G]aPxo",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1201,7 +1201,7 @@
                         "A velocity selector consists of a magnetic field and an electric field applied over the same region, allowing only charged particles of a particular velocity to pass through undeflected.<br><br><img src=\"Screenshot 2024-06-10 at 10.07.48 AM.png\">"
                     ],
                     "guid": "kNq*{-xE;6",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1211,7 +1211,7 @@
                         "<img src=\"Screenshot 2024-06-24 at 07.40.07 PM.png\">"
                     ],
                     "guid": "ry}y|Nh]d`",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -1242,7 +1242,7 @@
                         "Faraday's law of electromagnetic induction states that the induced e.m.f. is proportional to the rate of change of magnetic flux linkage.\\[\\text{Induced e.m.f.}=-\\frac{d\\Phi}{dt}\\]<br>"
                     ],
                     "guid": "P+Z@dk*sz~",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1252,7 +1252,7 @@
                         "Magnetic flux is defined as the product of an area and the component of the magnetic flux density perpendicular to that area.\\[\\phi=BA\\cos\\theta\\]<br><img src=\"Screenshot 2024-06-10 at 10.13.34 AM.png\"><br>"
                     ],
                     "guid": "MYwJXUc(Ag",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1262,7 +1262,7 @@
                         "The magnetic flux linkage of a coil is the product of the magnetic flux through the coil and the number of turns of the coil.\\[\\Phi=N\\phi\\]The S.I. unit for both&nbsp;\\(\\Phi\\)&nbsp;and&nbsp;\\(\\phi\\)&nbsp;is the weber (Wb).<br>"
                     ],
                     "guid": "m!vkE/>}(g",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1272,7 +1272,7 @@
                         "<img src=\"Screenshot 2024-06-10 at 10.17.10 AM.png\">"
                     ],
                     "guid": "Hao2x;1;V+",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1282,7 +1282,7 @@
                         "Lenz's law states that the direction of induced e.m.f. is such as to cause effects to oppose the change producing it."
                     ],
                     "guid": "xgHJbR*Wc:",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1292,7 +1292,7 @@
                         "Magnetic flux linkage of the coil changes as it rotates. According to Faraday's law, an e.m.f. would be induced in the current. By Lenz's law, this induced e.m.f. always acts to reduce the current supplied to the coil. This is known as back e.m.f., and its magnitude increases as the rotational speed of the coil increases.\\[I_{net}=I_{supplied\\ to\\ motor}-I_{due\\ to\\ back\\ e.m.f.}\\]<br>"
                     ],
                     "guid": "wjY_CFitV,",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1302,7 +1302,7 @@
                         "AC generator<br>Transformer<br>Wireless charging<br>Eddy currents<br>Induction heating<br>Induction cookers<br>Electromagnetic braking<br>Metal detectors"
                     ],
                     "guid": "nTe7y&:v68",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -1332,7 +1332,7 @@
                         "The root mean squared value of the alternating current or voltage is that value of the direct current or voltage that would produce thermal energy at the same rate in a resistor.\\[I_{rms}=\\frac{I_0}{\\sqrt{2}},\\ V_{rms}=\\frac{V_0}{\\sqrt{2}}\\]\\[\\langle P\\rangle=I_{rms}V_{rms}=\\frac{P_0}{2}\\]"
                     ],
                     "guid": "IpcxSZsc_L",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1342,7 +1342,7 @@
                         "Transformer is a device that uses mutual electromagnetic induction to vary an alternating voltage.<br><br>The A.C. voltage source&nbsp;\\(V_P\\)&nbsp;causes an alternating current&nbsp;\\(I_P\\)&nbsp;to flow through the primary coil. This sets up a varying magnetic field in the iron core which links the primary coil with the secondary coil. In accordance to Faraday's law of electromagnetic induction, the changing magnetic field induces an alternating e.m.f. across each turn of wire in both the primary and secondary coils."
                     ],
                     "guid": "Dldl#Z.xF?",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1352,7 +1352,7 @@
                         "There is no energy loss in the coils and the core during operation. It has no flux leakage. At any instance, the magnetic flux through each turn is the same in both the primary and secondary coils.\\[\\frac{V_S}{V_P}=\\frac{I_S}{I_P}=\\frac{N_S}{N_P}\\]"
                     ],
                     "guid": "A)1P_(s=vx",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1362,7 +1362,7 @@
                         "A diode is a device that conducts current predominantly in one direction and is used for rectification. When connection is made to a supply so that a diode conducts, it is said to be in forward bias and in the non-conducting state it is in reverse bias.<br><br><img src=\"Screenshot 2024-06-10 at 03.51.05 PM.png\">"
                     ],
                     "guid": "b<Yl88)tzH",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -1396,7 +1396,7 @@
                         "A photoelectron is an electron emitted from the surface of a material due to the incident electromagnetic radiation.<br><br>The photoelectric effect is a process in which electrons are emitted from a metal surface when electromagnetic radiation of sufficiently high frequency is incident on the surface."
                     ],
                     "guid": "Iez=?!x7Cm",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1406,7 +1406,7 @@
                         "Stopping potential&nbsp;\\(V_S\\)&nbsp;is the&nbsp;magnitude of the negative potential of collector with respect to emitter which prevents the most energetic photoelectrons from reaching the collector and hence resulting in zero photocurrent."
                     ],
                     "guid": "Me`wqg(=~f",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1416,7 +1416,7 @@
                         "<img src=\"Screenshot 2024-06-10 at 06.30.22 PM.png\"><br><br>Case 1: Collector C is sufficiently positive with respect to emitter E. Ammeter reads a constant saturated (maximum) photocurrent&nbsp;\\(i_0\\)&nbsp;and rate of emission of photoelectron is&nbsp;\\(\\frac{i_0}{e}\\).<br><br>Case 2: Collector C is sufficiently negative with respect to emitter E. Photocurrent&nbsp;\\(i\\)&nbsp;is zero and maximum kinetic energy of photoelectron is&nbsp;\\(eV_s\\)."
                     ],
                     "guid": "wq+v,1|)Em",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1426,7 +1426,7 @@
                         "The saturated photocurrent (i.e. rate at which photoelectrons are emitted) is proportional to the intensity of the monochromatic EM radiation at a constant frequency.<br><br>For a given material, there is a minimum frequency of EM radiation, called the threshold frequency, below which no emission of photoelectrons occurs irrespective of the intensity of the EM radiation.<br><br>The photoelectrons are emitted with a range of energies from zero up to a maximum which increases linearly with frequency but is independent of intensity of the EM radiation.<br><br>The time delay between the start of EM radiation to the emission of photoelectrons is nearly zero (i.e. almost immediate emission of photoelectrons)."
                     ],
                     "guid": "C%5gv>q0N{",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1436,7 +1436,7 @@
                         "A photon is a quantum of electromagnetic energy.\\[E=hf=h\\frac{c}{\\lambda}\\]"
                     ],
                     "guid": "bz`S(wS#[X",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1446,7 +1446,7 @@
                         "The work function energy&nbsp;\\(\\Phi\\)&nbsp;of a metal is defined as the minimum amount of energy necessary for an electron to escape from the surface of a material.\\[\\Phi=hf_0\\]"
                     ],
                     "guid": "QPB*]B&39B",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1456,7 +1456,7 @@
                         "Photon energy = work function energy + maximum kinetic energy of photoelectron\\[hf=\\Phi+\\frac{1}{2}m_ev_{max}^2=\\Phi+eV_s\\]<br>"
                     ],
                     "guid": "un]ojfsk:T",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1466,7 +1466,7 @@
                         "Threshold frequency is the minimum frequency of electromagnetic radiation below which no emission of photoelectrons occurs."
                     ],
                     "guid": "zZ:Z~#CH_C",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1476,7 +1476,7 @@
                         "The wavelength associated with wave-like properties of a particle.\\[\\lambda=\\frac{h}{p}=\\frac{h}{mv}\\]\\[p=\\frac{h}{\\lambda}=\\frac{hf}{c}\\]<br>"
                     ],
                     "guid": "m;E$Z3*z<g",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1486,7 +1486,7 @@
                         "The theory where matter and waves have particle-like and wave-like characteristics.<br><br><img src=\"Screenshot 2024-06-10 at 06.48.15 PM.png\">"
                     ],
                     "guid": "mNZM/YL6{d",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1496,7 +1496,7 @@
                         "Particle collision. The amount of energy transferred must be sufficient for the orbital electron to transit up to a higher level. The energy of the colliding electron need not match the difference in energy levels in the atom.<br><br>Photons. The photon energy must be exactly equal to the energy difference between 2 levels in the atom."
                     ],
                     "guid": "hSR^/yn:DU",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1506,7 +1506,7 @@
                         "A series of lines is observed which form a definite pattern. Different gases will result in different patterns (unique to the atom).<br><br>The emission line spectrum consists of discrete bright lines of definite wavelength (different colours) on a dark background. The absorption line spectrum consists of dark lines on a bright background.<br><br><img src=\"Screenshot 2024-06-10 at 08.18.08 PM.png\"><img src=\"Screenshot 2024-06-10 at 08.19.28 PM.png\">"
                     ],
                     "guid": "Q[iWDX!*S]",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1516,7 +1516,7 @@
                         "X-rays are produced when high-speed electrons are suddenly slowed down.<br><br>The intensity of the&nbsp;\\(K_\\alpha\\)&nbsp;characteristic X-ray is typically greater than the&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-ray.<br><br>Since the energy differences between electrons in the various energy levels are characteristics of the target atom, the wavelengths of the&nbsp;\\(K_\\alpha\\)&nbsp;and&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-rays are unique for each element.<br><br><img src=\"Screenshot 2024-06-10 at 08.36.34 PM.png\">"
                     ],
                     "guid": "pY*Hu.{-1k",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1526,7 +1526,7 @@
                         "Continuous spectrum is the high-energy EM radiation produced when highly energetic electrons are decelerated. It is characterized by a minimum wavelength corresponding to photon emitted by the loss of maximum energy of an electron. The shortest wavelength is given by:\\[eV=hf_{max}=h\\frac{c}{\\lambda_{min}}\\]<br>Characteristic X-rays is the high-energy EM radiation produced when electrons from a higher shell de-excite to a vacancy in the lower shell, created by highly energetic electrons.&nbsp;The wavelengths are given by (where n=2,3,...):\\[hf=\\frac{hc}{\\lambda}=E_n-E_1\\]<br>"
                     ],
                     "guid": "KN4%km8;?@",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1536,7 +1536,7 @@
                         "The Heisenberg uncertainty principle states that if a measurement of the position of a particle is made with uncertainty&nbsp;\\(\\Delta x\\)&nbsp;and a simultaneous measurement of its x-component of momentum is made with uncertainty&nbsp;\\(\\Delta p\\), the product of the two uncertainties can never be smaller than&nbsp;\\(\\frac{\\hbar}{2}\\).\\[\\Delta x\\Delta p_x\\ge\\frac{\\hbar}{2}\\]\\(\\hbar=\\frac{h}{2\\pi}\\)&nbsp;is the reduced Planck constant.<br>"
                     ],
                     "guid": "d!0R,R&Nd=",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -1566,7 +1566,7 @@
                         "A nuclide is the atomic species with a specific mass number A and proton number Z.<br><br>Isotopes are nuclides that have the same number of protons but different number of neutrons."
                     ],
                     "guid": "N@n@`/5YK!",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1576,7 +1576,7 @@
                         "One atomic mass unit (1u) is equal to one-twelfth of the mass of a carbon-12 atom."
                     ],
                     "guid": "y_N<dv+sb>",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1586,7 +1586,7 @@
                         "Mass disappears when energy is lost and mass increases when energy is gained. The two quantities are related by:\\[E=mc^2\\]"
                     ],
                     "guid": "Hn;5BRi<.d",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1596,7 +1596,7 @@
                         "The mass defect of a nucleus is the difference between the total mass of the separate nucleons and the combined mass of the nucleus.\\[\\Delta m_{nucleus}=Zm_p+(A-Z)m_n-m_{nucleus}\\]"
                     ],
                     "guid": "o[ULz$(mzA",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1606,7 +1606,7 @@
                         "Nuclear binding energy is the energy required to separate to infinity all the nucleons of a nucleus.\\[B.E.=\\Delta m_{nucleus}c^2\\]<br>"
                     ],
                     "guid": "b%CQhz(x_O",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1616,7 +1616,7 @@
                         "Binding energy per nucleon is the total energy needed to completely separate all the nucleons in a nucleus to infinity divided by the number of nucleons in the nucleus.\\[\\text{Binding energy per nucleon}=\\frac{B.E.}{A}\\]<br>"
                     ],
                     "guid": "x+vu_T3(Wf",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1626,7 +1626,7 @@
                         "Nuclear fission is the splitting of a heavy nucleus into two lighter nuclei approximately the same mass.<br><br>Nuclear fusion occurs when two light nuclei combine to form a nucleus of greater mass."
                     ],
                     "guid": "fomo@Jn1)#",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1636,7 +1636,7 @@
                         "\\[\\text{Energy released}=B.E._{products}-B.E._{reactants}\\]<br>"
                     ],
                     "guid": "JLwSt)`KT8",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1646,7 +1646,7 @@
                         "Radioactive decay is the process whereby a radionuclide is transformed into a more stable nuclide by emitting some forms of ionising radiation."
                     ],
                     "guid": "JEHGpmBZPS",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1656,7 +1656,7 @@
                         "Radioactive delay is spontaneous because the probability of decay of a nucleus is unaffected by any external factors such as temperature, pressure or chemical composition.<br><br>Radioactive decay is random as it is impossible to predict which nucleus will decay next even though the probability of decay per unit time is identical for all nuclei. This results in fluctuations in the count rate measured by a detector."
                     ],
                     "guid": "A?#Wpt@5s7",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1666,7 +1666,7 @@
                         "Alpha radiations produce tracks that are short and thick (strong ionising power) and of similar length (same kinetic energies). It is common when nucleus is too large.<br><br>Beta radiations produce tracks that are long and thin (moderate ionising power) and of varying lengths (a range of kinetic energies).&nbsp;\\(\\beta^-\\)&nbsp;decay is common when nucleus has too many neutrons.&nbsp;\\(\\beta^+\\)&nbsp;decay is common when nucleus has too many protons.<br><br>Gamma radiations (low ionising power) leave behind a cloud of wiggly, short and thing tracks due to ionised electrons. It is common when nucleus has excess energy after a decay."
                     ],
                     "guid": "NBvH2:`@Ms",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1676,7 +1676,7 @@
                         "&nbsp;Background radiation is the ionising radiation in our environment that humans are constantly exposed too. The sources of background radiation can be natural or artificial.<br><br><img src=\"Screenshot 2024-06-11 at 10.13.39 PM.png\">"
                     ],
                     "guid": "f|p(`o*i,g",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1686,7 +1686,7 @@
                         "The number of undecayed nuclei N at time t is given by:\\[N=N_0e^{-\\lambda t}\\]\\(N_0\\)&nbsp;represents the number of radioactive nuclei at time t=0.<br>"
                     ],
                     "guid": "mH>V8K7jq,",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1696,7 +1696,7 @@
                         "The activity of a radioactive source is the number of radioactive decays per unit time in the source.\\[A=\\lambda N=A_0e^{-\\lambda t}\\]The S.I. unit of activity is the becquerel (Bq) where 1 becequerel = 1 decay/s."
                     ],
                     "guid": "fUbZp*jsXm",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1706,7 +1706,7 @@
                         "The decay constant is the probability per unit time of the decay of a nucleus."
                     ],
                     "guid": "BBp+HL_Buk",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1716,7 +1716,7 @@
                         "Half-life of a radioactive nuclide is the time taken for the number of undecayed nuclei to be reduced to half its original number.\\[t_{1/2}=\\frac{\\ln2}{\\lambda}\\]<br>After n half-lives, the number of radioactive nuclei left is:\\[N=N_0(\\frac{1}{2})^2\\]"
                     ],
                     "guid": "Qj+=}*Cmig",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 },
                 {
@@ -1726,7 +1726,7 @@
                         "Ionising radiation can cause cancer and other health effects by breaking chemical bonds in atoms and molecules. Damage occurring at the cellular or molecular level can disrupt the processes that control the rate at which cells grow and replace themselves and permit the uncontrolled growth of cancer cells.<br><br>Acute health effects include burns and radiation sickness. Radiation sickness can cause premature aging or even death."
                     ],
                     "guid": "cIhBLU>9bk",
-                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
             ],
@@ -1810,7 +1810,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+            "crowdanki_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
             "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
             "flds": [
                 {
@@ -1847,7 +1847,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "A Levels",
             "originalStockKind": 1,
             "req": [
                 [
