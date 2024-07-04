@@ -19,7 +19,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Mole and Avogadro constant",
-                        "A mole of a substance is the amount of that substance which contains&nbsp;\\(6.02*10^{23}\\)&nbsp;elementary entities of that substance.<br><br>The Avogadro constant (L) is the constant of proportionality between the number of specified entities of a substance (N) and the amount of specified entities of that substance (n).\\[N=Ln\\]"
+                        "A mole of a substance is the amount of that substance which contains&nbsp;\\(6.02\\times10^{23}\\)&nbsp;elementary entities of that substance.<br><br>The Avogadro constant (L) is the constant of proportionality between the number of specified entities of a substance (N) and the amount of specified entities of that substance (n).\\[N=Ln\\]"
                     ],
                     "guid": "D|*)fX/x:@",
                     "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
@@ -277,6 +277,16 @@
                     "guid": "Me@BHpZ6IU",
                     "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Subatomic particles in electric field",
+                        "Angle of deflection&nbsp;\\(\\propto |\\frac{q}m|\\)"
+                    ],
+                    "guid": "u0*rwkm`+w",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
@@ -305,7 +315,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Giant ionic lattice",
-                        "In an ionic compound, constituent ions are held in fixed positions in an orderly arrangement by ionic bonds. An ionic bond is an electrostatic attraction between oppositely charged ions in an ionic lattice, and its strength is indicated by the lattice energy of the ionic compound.\\[|\\text{Lattice energy}|\\propto|\\frac{q_+*q_-}{r_++r_-}|\\]<br>The physical properties are non-volatile, high melting and boiling points, solid, hard and brittle, non-conductors when solid (good conductors when molten or in aqueous solutions), usually soluble in polar solvents and insoluble in non-polar solvents."
+                        "In an ionic compound, constituent ions are held in fixed positions in an orderly arrangement by ionic bonds. An ionic bond is an electrostatic attraction between oppositely charged ions in an ionic lattice, and its strength is indicated by the lattice energy of the ionic compound.\\[|\\text{Lattice energy}|\\propto|\\frac{q_+\\times q_-}{r_++r_-}|\\]<br>The physical properties are non-volatile, high melting and boiling points, solid, hard and brittle, non-conductors when solid (good conductors when molten or in aqueous solutions), usually soluble in polar solvents and insoluble in non-polar solvents."
                     ],
                     "guid": "Q;#Y:/)g[v",
                     "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
@@ -415,7 +425,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Hydrogen bonding and factors (2)",
-                        "A highly electronegative F, O or N atom causes an H atom to have a high&nbsp;\\(\\delta+\\)&nbsp;charge, and allows the H atom to form a strong attraction with a lone pair of an adjacent molecule (must be F, O or N).<br><br>Strength of hydrogen bonding is affected by dipole moment and extensiveness of hydrogen bonding (average number of hydrogen bonds per molecule)."
+                        "A highly electronegative F, O or N atom causes an H atom to have a high&nbsp;\\(\\delta+\\)&nbsp;charge, and allows the H atom to form a strong attraction with a lone pair of an adjacent molecule (must be F, O or N).<br><br>Strength of hydrogen bonding is affected by dipole moment and extensiveness of hydrogen bonding (average number of hydrogen bonds per molecule&nbsp;\\(= min(n_{lone\\,pair}, n_{H})\\))."
                     ],
                     "guid": "C}N/4Ew3uQ",
                     "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
@@ -484,11 +494,105 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-04 at 7.18.30 PM.png",
+                "paste-8eea797056beea2832087295b95d8467ead513d7.jpg"
+            ],
             "name": "04 Gaseous State",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Assumptions for ideal gas (5)",
+                        "An ideal gas consists of particles of negligible volume<br>The gas particles exert negligible attractive forces on one another<br>The gas particles are in constant random motion<br>Collisions between the gas particles are perfectly elastic<br>The average KE is proportional to the absolute temperature"
+                    ],
+                    "guid": "g@Pn%#jE#K",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Conditions to approach ideality (2)",
+                        "Low pressure<br><ul><li>Gas particles are very far apart. Volume occupied by the gas particles can be considered to have negligible volume compared to the volume of the container</li><li>Intermolecular attractive forces between the widely-spaced gas particles are negligible</li></ul><div>High temperature</div><div><ul><li>Gas particles possess sufficiently high kinetic energy to overcome the intermolecular attractive forces, hence intermolecular attrative forces can be considered negligible</li></ul></div>"
+                    ],
+                    "guid": "q-~m@|#Ar[",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Graph of&nbsp;\\(\\frac{pV}{RT}\\)&nbsp;for 1 mole of real gas (2)",
+                        "<img src=\"paste-8eea797056beea2832087295b95d8467ead513d7.jpg\"><br>At moderately high pressure, the volume of the system becomes smaller. The gas particles come closer together and intermolecular attractive forces between the gas particles become significant. This causes the gas to occupy a volume smaller than what it would occupy were it ideal,&nbsp;\\(\\therefore \\frac{pV}{RT} &lt; 1\\)<br><br>At very high pressure, the volume of the system becomes very small. The gas particles are so close together that there is repulsion between their electron clouds (intermolecular repulsive force). This causes the gas to occupy a volume larger than what it would occupy were it ideal,&nbsp;\\(\\therefore \\frac{pV}{RT} &gt; 1\\)"
+                    ],
+                    "guid": "M>2!1.aH[s",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors affecting deviation from ideality (2)",
+                        "<img src=\"Screenshot 2024-07-04 at 7.18.30 PM.png\"><br>Stronger intermolecular forces of attraction result in greater negative deviation from ideal gas<br>Bigger electron cloud causes more significant intermolecular repulsive force, resulting in greater positive deviation from ideal gas"
+                    ],
+                    "guid": "i]V/4ScpT&",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Partial pressure of a gas",
+                        "In a mixture of gases that do not react with each other, each gas behaves as if it were the only gas present<br><br>For such a mixture, under the same physical conditions (e.g. temperature and volume), each gas exerts its own pressure that is equal to the pressure it would exert when it occupies the container alone. This pressure is known as the partial pressure of the gas"
+                    ],
+                    "guid": "z3~x%DPm[w",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dalton's Law of Partial Pressures",
+                        "Dalton's law of partial pressures states that the total pressure of a mixture of non-reacting gases is equal to the sum of the partial pressures of the individual gases in the mixture<br><br>\\(P_T = \\sum_{i=A,B...}P_i\\)"
+                    ],
+                    "guid": "O?{/`2,G-3",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mole fraction and partial pressure",
+                        "\\(x_A = \\frac{n_A}{n_{total}}\\)<br>\\(P_A = x_A \\times P_{total}\\)"
+                    ],
+                    "guid": "k;zd*$h((o",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vapour pressure",
+                        "Vapour pressure is the pressure exerted by the gaseous particles on the liquid surface and on the walls of the container<br><br>A dynamic equilibrium will be rapidly set up in which the number of particles leaving the surface is exactly balanced by the number rejoining it. In this equilibrium at a particular temperature, there will be a fixed number of the gaseous particles in the space above the liquid<br><br>The vapour pressure exerted is called the saturated vapour pressure at that temperature"
+                    ],
+                    "guid": "oS[+bY`,E.",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Relationship between boiling points and vapour pressures",
+                        "The stronger the intermolecular forces, the lower its volatility and saturated vapour pressure, but the higher its boiling point<br><br>With stronger intermolecular forces, it will be more difficult for its particles to escape from the surface of the liquid,&nbsp;\\(\\therefore\\)&nbsp;lower saturated vapour pressure"
+                    ],
+                    "guid": "K[X|_jiXFi",
+                    "note_model_uuid": "2ffe01d6-36d7-11ef-af6f-47f65b4af33a",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
