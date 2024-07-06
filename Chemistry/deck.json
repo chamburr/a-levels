@@ -916,7 +916,9 @@
                 "Screenshot 2024-06-13 at 11.51.43 AM.png",
                 "Screenshot 2024-06-13 at 11.55.12 AM.png",
                 "Screenshot 2024-06-13 at 11.55.27 AM.png",
-                "Screenshot 2024-06-13 at 11.55.41 AM.png"
+                "Screenshot 2024-06-13 at 11.55.41 AM.png",
+                "paste-1affef0726da8601054f71d920762be3fd49e9c3.jpg",
+                "paste-3fbbd250dc8836327b9c1ea27b937f3d2e452a1d.jpg"
             ],
             "name": "06 Reaction Kinetics",
             "newLimit": null,
@@ -1006,7 +1008,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Maxwell-Boltzmann distribution curve, temperature and catalyst",
-                        "The Maxwell-Boltzmann distribution curve shows the distribution of kinetic energies of the molecules at a particular temperature.<br><br>When temperature increases, the average kinetic energy of reactant particles increases. Significantly more reactant particles have energy greater than or equal to the activation energy of the reaction. This results in increase in effective collision frequency and hence an increase in the rate of reaction.<br><br><img src=\"Screenshot 2024-06-13 at 11.42.33 AM.png\"><br><br>A catalyst provides an alternative reaction pathway of lower activation energy. Significantly more reactant particles have energy greater than or equal to the activation energy of the reaction. This results in increase in effective collision frequency and hence an increase in the rate of reaction.<br><br><img src=\"Screenshot 2024-06-13 at 11.42.37 AM.png\">"
+                        "The Maxwell-Boltzmann distribution curve shows the distribution of kinetic energies of the molecules at a particular temperature.<br><br>When temperature increases, the average kinetic energy of reactant particles increases. Significantly more reactant particles have energy greater than or equal to the activation energy of the reaction. This results in increase in effective collision frequency and hence an increase in the rate of reaction. Higher temperature also results in larger rate constant&nbsp;\\(k\\)<br><br><img src=\"Screenshot 2024-06-13 at 11.42.33 AM.png\"><br><br>A catalyst provides an alternative reaction pathway of lower activation energy. Significantly more reactant particles have energy greater than or equal to the activation energy of the reaction. This results in increase in effective collision frequency and hence an increase in the rate of reaction. An alternative reaction pathway of lower&nbsp;\\(E_a\\)&nbsp;also results in larger rate constant&nbsp;\\(k\\)<br><br><img src=\"Screenshot 2024-06-13 at 11.42.37 AM.png\">"
                     ],
                     "guid": "oFY7a|!s9q",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1015,8 +1017,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Homogenous catalyst, heterogenous catalyst and autocatalysis",
-                        "In homogeneous catalysis, the catalyst and the reactants are in the same phase, either liquid or gaseous. The catalyst is typically converted to an intermediate and subsequently undergoes reaction to yield the product and regenerate the catalyst.<br><br>In heterogeneous catalysis, the catalyst and the reactants are in different phases. The catalyst is usually in the solid phase while the reactants are usually liquids or gases. There is formation of weak bonds between the reactant molecules and the catalytic surface. The adsorption increases the reaction rate because it weakens the covalent bonds and increases the concentration of reactant molecules at the catalytic surface.<br><br>Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic."
+                        "Homogenous catalyst, heterogenous catalyst",
+                        "In homogeneous catalysis, the catalyst and the reactants are in the same phase, either liquid or gaseous. The catalyst is typically converted to an intermediate and subsequently undergoes reaction to yield the product and regenerate the catalyst.<br><br>In heterogeneous catalysis, the catalyst and the reactants are in different phases. The catalyst is usually in the solid phase while the reactants are usually liquids or gases. There is formation of weak bonds between the reactant molecules and the catalytic surface. The adsorption increases the reaction rate because it weakens the covalent bonds, thereby lowering&nbsp;\\(E_a\\)and increases the concentration of reactant molecules at the catalytic surface, allowing the reactant molecules to come into close contact with proper orientation for reaction."
                     ],
                     "guid": "nC/d>?JbLI",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1039,6 +1041,66 @@
                         "Enzymes are proteins which catalyse chemical reactions in living systems. They are globular proteins with active sites, and are very specific to a particular reaction or type of reaction. Enzymes become denatured and inactive when the temperature is too high and changes the 3D conformation of the active site.<br><br>Factors affecting the rate of enzyme-catalysed reactions are temperature, pH, concentration of enzyme and concentration of substrate.<br><br><img src=\"Screenshot 2024-06-13 at 11.55.12 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.55.27 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.55.41 AM.png\">"
                     ],
                     "guid": "i5GzQlC,3X",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Intermediate",
+                        "An intermediate is a species that is formed in one step of a reaction mechanism and consumed in a subsequent step"
+                    ],
+                    "guid": "nd%r48FXLU",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arrhenius equation",
+                        "\\(k = Ae^{-\\frac{E_a}{RT}}\\)"
+                    ],
+                    "guid": "okc*fo~&d>",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Catalyst and inhibitor",
+                        "A catalyst is a substance which increases the rate of a reaction without itself undergoing any permanent chemical change<br><br>An inhibitor is a substance which decreases the rate of a chemical reaction"
+                    ],
+                    "guid": "Cx}WiF4MeD",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Autocatalysis",
+                        "Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic.<br><br><img src=\"paste-1affef0726da8601054f71d920762be3fd49e9c3.jpg\" width=\"496\"><br><br><img src=\"paste-3fbbd250dc8836327b9c1ea27b937f3d2e452a1d.jpg\">"
+                    ],
+                    "guid": "y*o;SZR:#4",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzymes and properties (5)",
+                        "Enzymes are proteins which catalyse chemical reactions in living systems<br><br>Nature and size. Enzymes are globular proteins with active sites contained in their three-dimensional structure<br>Efficiency. Enzymes are required in very small amounts<br>Specificity. Enzymes are very specific to a particular reaction or type of reaction<br>Temperature. Enzymes operate most effectively at body temperature, about 37 ºC<br>Sensitivity to pH. Enzymes only work well over a narrow pH range"
+                    ],
+                    "guid": "NyrK}mygp<",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Concentration of substrate and rate of reaction",
+                        "For a fixed amount/concentration of enzyme, there is a finite number of active sites in the enzyme<br><br>At low [substrate], not all of the active sites are occupied, reaction first order w.r.t. substrate<br>At high [substrate], all active sites are occupied, reaction zero order w.r.t substrate"
+                    ],
+                    "guid": "ObC@47u_1*",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
