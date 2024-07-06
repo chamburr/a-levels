@@ -825,11 +825,75 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-06 at 6.13.59 PM.png",
+                "Screenshot 2024-07-06 at 6.14.04 PM.png"
+            ],
             "name": "05b Chemical Energetics II",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Spontaneous process",
+                        "A spontaneous process is one that, once started, will continue without any external assistance"
+                    ],
+                    "guid": "K|v6UrI6ji",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Entropy",
+                        "Entropy (\\(S\\)) of a system is a measure of the disorder of matter and energy in the system. The more ways matter in the system can be arranged, and the more ways energy in the system can be dispersed, the more disordered the system is and the larger its entropy"
+                    ],
+                    "guid": "pu>bDrGPl_",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors affecting entropy (4)",
+                        "Change in temperature<br><ul><li>When the temperature of a system is increased, there is broadening of the Boltzmann energy distribution, hence more ways of arranging energy quanta in the hotter system</li></ul>Change in phase<br><ul><li>Solid → liquid, order in solid is destroyed, particles in a liquid are more randomly arranged and more disordered</li><li>Liquid/Solid → gas, gaseoues state is the most disordered since gas particles can move freely and are the most randomly arranged, largest increase in volume, thus even larger increase in entropy</li></ul>Change in the number of particles (especially for gaseous systems)<br><ul><li>More ways to arrange the particles and more ways to distribute the energy in the system</li></ul>Mixing of particles (without chemical reaction)<br><ul><li>Gases always mix completely to create a more disordered state, as there are more ways for the molecules to arrange themselves in the larger volume</li><li>Liquids of similar polarities can be mixed</li><li>Dissolution of an ionic salt in water</li></ul>"
+                    ],
+                    "guid": "Oz$~23GO$`",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gibbs free energy change",
+                        "\\(\\Delta G^{\\circ\\kern-0.65em-} = \\Delta H^{\\circ\\kern-0.65em-} - T\\Delta S^{\\circ\\kern-0.65em-} \\)<br><br>\\(\\Delta H^{\\circ\\kern-0.65em-} \\)&nbsp;and&nbsp;\\(\\Delta S^{\\circ\\kern-0.65em-} \\)&nbsp;can be assumed to be ocnstant unless there is a phase change<br><br>\\(\\Delta G &gt; 0\\), reaction is not spontaneous<br>\\(\\Delta G &lt; 0\\), reaction is spontaneous"
+                    ],
+                    "guid": "u~v$Y{S.*5",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of&nbsp;\\(\\Delta G^{\\circ\\kern-0.65em-}\\)",
+                        "\\(\\Delta G^{\\circ\\kern-0.65em-}\\)&nbsp;indicates the thermodynamic feasibility but gives no information about the kinetic feasibility (dependent on the&nbsp;\\(E_a\\))"
+                    ],
+                    "guid": "n)l{?Z[Pjf",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Entropy of dissolution of ionic solid in water",
+                        "Can lead to a net increase or decrease in disorder depending on the constituent ions<br><br><img src=\"Screenshot 2024-07-06 at 6.13.59 PM.png\" width=\"505\"><br><img src=\"Screenshot 2024-07-06 at 6.14.04 PM.png\" width=\"505\">"
+                    ],
+                    "guid": "BYU.~zZj~b",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
