@@ -1117,11 +1117,138 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-07 at 1.30.23 PM.png",
+                "paste-980d5cdec7d57816f6344cc00e9067c21577bba1.jpg",
+                "paste-af9c26296a5e1314ebcbfcc9e7c6c842a36c9795.jpg",
+                "paste-de8d360ce6f2f35a0cb8b9bb35f0595305ee1b35.jpg",
+                "paste-efdb5b4851f883ded6b45a80bb989d9174a4ba80.jpg"
+            ],
             "name": "07 Chemical Equilibria",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Reversible reactions",
+                        "Reversible reactions are reactions that proceed in both the forward and backward directions"
+                    ],
+                    "guid": "GtI<F>{13T",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dynamic equilibrium",
+                        "Dynamic equilibrium refers to a state in a reversible system in which the forward and backward reactions are continuing at the same rate, resulting in no net change in the macroscopic properties (e.g. concentrations, partial pressure) of the reactants and products"
+                    ],
+                    "guid": "d#Y1!=VTYk",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Reaction quotient, equilibrium constant",
+                        "For reversible reaction&nbsp;\\(aA\\,+\\,bB\\;\\rightleftharpoons\\,cC\\,+\\,dD\\)<br><br>\\(Q_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}\\)<br><br>At equilibrium,&nbsp;\\(Q = K\\)&nbsp;(at the given temperature)<br><br>\\(K_c = \\frac{[C]^c_{eqm} [D]^d_{eqm}}{[A]^a_{eqm} [B]^b_{eqm}}\\)<br><br>\\(K_p = \\frac{p^c_{C}\\;p^d_{D}}{p^a_{A}\\;p^b_{B}}\\)"
+                    ],
+                    "guid": "E}W{Ae=<,",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Variations of&nbsp;\\(K\\)&nbsp;(3)",
+                        "Forward and backward reaction<br>\\(K_{forward} = \\frac{1}{K_{backward}}\\)<br><br>Overall reaction (sum of two or more reactions)<br>\\(K_{overall} = K_1 \\times K_2 \\times\\, ...\\)<br><br>Coefficients multiplied by common factor,&nbsp;\\(n\\)<br>\\(K_{new} = K^n\\)"
+                    ],
+                    "guid": "cW91WK,h?8",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factor affecting equilibrium constants",
+                        "\\(K_c\\,(or\\,K_p) = \\frac{k_f}{k_b}\\)&nbsp;where&nbsp;\\(k = Ae^{-E_a / RT}\\)<br><br>\\(K\\)&nbsp;is a constant at a specific temperature and it varies with temperature"
+                    ],
+                    "guid": "NQZ)eXgeYu",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Homogenous and heterogenous equilibria",
+                        "Homogenous (heterogenous) equilibrium refers to an equilibrium system in which all the substances involved are (not) in the same phase<br><br>\\(K\\)&nbsp;expression of heterogenous equilibrium exclude<br><ul><li>the concentration (or partial pressure) of pure solids and pure liquids because they are constant at a given temperature</li><li>the concentration of water when it is present in large amount (as a solvent) in an aqueous solution.&nbsp;\\([H_2O]\\)&nbsp;is approximately constant</li></ul>"
+                    ],
+                    "guid": "dc;uAPKEb%",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Degree of dissociation,&nbsp;\\(\\alpha\\)",
+                        "\\(Degree\\;of\\;dissociation,\\,\\alpha = \\frac{amount\\;dissociated}{total\\;initial\\;amount}\\)"
+                    ],
+                    "guid": "MkJlin8%y_",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\\(\\Delta G^{\\circ\\kern-0.65em-}\\)&nbsp;and position of equilibrium",
+                        "<img src=\"paste-de8d360ce6f2f35a0cb8b9bb35f0595305ee1b35.jpg\" width=\"537\"><br><br>If&nbsp;\\(\\Delta G &lt; 0\\), forward reaction tending towards the equilibrium is spontaneous; rate of forward reaction is faster than the backward reaction<br>If&nbsp;\\(\\Delta G &gt; 0\\), backward reaction tending towards the equilibrium is spontaneous; rate of backward reaction is faster than the forward reaction<br>At&nbsp;\\(\\Delta G = 0\\), the system is at dynamic equilibrium where the forward rate is equal to the backward rate<br><br>\\(\\Delta G^{\\circ\\kern-0.65em-} = -RT\\;ln\\,K\\)<br><img src=\"paste-af9c26296a5e1314ebcbfcc9e7c6c842a36c9795.jpg\" width=\"544\">"
+                    ],
+                    "guid": "mo5gyKqw-w",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Le Chatelier's Principle",
+                        "Le Chatelier's Principle states that when a system at equilibrium is subjected to a change, the system will react to counteract the change imposed so as to re-establish the equilibrium"
+                    ],
+                    "guid": "Qwp_QQ~[G=",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effect of varying conditions on equilibrium",
+                        "<img src=\"paste-efdb5b4851f883ded6b45a80bb989d9174a4ba80.jpg\" width=\"719\">"
+                    ],
+                    "guid": "MAG3A_5.&+",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The Haber Process and conditions (5)",
+                        "<img src=\"Screenshot 2024-07-07 at 1.30.23 PM.png\" width=\"682\"><br><br>Aim of producing the maximum amount of product (yield) in the shortest time and at the minimum cost<br><br>Conditions<br>- Temperature: 450 ºC, a compromise to ensure a reasonable rate of production and yield<br>- Pressure: about 200 atm, a compromise to ensure good yield and low cost and risk<br>- Catalyst: finely divided iron catalyst with aluminium oxide as promoter<br>- Continual removal of ammonia: shift P.O.E. to the right to increase yield<br>- Molar ratio of&nbsp;\\(N_2:H_2 = 1:3\\): minimise excess reactants"
+                    ],
+                    "guid": "mPpP1CU)*B",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Addition of inert gas (2)",
+                        "<img src=\"paste-980d5cdec7d57816f6344cc00e9067c21577bba1.jpg\" width=\"754\">"
+                    ],
+                    "guid": "i48]JB2*q4",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
