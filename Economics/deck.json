@@ -1279,7 +1279,8 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Screenshot 2024-06-06 at 04.54.10 PM.png"
+                "Screenshot 2024-06-06 at 04.54.10 PM.png",
+                "Screenshot 2024-07-08 at 05.29.00 PM.png"
             ],
             "name": "08 Macroeconomic Policies",
             "newLimit": null,
@@ -1408,7 +1409,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Effects of monetary policy (3)",
+                        "Effects of monetary policy using interest rate (3)",
                         "Internal effect<br>External effect<br>Impact on real national income, employment and inflation"
                     ],
                     "guid": "DcSyr3b$G<",
@@ -1418,7 +1419,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Limitations of expansionary monetary policy (6)",
+                        "Limitations of expansionary monetary policy&nbsp;using interest rate (6)",
                         "Interest elasticity of demand for investment<br>Expectations of the future state of the economy<br>Liquidity trap<br>Time lags between implementation and impact on the economy<br>Inability to achieve specific macroeconomic objectives<br>Unintended consequences: conflicts with other macroeconomic aims"
                     ],
                     "guid": "le!VK)|N6H",
@@ -1428,7 +1429,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Limitations of contractionary monetary policy (2)",
+                        "Limitations of contractionary monetary policy&nbsp;using interest rate&nbsp;(2)",
                         "Short/long term basis of projects<br>Conflicts with other economic goals"
                     ],
                     "guid": "yvQW@hxcCj",
@@ -1492,6 +1493,46 @@
                         "Depends on accuracy and availability of information to government<br>Trade-offs (exacerbating income inequalities)<br>Difficult or unfeasible due to limited fiscal budget<br>Policy acceptability (politically unpopular policies)"
                     ],
                     "guid": "O0nM2,}J$e",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effects of monetary policy using exchange rate (4)",
+                        "Effects on AS<br>Effects on AD<br>Effects on economic growth, employment and inflation<br>Effects on balance of trade"
+                    ],
+                    "guid": "O95]ZgHND[",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of monetary policy using exchange rate (4)",
+                        "Conflicts in the short-term<br>Availability of foreign curency reserves (for appreciation only)<br>Time lag<br>Imperfect information"
+                    ],
+                    "guid": "Nx|AA[K!KS",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Marshall-Lerner condition",
+                        "The Marshall-Lerner condition states that as long as the sum of the price elasticities of demand for exports and imports is greater than one (\\(PED_X+PED_M&gt;1\\)), a depreciation of a country's currency can lead to an improvement in the balance of trade, and hence the balance of payments, ceteris paribus."
+                    ],
+                    "guid": "Bt~n!3uAiL",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "J-curve effect",
+                        "In the short run, the price elasticities of demand for exports and imports may be low and the Marshall-Lerner Condition may not be satisfied in the initial period following a&nbsp;depreciation of the currency.<br><br>However, over a longer time period, changes in consumption pattern will take place and substitutes can be found. Contracts binding importers and exporters will expire. As a result, the demand for exports and imports can become less price inelastic. When this happens, it is more likely that the Marshall-Lerner Condition is fulfilled, resulting in an improvement of the Balance of Trade arising from a depreciation of the country's currency.<br><br><img src=\"Screenshot 2024-07-08 at 05.29.00 PM.png\">"
+                    ],
+                    "guid": "i(qB[w*nQI",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
