@@ -212,7 +212,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Ionic radius",
-                        "The radius of a cation is always smaller than that of the parent atom. The number of protons and nuclear charge are the same, but cation has one less electronic shell. Electronic attraction between the nucleus and the valance electrons increases, and size of electron cloud decreases.<br><br>The radius of a anion is always greater than that of the parent atom. The number of protons and nuclear charge are the same, but anion has more electrons than its parent atom, and electron-electron repulsion increases. Electronic attraction between the nucleus and the valance electrons decreases, and size of electron cloud increases.<br><br><img src=\"Screenshot 2024-06-12 at 05.37.05 PM.png\">"
+                        "The radius of a cation is always smaller than that of the parent atom. The number of protons and nuclear charge are the same, but cation has one less electronic shell. Electronic attraction between the nucleus and the outermost electrons increases, and size of electron cloud decreases.<br><br>The radius of a anion is always greater than that of the parent atom. The number of protons and nuclear charge are the same, but anion has more electrons than its parent atom, and electron-electron repulsion increases. Electronic attraction between the nucleus and the outermost electrons decreases, and size of electron cloud increases.<br><br><img src=\"Screenshot 2024-06-12 at 05.37.05 PM.png\">"
                     ],
                     "guid": "n]Qa*ifd;>",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -746,7 +746,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Standard enthalpy change of hydration,&nbsp;\\(\\Delta H^\\circ _{hyd}\\)&nbsp;(2)",
-                        "Standard enthalpy change of hydration (\\(\\Delta H^\\circ _{hyd}\\)) of an ion is the <u>energy released</u> when 1 mole of the gaseous ion is hydrated under standard conditions (i.e. 1 bar and 298 K)<br><br>\\(|\\Delta H^\\circ _{hyd}[M^+(g)]| \\propto |\\frac{q_+}{r_+}|\\)<br><br>\\(|\\Delta H^\\circ _{hyd}[X^-(g)]| \\propto |\\frac{q_-}{r_-}|\\)"
+                        "Standard enthalpy change of hydration (\\(\\Delta H^\\circ _{hyd}\\)) of an ion is the <u>energy released</u> when 1 mole of the gaseous ion is dissolved in water under standard conditions (i.e. 1 bar and 298 K)<br><br>\\(|\\Delta H^\\circ _{hyd}[M^+(g)]| \\propto |\\frac{q_+}{r_+}|\\)<br><br>\\(|\\Delta H^\\circ _{hyd}[X^-(g)]| \\propto |\\frac{q_-}{r_-}|\\)"
                     ],
                     "guid": "h(M+}mWfRB",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1078,7 +1078,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Autocatalysis",
-                        "Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic.<br><br><img src=\"paste-1affef0726da8601054f71d920762be3fd49e9c3.jpg\" width=\"496\"><br><br><img src=\"paste-3fbbd250dc8836327b9c1ea27b937f3d2e452a1d.jpg\">"
+                        "Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic.<br><br><img src=\"paste-1affef0726da8601054f71d920762be3fd49e9c3.jpg\" width=\"496\"><br><br>Initially the reaction is slow since it has a high activation energy. As the&nbsp;\\(Mn^{2+}\\)ions are produced, they increase the rate of the reaction by acting as an autocatalyst, providing an alternative pathway with lower activation energy. Towards the end of the reaction, the concentration of the reactants has fallen to a low level and so the rate of the reaction decreases, even though there is an adequate supply of catalyst<br><br><img src=\"paste-3fbbd250dc8836327b9c1ea27b937f3d2e452a1d.jpg\">"
                     ],
                     "guid": "y*o;SZR:#4",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1886,7 +1886,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Period 3 chlorides",
-                        "<img src=\"Screenshot 2024-06-13 at 10.46.24 AM.png\">"
+                        "<img src=\"Screenshot 2024-06-13 at 10.46.24 AM.png\"><br>\\(AlCl_3\\)&nbsp;forms a crystalline lattice of&nbsp;\\(Al_2Cl_6\\)&nbsp;in solid phase and exists as dimers of&nbsp;\\(Al_2Cl_6\\)&nbsp;in liquid and gas phases. Size of electron cloud:&nbsp;\\(Al_2Cl_6 &gt; PCl_5 &gt; SiCl_4\\)"
                     ],
                     "guid": "Nl?%S$&E){",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1928,7 +1928,9 @@
             "media_files": [
                 "Screenshot 2024-06-13 at 04.27.19 PM.png",
                 "Screenshot 2024-06-13 at 04.28.22 PM.png",
-                "Screenshot 2024-06-13 at 04.28.55 PM.png"
+                "paste-57a2cfab66946bd0316d8af7bac8cb40bb21982f.jpg",
+                "paste-5a3ea323446d7c642868cf2021060404863fc605.jpg",
+                "paste-ae76d4ad846a7f3cdee4dc72e4d597f9440610a0.jpg"
             ],
             "name": "13 The Periodic Table II",
             "newLimit": null,
@@ -1998,7 +2000,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Group 17 with iron (2)",
-                        "<img src=\"Screenshot 2024-06-13 at 04.28.55 PM.png\">"
+                        "<img src=\"paste-ae76d4ad846a7f3cdee4dc72e4d597f9440610a0.jpg\">"
                     ],
                     "guid": "Ip0%cQle+@",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2011,6 +2013,16 @@
                         "Thermal stability decreases down the group. Thermal stability is related to the H-X bond strength, which decreases down the group.<br><br>Down the group, there is less effective orbital overlap between the 1s orbital of hydrogen and the valence p orbital of the halogen (as size gets bigger and the valence orbital is more diffuse). Electronegativity difference between the hydrogen and the halogen also decreases, hence decreasing bond polarity."
                     ],
                     "guid": "qaYzP1YiRV",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Group 17 Applications",
+                        "Solubility of iodine in&nbsp;\\(KI\\)<br><img src=\"paste-57a2cfab66946bd0316d8af7bac8cb40bb21982f.jpg\"><br><br>Distinguishing tests<br><img src=\"paste-5a3ea323446d7c642868cf2021060404863fc605.jpg\"><br>Adding organic solvent (e.g. hexane,&nbsp;\\(CCl_4\\)) to determine halogen present"
+                    ],
+                    "guid": "A/]{24}24P",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
@@ -2156,7 +2168,7 @@
                     "__type__": "Note",
                     "fields": [
                         "pH, pOH and&nbsp;\\(K_w\\)/\\(pK_w\\)",
-                        "The ionic product of water is&nbsp;\\(K_w=[H^+][OH^-]\\).<br>\\[pH=-\\lg[H^+],\\ pOH=-\\lg[OH^-]\\]\\[pK_w=-\\lg[K_w]=pH+pOH\\]&nbsp;\\[K_w=1.0*10^{-14},\\ pK_w=14\\ (at\\ 25^\\circ C)\\]<br>"
+                        "The ionic product of water is&nbsp;\\(K_w=[H^+][OH^-]\\).<br>\\[pH=-\\lg[H^+],\\ pOH=-\\lg[OH^-]\\]\\[pK_w=-\\lg[K_w]=pH+pOH\\]&nbsp;\\[K_w=1.0\\times10^{-14},\\ pK_w=14\\ (at\\ 25^\\circ C)\\]<br>\\(H_2O \\rightleftharpoons H^+ + OH^-\\)&nbsp;is endothermic,&nbsp;\\(T \\uparrow\\),&nbsp;\\(K_w \\uparrow\\)<br>"
                     ],
                     "guid": "qeRs/fdsF8",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2166,7 +2178,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Acid and base dissociation constant, formulas",
-                        "Acid dissociation constant is a measure of the strength of the acid. The value is dependent on temperature, but does not vary with concentration.\\[K_a=\\frac{[H^+][A^-]}{[HA]},\\ pK_a=-\\lg K_a\\]<br>Base dissociation constant is a measure of the strength of the base. The value is dependent on temperature, but does not vary with concentration.\\[K_b=\\frac{[BH^+][OH^-]}{[B]},\\ pK_b=-\\lg K_b\\]<br>Useful formulas for weak acids/bases:\\[[H^+]=\\sqrt{K_a[HA]_{initial}}\\]\\[[OH^-]=\\sqrt{K_b[B]_{initial}}\\]<br>"
+                        "Acid dissociation constant is a measure of the strength of the acid. The value is dependent on temperature, but does not vary with concentration. Successive&nbsp;\\(K_a\\)values become smaller because successive dissociations involve more negatively charged cations, making donation of&nbsp;\\(H+\\)&nbsp;increasingly difficult&nbsp;<br>\\[K_a=\\frac{[H^+][A^-]}{[HA]},\\ pK_a=-\\lg K_a\\]<br>Base dissociation constant is a measure of the strength of the base. The value is dependent on temperature, but does not vary with concentration.\\[K_b=\\frac{[BH^+][OH^-]}{[B]},\\ pK_b=-\\lg K_b\\]<br>Useful formulas for weak acids/bases:\\[[H^+]=\\sqrt{K_a[HA]_{initial}}\\]\\[[OH^-]=\\sqrt{K_b[B]_{initial}}\\]<br>"
                     ],
                     "guid": "os[kWjv.AQ",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -3373,7 +3385,8 @@
                 "Screenshot 2024-06-16 at 04.11.51 PM-d6d1b4a185e1b0dbfd9a3c0a9805294bb1712cb6.png",
                 "Screenshot 2024-06-16 at 04.13.27 PM.png",
                 "Screenshot 2024-06-16 at 04.22.38 PM.png",
-                "Screenshot 2024-06-16 at 04.33.37 PM.png"
+                "Screenshot 2024-06-16 at 04.33.37 PM.png",
+                "paste-2f0ceae5b0d2d45994f304f1cc08be7477cf21f1.jpg"
             ],
             "name": "22a Electrochemistry I",
             "newLimit": null,
@@ -3473,7 +3486,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Standard cell potential spontaneity limitations (3)",
-                        "Kinetic factor is not taken into consideration.&nbsp;\\(E^{\\circ\\kern-0.65em-}_{cell}\\)&nbsp;is a measure of the position of equilibrium but gives no indication of rate.<br><br>Reaction takes place under non-standard conditions.&nbsp;\\(E^{\\circ\\kern-0.65em-}_{cell}\\)&nbsp;is the cell potential at standard conditions, predictions under non-standard conditions may not be valid.<br><br>Side reaction may occur. If a side reaction occurs, especially with insoluble ionic solid formation, a non-spontaneous reaction may become spontaneous."
+                        "Kinetic factor is not taken into consideration.&nbsp;\\(E^{\\circ\\kern-0.65em-}_{cell}\\)&nbsp;is a measure of the position of equilibrium but gives no indication of rate.<br><br>Reaction takes place under non-standard conditions.&nbsp;\\(E^{\\circ\\kern-0.65em-}_{cell}\\)&nbsp;is the cell potential at standard conditions, predictions under non-standard conditions may not be valid.<br><br>Side reaction may occur. If a side reaction occurs, especially with insoluble ionic solid formation, a non-spontaneous reaction may become spontaneous.<br><br>(Important for QA)<br><img src=\"paste-2f0ceae5b0d2d45994f304f1cc08be7477cf21f1.jpg\">"
                     ],
                     "guid": "jk?H8jGj$t",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
