@@ -1549,11 +1549,236 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-11 at 03.58.34 PM.png",
+                "Screenshot 2024-07-11 at 04.26.55 PM.png",
+                "Screenshot 2024-07-11 at 04.45.51 PM.png"
+            ],
             "name": "09 Globalisation and the International Economy",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Comparative advantage",
+                        "International trade can be mutually beneficial to all countries even when one country is more efficient at producing every single good than other countries (that country has an absolute advantage in all goods). According to the theory of comparative advantage, what matters is differences in relative efficiency or opportunity costs in producing goods between countries.<br><br><img src=\"Screenshot 2024-07-11 at 03.58.34 PM.png\">"
+                    ],
+                    "guid": "BCr}#k@2eU",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sources of comparative advantage (3)",
+                        "International differences in factor endowment<br>Differences in technology<br>Dynamic comparative advantage"
+                    ],
+                    "guid": "e(T+EyA~[",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Limitations of comparative advantage (4)",
+                        "High transport costs<br>Immobility of factors of production within a country<br>Increasing opportunity costs<br>Trade and currency restrictions (protectionism)"
+                    ],
+                    "guid": "rYSg).y6]$",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Patterns of trade",
+                        "Before the trade, the domestic price of wheat is where the domestic demand and supply curve intersect. If the countries decide to trade freely, China would import wheat and US would export wheat ad producers are attracted by the higher prices in China, while Chinese consumers would find it cheaper to import wheat from US.<br><br>When trade takes place, the additional supply into China, created by imports, reduces the market price paid by Chinese consumers, while the additional demand for exports increases the market price received by US producers. The world price eventually settles at&nbsp;\\(P_W\\), where&nbsp;\\(Q_1-Q_2=Q_3-Q_4\\).<br><br><img src=\"Screenshot 2024-07-11 at 04.26.55 PM.png\">"
+                    ],
+                    "guid": "j3?<PQ=o^P",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Determinants of inter-industry trade (3)",
+                        "Differences in sources of comparative advantage<br>Demand factors such as population and income levels<br>Limitations to theory of comparative advantage such as transport costs, artificial barriers to trade"
+                    ],
+                    "guid": "w@qx;NRMIE",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Determinants of intra-industry trade (2)",
+                        "Demand-side factors like tastes and preferences<br>Economies of scale from intra-industry specialisation"
+                    ],
+                    "guid": "Al8)I23H>{",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits of international trade (5)",
+                        "<u>Microeconomic</u><br>Increase consumer welfare<br>- Higher consumption possibilities<br>- Greater variety and higher quality of goods and services<br>Increase firms' profits<br>- Expands demand for firms<br>- Lowers costs by exploiting available economies of scale (internal economics of scale, external economies of scale, learning by doing)<br>Improve society's welfare<br>- Exposure to foreign competition (improve x-efficiency)<br>- Trade creation<br><u>Macroeconomic</u><br>Stimulate economic growth, increasing employment and improve balance of trade<br>- Enlarging the market<br>- Facilitates transfer of technology and ideas (potential growth)<br>- Dynamic gains from trade<br>Lower inflationary pressures"
+                    ],
+                    "guid": "ue=H<:xe:%",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Costs of international trade (4)",
+                        "<u>Microeconomic</u><br>Widening income disparities<br>Unfair competition and dumping<br><u>Macroeconomic</u><br>Over-dependence on other countries (susceptibility to external shocks)<br>Increased risk of structural unemployment"
+                    ],
+                    "guid": "G7o|Erw|xj",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Protectionism with tariffs and effects (4)",
+                        "Tariffs are custom duties or taxes imposed on imports of goods or services by the government. A specific tariff is a tax calculated as a fixed amount of money per unit of the import. An ad valorem tariff is a tax levied as a fixed percentage of the import price.<br><br><img src=\"Screenshot 2024-07-11 at 04.45.51 PM.png\"><br><br>Reducing imports and increasing domestic production (+)<br>The government revenue effect (+)<br>The consumption effect (-)<br>Deadweight loss to society (-)"
+                    ],
+                    "guid": "qL)W)%<^S*",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Protectionism with non-tariff barriers (5)",
+                        "Import quotas<br>Subsidies (export/domestic production)<br>Foreign exchange controls<br>Embargo<br>New protectionist measures (disguised restrictions)"
+                    ],
+                    "guid": "Hm+QpX4U%e",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits and costs of protectionism (5)",
+                        "To protect an infant industry<br>To protect sunset/mature industries and reduce strutural unemployment<br>To improve economic performance<br>- Reduce balance of trade deficits<br>- To increase national income and employment in times of recession<br>To protect against unfair trade practices<br>To diversify the economy"
+                    ],
+                    "guid": "o3P4X}*/p&",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Globalisation",
+                        "Globalisation is the growing economic inter-dependence of countries worldwide through increasing volume and variety of cross-border transactions, in goods and services, in flows and capitals, and in labour migration."
+                    ],
+                    "guid": "FX^8cLtrbH",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors for globalisation (2)",
+                        "Improvements in technology<br>- Transport technology<br>- Communication technology<br>Economic policies<br>- Removal of trade barriers<br>- Increase in market liberalisation<br>- Increase in education level and removal of immigration restrictions"
+                    ],
+                    "guid": "N8<s#f}S<k",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits of foreign direct investment to recipient country (4)",
+                        "<u>Macroeconomic</u><br>Sustained economic growth and increased employment<br>Improvement in balance of trade and balance of payments<br><u>Microeconomic</u><br>Transfer of management experties and technology<br>Increased competition to encourage cost minimisation"
+                    ],
+                    "guid": "L.!vS:GsBB",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Costs of foreign direct investment to recipient country (5)",
+                        "<u>Macroeconomic</u><br>Decreased domestic investment<br>Worsening of balance of payments and exchange rate instability<br><u>Microeconomic<br></u>Reduced competition among firms<br>Negative production externalities<br>Widening income gap"
+                    ],
+                    "guid": "Ngl9nVL~ZR",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits of foreign direct investment to source country (3)",
+                        "<u>Macroeconomic</u><br>Actual growth and improvement in balance of payments<br><u>Microeconomic<br></u>Increased profits for firms<br>Lower prices for consumers"
+                    ],
+                    "guid": "h,p(#<>eeb",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Costs of foreign direct investment to source country (3)",
+                        "<u>Macroeconomic</u><br>Worsening of capital and financial account in the short term<br>Unemployment for out-sourcing of off-shoring<br>Loss of corporate tax revenue for government"
+                    ],
+                    "guid": "j=6H//t=ng",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits of international labour mobility to recipient country (2)",
+                        "Increase in supply of labour (lower cost of production)<br>Dampen cost-push inflationary pressures"
+                    ],
+                    "guid": "eCnCaae)b#",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Costs of international labour mobility to recipient country (3)",
+                        "Widening income gap<br>Drain on government resources arising from immigration of unskilled labour<br>Increase in external cost and fall in non-material welfare"
+                    ],
+                    "guid": "zw-{)_]])1",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Benefits of international labour mobility to source country (3)",
+                        "Remittances from workers can contribute to GNP<br>Remittances provides capital for small businesses and entrepreneurial activites<br>Remittances contribute to balance of payments"
+                    ],
+                    "guid": "uHEWVs~J_a",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Costs of international labour mobility to source country (1)",
+                        "Brain drain (dampens potential growth)"
+                    ],
+                    "guid": "wEb9Zj1~1Z",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Impact of free trade agreements (3)",
+                        "Impact on consumers/employees (lower prices)<br>Impact on producers (higher profits)<br>Impact on government (macroeconomic goals)"
+                    ],
+                    "guid": "G<Rr^7-F75",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         }
