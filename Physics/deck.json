@@ -318,11 +318,105 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-13 at 01.49.29 PM.png",
+                "Screenshot 2024-07-13 at 01.53.28 PM.png"
+            ],
             "name": "04 Forces",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Weight, normal contact, friction and tension",
+                        "Weight is defined as the force experienced by a body of mass m in a gravitational field.<br><br>Normal contact is the force exerted on a body when it is in contact with a surface. It is always perpendicular to the contact surface and points away from that surface.<br><br>Friction is the force that acts to oppose the relative motion or tendency of relative motion between two surfaces in contact. It acts parallel to the two surfaces in contact.<br><br>When an object such as a bar is pulled at its ends, the magnitude of the force pulling on the bar is called the tension of the bar. It is called compression when the object is pushed on both ends."
+                    ],
+                    "guid": "fzwyj1zBW#",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hooke's law",
+                        "Hooke's law states that the extension of a body is proportional to the applied load if the limit of proportionality is not exceeded.\\[F=kx\\]<br>"
+                    ],
+                    "guid": "kt2u%xE%h~",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Density and pressure",
+                        "Density of a substance is defined as its mass per unit volume.\\[\\rho=\\frac{m}{V}\\]<br>Pressure is defined as the force per unit area, where the force is acting at right angles to the area.\\[p=\\frac{F}{A}=\\rho gh\\]\\[P=p_{atm}+\\rho gh\\]<br>"
+                    ],
+                    "guid": "rpi2lX1nVa",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Upthrust and Archimedes principle",
+                        "Upthrust is the vertical upward force exerted on a body by the fluid when it is fully or partially submerged in the fluid due to the difference in fluid pressure.<br><br>Archimedes principle states that the upthrust on a body in a fluid is equal to the weight of the fluid displaced by the body.\\[\\text{Upthrust}=\\text{Weight of the fluid displaced}\\]"
+                    ],
+                    "guid": "k;,K-G,[FZ",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Viscous force",
+                        "<img src=\"Screenshot 2024-07-13 at 01.49.29 PM.png\">"
+                    ],
+                    "guid": "za(7CgzpO#",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Equilibrium of forces",
+                        "For a body to be in equilibrium, it must be in translational equilibrium (the resultant force on the body is zero) and rotational equilibrium (the resultant moment on the body about any axis is zero)."
+                    ],
+                    "guid": "gM$[9lrN#}",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Moment and principle of moments",
+                        "The moment of a force about an axis is defined as the product of the force and the perpendicular distance of the line of action of the force from the axis.<br><br>The principle of moments states that for a body in rotational equilibrium, the sum of all the clockwise moments about any axis must equal the sum of all the anticlockwise moments about the same axis."
+                    ],
+                    "guid": "K3ji]b06[f",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Couple and torque of couple",
+                        "A couple consists of a pair of equal and opposite forces whose line of action do not coincide.<br><br>Torque of a couple is the product of the magnitude of one of the forces and the perpendicular distance between the forces.<br><br><img src=\"Screenshot 2024-07-13 at 01.53.28 PM.png\">"
+                    ],
+                    "guid": "N4ZV9FHk.:",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Centre of gravity",
+                        "The center of gravity of a body is the point at which the whole weight (or the resultant of the distributed gravitational attraction on the body) appears to act."
+                    ],
+                    "guid": "lQCO?;tUvR",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -339,7 +433,98 @@
             "name": "05 Work, Energy and Power",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Joule",
+                        "1J is the work done on an object by a force of 1N when the object is displaced by 1m in the direction of the force."
+                    ],
+                    "guid": "AK$yh,WeRE",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Work done on a system",
+                        "Work done by a constant force is the product of the force and the displacement in the direction of the force.\\[W=Fs\\cos\\theta\\]<br>Work done by a variable force is equal to the area under the&nbsp;\\(F-s\\)&nbsp;graph."
+                    ],
+                    "guid": "yu}5~#j8nl",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Work done on a spring",
+                        "\\[W=\\frac{1}{2}kx^2\\]"
+                    ],
+                    "guid": "g~>-b3cWTt",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Work done by a gas",
+                        "\\[W_{gas}=F\\Delta x=(pA)\\Delta x=p\\Delta V\\]<br>When the gas expands, work done by the gas is positive.<br>If the gas contracts, work done by the gas is negative."
+                    ],
+                    "guid": "m=*9tTd^>3",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kinetic and potential energy",
+                        "Kinetic energy\\[E_K=\\frac{1}{2}mv^2\\]<br>Potential energy\\[E_P=mgh\\]\\[U_E=\\frac{1}{2}kx^2\\]<br>"
+                    ],
+                    "guid": "Eu+hrCcy6K",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Relationship between force and potential energy",
+                        "\\[F=-\\frac{dU}{dx}\\]"
+                    ],
+                    "guid": "tff2{Q0eZ!",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Principle of conservation of energy",
+                        "The principle of conservation of energy states that energy cannot be created or destroyed. It can only be converted from one form to another.\\[(E_P+E_K)_{initial}=(E_P+E_K)_{final}\\]<br>"
+                    ],
+                    "guid": "A.K9:p>Gk-",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Efficiency",
+                        "Efficiency gives a measure of how much of the total energy may be considered useful and is not \"lost\".\\[\\eta=\\frac{\\text{Useful energy output}}{\\text{Total energy output}}\\times100\\%\\]"
+                    ],
+                    "guid": "y@sij:lU)O",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Power",
+                        "Power is defined as the rate of work done or energy conversion with respect to time.\\[P=\\frac{dW}{dt}=Fv\\]<br>"
+                    ],
+                    "guid": "s3*}Pfwg`y",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -356,7 +541,58 @@
             "name": "06 Motion in a Circle",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Radian",
+                        "The radian is the angle subtended by an arc length equal to the radius of an arc.\\[\\theta=\\frac{s}{r}\\]<br>"
+                    ],
+                    "guid": "ubh/DoB5-W",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Period and frequency in circular motion",
+                        "Period of an object in circular motion is the time taken for it to make one complete revolution.<br><br>Frequency of an object in circular motion is the number of complete revolutions made per unit time.<br>\\[f=\\frac{1}{T}\\]<br>"
+                    ],
+                    "guid": "g-YuQZZVhc",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Angular displacement and velocity",
+                        "Angular displacement is the angle an object makes with respect to a reference line.<br><br>Angular velocity of a body is defined as the rate of change of its angular displacement with respect to time.\\[\\omega=\\frac{d\\theta}{dt}=\\frac{2\\pi}{T}=2\\pi f\\]<br>"
+                    ],
+                    "guid": "r/g1g;ML*j",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tangential velocity",
+                        "Linear velocity is also known as tangential velocity.\\[v=r\\omega=\\frac{2\\pi r}{T}\\]"
+                    ],
+                    "guid": "gU>vHNG?7",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Centripetal acceleration and force",
+                        "Centripetal acceleration\\[a=v\\omega=r\\omega^2=\\frac{v^2}{r}\\]<br>Centripetal force\\[F=ma=mv\\omega=mr\\omega^2=\\frac{mv^2}{r}\\]"
+                    ],
+                    "guid": "C!QLxD22s-",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
