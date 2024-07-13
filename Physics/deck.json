@@ -10,11 +10,87 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-13 at 01.03.11 PM.png",
+                "Screenshot 2024-07-13 at 01.04.52 PM.png",
+                "Screenshot 2024-07-13 at 12.58.10 PM.png",
+                "Screenshot 2024-07-13 at 12.59.43 PM.png"
+            ],
             "name": "01 Measurement",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "S.I. base quantities and units (7)",
+                        "<img src=\"Screenshot 2024-07-13 at 12.58.10 PM.png\">"
+                    ],
+                    "guid": "cS7!**aT!R",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Homogeneity of equations",
+                        "In order for a physical equation to be operational or meaningful, each term in the equation must have the saem base units. When this is the case, the equation is said to be homegeneous or dimensionally constant."
+                    ],
+                    "guid": "M1vU7X%+K.",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Decimal prefixes and symbols (10)",
+                        "<img src=\"Screenshot 2024-07-13 at 12.59.43 PM.png\">"
+                    ],
+                    "guid": "Jt`98e3].A",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Systematic and random errors",
+                        "Systematic errors result in all readings or measurements being either always above or always below the true value by a fixed amount.<br><br>Random errors result in readings or measurements being scattered about a mean value. These errors have equal probability of being positive and negative. They may be reduced by repeating the measurements and finding the average value, or plotting a graph and drawing a line of best fit."
+                    ],
+                    "guid": "yoh}]wo66@",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Accuracy and precision",
+                        "Accuracy is the degree of closeness of the mean value of the measurements to the true value. It is affected by systematic error.<br><br>Precision is the dgeree of agreement between repeated measurements of the same quantity. It is affected by random error."
+                    ],
+                    "guid": "NW5;`MJ,m+",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Uncertainty formulae",
+                        "<img src=\"Screenshot 2024-07-13 at 01.03.11 PM.png\">"
+                    ],
+                    "guid": "jabdw@H:du",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Scalar and vector quantities",
+                        "A scalar quantity has a magnitude only. A vector quantity has both a magnitude and a direction.<br><br><img src=\"Screenshot 2024-07-13 at 01.04.52 PM.png\">"
+                    ],
+                    "guid": "w1DSMoVf(r",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -27,11 +103,77 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-13 at 01.10.34 PM.png",
+                "Screenshot 2024-07-13 at 01.10.47 PM.png",
+                "Screenshot 2024-07-13 at 01.12.11 PM.png",
+                "Screenshot 2024-07-13 at 01.13.17 PM.png"
+            ],
             "name": "02 Kinematics",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Distance and speed",
+                        "Distance is the total length of an object travels.<br><br>Instantaneous speed of an object is defined as the rate of change of distance travelled with respect to time. Average speed refers to the total distance travelled over total time taken."
+                    ],
+                    "guid": "p3`J&2ZNGy",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Displacement, velocity and acceleration",
+                        "Displacement is the distance moved in a specified direction from a reference point.<br><br>Instantaneous velocity of an object is defined as the rate of change of displacement with respect to time. Average velocity refers to the change in displacement over total time taken.<br><br>Instantaneous acceleration of an object is defined as the rate of change of velocity with respect to time. Average acceleration refers to the change in velocity over time taken."
+                    ],
+                    "guid": "OBhLes;IRg",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kinematics equations",
+                        "\\[v=u+at\\]\\[s=\\frac{1}{2}(u+v)t\\]\\[s=ut+\\frac{1}{2}at^2\\]\\[v^2=u^2+2as\\]<br><br>These 4 equations apply only to motion in a straight line with constant acceleration."
+                    ],
+                    "guid": "NyDPYx4ghx",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Terminal velocity",
+                        "<img src=\"Screenshot 2024-07-13 at 01.12.11 PM.png\">"
+                    ],
+                    "guid": "z?[mkJn|.)",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effect of air resistance on vertical motion",
+                        "<img src=\"Screenshot 2024-07-13 at 01.10.34 PM.png\"><br><img src=\"Screenshot 2024-07-13 at 01.10.47 PM.png\">"
+                    ],
+                    "guid": "hEDBlo-$F$",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effect of air resistance on projectile motion",
+                        "<img src=\"Screenshot 2024-07-13 at 01.13.17 PM.png\">"
+                    ],
+                    "guid": "E?S,p<zJ8?",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -44,11 +186,126 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "Screenshot 2024-07-13 at 01.19.18 PM.png",
+                "Screenshot 2024-07-13 at 01.19.26 PM.png",
+                "Screenshot 2024-07-13 at 01.31.30 PM.png"
+            ],
             "name": "03 Dynamics",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Newton's first law of motion",
+                        "Newton's first law of motion states that a body continues in its state of rest or uniform motion in a straight line, unless a resultant external force acts on it."
+                    ],
+                    "guid": "meK#4RP.@+",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Inertia, mass and weight",
+                        "The inertia of a body can be described as its reluctance to start moving, or to change its motion once it has started.<br><br>The mass of a body is the intrinsic property of a body which resists change in motion, and it is a measure of the inertia of a body.<br><br>The weight of a body is the force experienced by a mass in a gravitational field."
+                    ],
+                    "guid": "o7a5gUt&R7",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Newton's third law of motion",
+                        "Newton's third law of motion states that if a body A exerts a force on body B, then body B exerts an equal and opposite force on body A. The two forces form action-reaction pair of forces (same type and act on different bodies).\\[|F_{\\text{A on B}}|=|F_{\\text{B on A}}|\\]<br>"
+                    ],
+                    "guid": "cAR0e}_c(J",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Force diagrams",
+                        "<img src=\"Screenshot 2024-07-13 at 01.19.18 PM.png\"><br><img src=\"Screenshot 2024-07-13 at 01.19.26 PM.png\">"
+                    ],
+                    "guid": "cg55qeuY_W",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Momentum",
+                        "The momentum of a body is defined as the product of its mass and its velocity.\\[p=mv\\]<br>The total momentum of a system is the vector sum of the momenta of the individual bodies.\\[p=mv_1+mv_2+...+mv_n\\]"
+                    ],
+                    "guid": "lI_74i13V2",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Newton's second law of motion",
+                        "Newton's second law of motion states that the rate of change of momentum of a body is proportional to the resultant force acting on it and occurs in the direction of the force.\\[F_{net}=m\\frac{dv}{dt}+v\\frac{dm}{dt}\\]<br>When mass is constant,&nbsp;\\(F_{net}=m\\frac{dv}{dt}=ma\\).<br>When velocity is constant,&nbsp;\\(F_{net}=v\\frac{dm}{dt}\\)."
+                    ],
+                    "guid": "ka*~CqTP_5",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Newton",
+                        "One newton is defined as the force which will give a mass of&nbsp;\\(1kg\\)&nbsp;an acceleration of&nbsp;\\(1m\\ s^{-2}\\)&nbsp;in the direction of the force."
+                    ],
+                    "guid": "jk`5Wdu9!s",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Apparent weight",
+                        "We define apparent (or effective) weight of a body as the total force that the body exerts on the spring scale."
+                    ],
+                    "guid": "u@Yr@c9qG[",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Impulse",
+                        "Impulse is defined as the product of a force&nbsp;\\(F\\)&nbsp;acting on an object and the time&nbsp;\\(\\Delta t\\)&nbsp;for which the force acts. The impulse acting on a body is equal to its change in momentum after time&nbsp;\\(\\Delta t\\).\\[\\Delta p=F\\Delta t\\]<br>Impulse is the area under a&nbsp;\\(F-t\\)&nbsp;graph."
+                    ],
+                    "guid": "nRuxDu0}39",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Principle of conservation of momentum",
+                        "The principle of conservation of momentum states that when bodies in a system interact, the total momentum of the system remains constant, provided no net external force acts on it."
+                    ],
+                    "guid": "mV!8c3Y222",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Types of collision (3)",
+                        "Elastic collision is in which both total momentum and total kinetic energy are conserved. Inelastic collision is in which total momentum is conserved but total kinetic energy is not conserved. Completely inelastic collision is in which total kinetic energy is not conserved and the particles stick together after collision so that their final velocities are the same, total momentum is conserved.<br><br><img src=\"Screenshot 2024-07-13 at 01.31.30 PM.png\">"
+                    ],
+                    "guid": "n66%/XJ.Y,",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
