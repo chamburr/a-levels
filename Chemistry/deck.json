@@ -282,7 +282,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Subatomic particles in electric field",
-                        "Angle of deflection&nbsp;\\(\\propto |\\frac{q}m|\\)"
+                        "\\[\\text{Angle of deflection}\\propto |\\frac{q}{m}|\\]<br>"
                     ],
                     "guid": "u0*rwkm`+w",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -506,7 +506,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Assumptions for ideal gas (5)",
-                        "An ideal gas consists of particles of negligible volume<br>The gas particles exert negligible attractive forces on one another<br>The gas particles are in constant random motion<br>Collisions between the gas particles are perfectly elastic<br>The average KE is proportional to the absolute temperature"
+                        "An ideal gas consists of particles of negligible volume.<br>The gas particles exert negligible attractive forces on one another.<br>The gas particles are in constant random motion.<br>Collisions between the gas particles are perfectly elastic.<br>The average KE is proportional to the absolute temperature."
                     ],
                     "guid": "g@Pn%#jE#K",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -515,8 +515,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Conditions to approach ideality (2)",
-                        "Low pressure<br><ul><li>Gas particles are very far apart. Volume occupied by the gas particles can be considered to have negligible volume compared to the volume of the container</li><li>Intermolecular attractive forces between the widely-spaced gas particles are negligible</li></ul><div>High temperature</div><div><ul><li>Gas particles possess sufficiently high kinetic energy to overcome the intermolecular attractive forces, hence intermolecular attrative forces can be considered negligible</li></ul></div>"
+                        "Conditions to approach gas ideality (2)",
+                        "Low pressure. Gas particles are very far apart, volume occupied by the gas particles can be considered to have negligible volume compared to the volume of the container. Intermolecular attractive forces between the widely-spaced gas particles are negligible.<br><br><div>High temperature. Gas particles possess sufficiently high kinetic energy to overcome the intermolecular attractive forces, hence intermolecular attrative forces can be considered negligible.</div>"
                     ],
                     "guid": "q-~m@|#Ar[",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -525,8 +525,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Graph of&nbsp;\\(\\frac{pV}{RT}\\)&nbsp;for 1 mole of real gas (2)",
-                        "<img src=\"paste-8eea797056beea2832087295b95d8467ead513d7.jpg\"><br>At moderately high pressure, the volume of the system becomes smaller. The gas particles come closer together and intermolecular attractive forces between the gas particles become significant. This causes the gas to occupy a volume smaller than what it would occupy were it ideal,&nbsp;\\(\\therefore \\frac{pV}{RT} &lt; 1\\)<br><br>At very high pressure, the volume of the system becomes very small. The gas particles are so close together that there is repulsion between their electron clouds (intermolecular repulsive force). This causes the gas to occupy a volume larger than what it would occupy were it ideal,&nbsp;\\(\\therefore \\frac{pV}{RT} &gt; 1\\)"
+                        "Graph of&nbsp;\\(\\frac{pV}{RT}\\)&nbsp;against&nbsp;\\(p\\)&nbsp;for real gas (2)",
+                        "At moderately high pressure, the volume of the system becomes smaller. The gas particles come closer together and intermolecular attractive forces between the gas particles become significant. This causes the gas to occupy a volume smaller than what it would occupy were it ideal, so&nbsp;\\(\\frac{pV}{RT} &lt; 1\\).<br><br>At very high pressure, the volume of the system becomes very small. The gas particles are so close together that there is repulsion between their electron clouds (intermolecular repulsive force). This causes the gas to occupy a volume larger than what it would occupy were it ideal, so&nbsp;\\(\\frac{pV}{RT} &gt; 1\\).<br><br><img src=\"paste-8eea797056beea2832087295b95d8467ead513d7.jpg\">"
                     ],
                     "guid": "M>2!1.aH[s",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -535,8 +535,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Factors affecting deviation from ideality (2)",
-                        "<img src=\"Screenshot 2024-07-04 at 7.18.30 PM.png\"><br>Stronger intermolecular forces of attraction result in greater negative deviation from ideal gas<br>Bigger electron cloud causes more significant intermolecular repulsive force, resulting in greater positive deviation from ideal gas"
+                        "Factors affecting deviation from gas ideality (2)",
+                        "Stronger intermolecular forces of attraction result in greater negative deviation from ideal gas.<br><br>Bigger electron cloud causes more significant intermolecular repulsive force, resulting in greater positive deviation from ideal gas.<br><br><img src=\"Screenshot 2024-07-04 at 7.18.30 PM.png\">"
                     ],
                     "guid": "i]V/4ScpT&",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -546,7 +546,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Partial pressure of a gas",
-                        "In a mixture of gases that do not react with each other, each gas behaves as if it were the only gas present<br><br>For such a mixture, under the same physical conditions (e.g. temperature and volume), each gas exerts its own pressure that is equal to the pressure it would exert when it occupies the container alone. This pressure is known as the partial pressure of the gas"
+                        "In a mixture of gases that do not react with each other, each gas behaves as if it was the only gas present. Under the same physical conditions, each gas exerts its own pressure that is equal to the pressure it would exert when it occupies the container alone. This pressure is known as the partial pressure of the gas.<br><br>Dalton's law of partial pressures states that the total pressure of a mixture of non-reacting gases is equal to the sum of the partial pressures of the individual gases in the mixture."
                     ],
                     "guid": "z3~x%DPm[w",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -555,18 +555,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Dalton's Law of Partial Pressures",
-                        "Dalton's law of partial pressures states that the total pressure of a mixture of non-reacting gases is equal to the sum of the partial pressures of the individual gases in the mixture<br><br>\\(P_T = \\sum_{i=A,B...}P_i\\)"
-                    ],
-                    "guid": "O?{/`2,G-3",
-                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Mole fraction and partial pressure",
-                        "\\(x_A = \\frac{n_A}{n_{total}}\\)<br>\\(P_A = x_A \\times P_{total}\\)"
+                        "The mole fraction of a component A in a non-reacting gas mixture is the ratio of the number of moles of gas A to the total number of moles of all gaseous components present in the mixture.\\[x_A=\\frac{n_A}{n_{total}}\\]<br>The partial pressure of a gas A in a mixture of non-reacting gases is the product of the mole fraction of A in the mixture and the total pressure of the mixture.\\[P_A=x_A\\times P_{total}\\]<br>"
                     ],
                     "guid": "k;zd*$h((o",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -575,8 +565,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Vapour pressure",
-                        "Vapour pressure is the pressure exerted by the gaseous particles on the liquid surface and on the walls of the container<br><br>A dynamic equilibrium will be rapidly set up in which the number of particles leaving the surface is exactly balanced by the number rejoining it. In this equilibrium at a particular temperature, there will be a fixed number of the gaseous particles in the space above the liquid<br><br>The vapour pressure exerted is called the saturated vapour pressure at that temperature"
+                        "(Saturated) vapour pressure",
+                        "Vapour pressure is the pressure exerted by the gaseous particles on the liquid surface and on the walls of the container.<br><br>A dynamic equilibrium will be rapidly set up in which the number of particles leaving the surface is exactly balanced by the number rejoining it. In this equilibrium at a particular temperature, there will be a fixed number of the gaseous particles in the space above the liquid. The vapour pressure exerted is called the saturated vapour pressure at that temperature."
                     ],
                     "guid": "oS[+bY`,E.",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -585,8 +575,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Relationship between boiling points and vapour pressures",
-                        "The stronger the intermolecular forces, the lower its volatility and saturated vapour pressure, but the higher its boiling point<br><br>With stronger intermolecular forces, it will be more difficult for its particles to escape from the surface of the liquid,&nbsp;\\(\\therefore\\)&nbsp;lower saturated vapour pressure"
+                        "Relationship between intermolecular forces and vapour pressures",
+                        "With stronger intermolecular forces, it will be more difficult for its particles to escape from the surface of the liquid, which means that the&nbsp;saturated vapour pressure is lower. Volatility is also lower, so the boiling point is higher."
                     ],
                     "guid": "K[X|_jiXFi",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -606,6 +596,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "Screenshot 2024-07-13 at 12.19.25 PM.png",
                 "paste-11caf767ecc717a98c5fe0a5cc1ebcc8ebccaf57.jpg"
             ],
             "name": "05a Chemical Energetics I",
@@ -615,8 +606,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Enthalpy",
-                        "The enthalpy of a system is a measure of the energy content of the system and has the symbol H. The higher the energy content of a system, the more unstable it is"
+                        "Enthalpy of a system",
+                        "The enthalpy of a system is a measure of the energy content of the system. The higher the energy content of a system, the more unstable it is."
                     ],
                     "guid": "M<pFbh_gzv",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -635,8 +626,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Standard enthalpy change of reaction,&nbsp;\\(\\Delta H^\\circ _r\\)",
-                        "Standard enthalpy change of reaction (\\(\\Delta H^\\circ _r\\)) is the energy change in a chemical reaction when the molar quantities of reactants stated in the chemical equation react under standard conditions (i.e. 1 bar and 298 K)"
+                        "Standard enthalpy change of reaction,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _r\\)",
+                        "Standard enthalpy change of reaction (\\(\\Delta H^{\\circ\\kern-0.65em-} _r\\)) is the energy change in a chemical reaction when the molar quantities of reactants stated in the chemical equation react under standard conditions (i.e. 1 bar and 298 K)."
                     ],
                     "guid": "S_clou,vi",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -645,8 +636,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Standard enthalpy change of formation,&nbsp;\\(\\Delta H^\\circ _f\\)&nbsp;(2)",
-                        "Standard enthalpy change of formation (\\(\\Delta H^\\circ _f\\)) of a substance is the <u>energy change</u> when 1 mole of the pure substance in a specified state is formed from its constituent elements in their standard states under standard conditions (i.e. 1 bar and 298 K)<br><br>Standard enthalpy change of formation (\\(\\Delta H^\\circ _f\\)) of an element in its standard state under standard conditions is zero"
+                        "Standard enthalpy change of formation,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _f\\)&nbsp;(2)",
+                        "Standard enthalpy change of formation (\\(\\Delta H^{\\circ\\kern-0.65em-} _f\\)) of a substance is the <u>energy change</u> when 1 mole of the pure substance in a specified state is formed from its constituent elements in their standard states under standard conditions (i.e. 1 bar and 298 K).<br><br>Standard enthalpy change of formation (\\(\\Delta H^{\\circ\\kern-0.65em-} _f\\)) of an element in its standard state under standard conditions is zero."
                     ],
                     "guid": "fd7$^KrYwk",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -655,8 +646,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Standard enthalpy change of combustion,&nbsp;\\(\\Delta H^\\circ _c\\)",
-                        "Standard enthalpy change of combustion (\\(\\Delta H^\\circ _c\\)) of a substance is the <u>energy released</u> when 1 mole of the substance is completely burnt in excess oxygen under standard conditions (i.e. 1 bar and 298 K)"
+                        "Standard enthalpy change of combustion,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _c\\)",
+                        "Standard enthalpy change of combustion (\\(\\Delta H^{\\circ\\kern-0.65em-} _c\\)) of a substance is the <u>energy released</u> when 1 mole of the substance is completely burnt in excess oxygen under standard conditions (i.e. 1 bar and 298 K)."
                     ],
                     "guid": "Oiydb}<ME9",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -665,8 +656,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Standard enthalpy change of neutralisation,&nbsp;\\(\\Delta H^\\circ _{neut}\\)",
-                        "Standard enthalpy change of neutralisation (\\(\\Delta H^\\circ _{neut}\\)) between an acid and a base is the <u>energy change</u> when the acid and the base react to form 1 mole of water under standard conditions (i.e. 1 bar and 298 K)"
+                        "Standard enthalpy change of neutralisation,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _{neut}\\)",
+                        "Standard enthalpy change of neutralisation (\\(\\Delta H^{\\circ\\kern-0.65em-} _{neut}\\)) between an acid and a base is the <u>energy change</u> when the acid and the base react to form 1 mole of water under standard conditions (i.e. 1 bar and 298 K)"
                     ],
                     "guid": "p+$6el>Kg.",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -676,7 +667,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Weak acid-strong base neutralisation",
-                        "Less exothermic than that of the strong acid-strong base neutralisation reaction<br><br>This is because during the neutralisation reaction, the&nbsp;\\(CH_3COOH\\)&nbsp;molecules have to undergo further dissociation to produce&nbsp;\\(H^+\\)&nbsp;ions for reaction with the&nbsp;\\(OH^-\\)&nbsp;ions<br><br>The dissociation of&nbsp;\\(CH_3COOH\\)&nbsp;involves the breaking of the&nbsp;\\(O-H\\)&nbsp;bond (endothermic) and hydration of the&nbsp;\\(CH_3COO^-\\)&nbsp;and&nbsp;\\(H^+\\)&nbsp;ions (exothermic). Overall dissociation reaction is endothermic<br><br>Since some energy is consumed to bring about further dissociation of the&nbsp;\\(CH_3COOH\\)&nbsp;molecules during the neutralisation reactoin, the energy released from the reaction will be less"
+                        "This is less exothermic than strong acid-strong base neutralisation reaction, because during the neutralisation reaction, the&nbsp;\\(CH_3COOH\\)&nbsp;molecules have to undergo further dissociation to produce&nbsp;\\(H^+\\)&nbsp;ions for reaction with the&nbsp;\\(OH^-\\)&nbsp;ions.<br><br>The dissociation of&nbsp;\\(CH_3COOH\\)&nbsp;involves the breaking of the&nbsp;\\(O-H\\)&nbsp;bond (endothermic) and hydration of the&nbsp;\\(CH_3COO^-\\)&nbsp;and&nbsp;\\(H^+\\)&nbsp;ions (exothermic). Overall dissociation reaction is endothermic.<br><br>Since some energy is consumed to bring about further dissociation of the&nbsp;\\(CH_3COOH\\)&nbsp;molecules during the neutralisation reactoin, the energy released from the reaction will be less."
                     ],
                     "guid": "MgIh:q1?l!",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -685,8 +676,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Standard enthalpy change of atomisation,&nbsp;\\(\\Delta H^\\circ _{atom}\\)&nbsp;(2)",
-                        "Standard enthalpy change of atomisation (\\(\\Delta H^\\circ _{atom}\\)) of an element is the <u>energy absorbed</u> when 1 mole of gaseous atoms is formed from the element under standard conditions (i.e. 1 bar and 298 K)<br><br>Standard enthalpy change of atomisation (\\(\\Delta H^\\circ _{atom}\\)) of a compound is the <u>energy absorbed</u> when 1 mole of the compound is converted to gaseous atoms under standard conditions"
+                        "Standard enthalpy change of atomisation,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _{atom}\\)&nbsp;(2)",
+                        "Standard enthalpy change of atomisation (\\(\\Delta H^{\\circ\\kern-0.65em-} _{atom}\\)) of an element is the <u>energy absorbed</u> when 1 mole of gaseous atoms is formed from the element under standard conditions (i.e. 1 bar and 298 K).<br><br>Standard enthalpy change of atomisation (\\(\\Delta H^{\\circ\\kern-0.65em-} _{atom}\\)) of a compound is the <u>energy absorbed</u> when 1 mole of the compound is converted to gaseous atoms under standard conditions."
                     ],
                     "guid": "gNc:G2~]PT",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -696,7 +687,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Bond dissociation energy (BDE)",
-                        "Bond dissociation energy of a&nbsp;\\(X-Y\\)&nbsp;bond is the <u>energy required</u> to break 1 mole of that particular&nbsp;\\(X-Y\\)&nbsp;bond in a particular compound in gaseous state"
+                        "Bond dissociation energy of a&nbsp;\\(X-Y\\)&nbsp;bond is the <u>energy required</u> to break 1 mole of that particular&nbsp;\\(X-Y\\)&nbsp;bond in a particular compound in gaseous state."
                     ],
                     "guid": "ezL{`u]uFf",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -706,7 +697,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Bond energy (BE) of a bond",
-                        "Bond energy of a&nbsp;\\(X-Y\\)&nbsp;bond is the average <u>energy required</u> to break 1 mole of the&nbsp;\\(X-Y\\)&nbsp;bonds in the gaseous state"
+                        "Bond energy of a&nbsp;\\(X-Y\\)&nbsp;bond is the average <u>energy required</u> to break 1 mole of the&nbsp;\\(X-Y\\)&nbsp;bonds in the gaseous state."
                     ],
                     "guid": "o`I*?#&W$(",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -716,7 +707,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Ionisation energy, IE",
-                        "The first ionisation energy of an element is the <u>energy required</u> to remove 1 mole of electrons from 1 mole of gaseous atoms to form 1 mole of singly positively charged gaseous ions<br><br>Similar for 2nd IE"
+                        "The first ionisation energy of an element is the <u>energy required</u> to remove 1 mole of electrons from 1 mole of gaseous atoms to form 1 mole of singly positively charged gaseous ions."
                     ],
                     "guid": "v;ys0gPq9v",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -726,7 +717,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Electron affinity, EA (2)",
-                        "The first electron affinity (\\(1^{st} EA\\)) of an element is the <u>energy change</u> when 1 mole of gaseous atoms acquires 1 mole of electrons to form 1 mole of singly negatively charged gaseous ions<br><br>The second electron affinity of an element is the&nbsp;<u>energy absorbed</u>&nbsp;when 1 mole of singly negatively charged gaseous ions acquires 1 mole of electrons to form 1 mole of doubly negatively charged gaseous ions"
+                        "The first electron affinity of an element is the <u>energy change</u> when 1 mole of gaseous atoms acquires 1 mole of electrons to form 1 mole of singly negatively charged gaseous ions.<br><br>The second electron affinity of an element is the&nbsp;<u>energy absorbed</u>&nbsp;when 1 mole of singly negatively charged gaseous ions acquires 1 mole of electrons to form 1 mole of doubly negatively charged gaseous ions."
                     ],
                     "guid": "Qjy]BBo:Pi",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -736,7 +727,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Lattice energy, LE",
-                        "The lattice energy (LE) of an ionic compound is the <u>energy released</u> when 1 mole of the solid ionic compound is formed from its constituent gaseous ions under standard conditions (i.e. 1 bar and 298 K)"
+                        "The lattice energy (LE) of an ionic compound is the <u>energy released</u> when 1 mole of the solid ionic compound is formed from its constituent gaseous ions under standard conditions (i.e. 1 bar and 298 K)."
                     ],
                     "guid": "JQ23Rhs?2p",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -745,8 +736,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Standard enthalpy change of hydration,&nbsp;\\(\\Delta H^\\circ _{hyd}\\)&nbsp;(2)",
-                        "Standard enthalpy change of hydration (\\(\\Delta H^\\circ _{hyd}\\)) of an ion is the <u>energy released</u> when 1 mole of the gaseous ion is dissolved in water under standard conditions (i.e. 1 bar and 298 K)<br><br>\\(|\\Delta H^\\circ _{hyd}[M^+(g)]| \\propto |\\frac{q_+}{r_+}|\\)<br><br>\\(|\\Delta H^\\circ _{hyd}[X^-(g)]| \\propto |\\frac{q_-}{r_-}|\\)"
+                        "Standard enthalpy change of hydration,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _{hyd}\\)&nbsp;(2)",
+                        "Standard enthalpy change of hydration (\\(\\Delta H^{\\circ\\kern-0.65em-} _{hyd}\\)) of an ion is the <u>energy released</u> when 1 mole of the gaseous ion is dissolved in water under standard conditions (i.e. 1 bar and 298 K).\\[|\\Delta H^{\\circ\\kern-0.65em-} _{hyd}[M^+(g)]| \\propto |\\frac{q_+}{r_+}|\\]\\[|\\Delta H^{\\circ\\kern-0.65em-} _{hyd}[X^-(g)]| \\propto |\\frac{q_-}{r_-}|\\]<br>"
                     ],
                     "guid": "h(M+}mWfRB",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -766,7 +757,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Calorimetry",
-                        "\\(q = mc\\Delta T\\)<br>\\(\\Delta H = -\\frac{q}{n}\\)<br><br>Assumptions:<br>Negligible heat loss to the surrounding air due to insulation<br>The density of the solution is approximately that of water (\\(1.00\\;g\\;cm^{-3}\\))<br>The specific heat capacity of the solution is approximately that of water <br>(\\(4.18\\;J\\;g^{-1}\\;K^{-1}\\))<br>There is&nbsp;\\(100\\%\\)&nbsp;efficiency in the transfer of heat from the reaction to the solution"
+                        "\\[q=mc\\Delta T\\]\\[\\Delta H=-\\frac{q}{n}\\]<br>Assumptions:<br>Negligible heat loss to the surrounding air due to insulation.<br>The density of the solution is approximately that of water (\\(1.00\\;g\\;cm^{-3}\\)).<br>The specific heat capacity of the solution is approximately that of water <br>(\\(4.18\\;J\\;g^{-1}\\;K^{-1}\\)).<br>There is&nbsp;\\(100\\%\\)&nbsp;efficiency in the transfer of heat from the reaction to the solution.<br>"
                     ],
                     "guid": "BPw9qJ_2y<",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -776,7 +767,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Hess' Law",
-                        "Hess' Law states that the enthalpy change of a chemical reaction is the same regardless of whether the reaction takes place in one step or several steps, provided the initial and final states of the reactions and products are the same"
+                        "Hess' Law states that the enthalpy change of a chemical reaction is the same regardless of whether the reaction takes place in one step or several steps, provided the initial and final states of the reactions and products are the same."
                     ],
                     "guid": "cG]S|-M9aj",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -785,8 +776,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Common formulas",
-                        "\\(\\Delta H^\\circ _r = \\sum n \\Delta H^\\circ _c(reactants) - \\sum n \\Delta H^\\circ _c (products)\\)<br><br>\\(\\Delta H^\\circ _r = \\sum n \\Delta H^\\circ _f(products) - \\sum n \\Delta H^\\circ _f (reactants)\\)<br><br>\\(\\Delta H^\\circ _r = \\sum BE (reactants) - \\sum BE (products)\\)"
+                        "Chemical energetics formulas",
+                        "\\[\\Delta H^{\\circ\\kern-0.65em-} _r = \\sum n \\Delta H^{\\circ\\kern-0.65em-} _c(reactants) - \\sum n \\Delta H^{\\circ\\kern-0.65em-} _c (products)\\]\\[\\Delta H^{\\circ\\kern-0.65em-} _r = \\sum n \\Delta H^{\\circ\\kern-0.65em-} _f(products) - \\sum n \\Delta H^{\\circ\\kern-0.65em-} _f (reactants)\\]\\[\\Delta H^{\\circ\\kern-0.65em-} _r = \\sum BE (reactants) - \\sum BE (products)\\]<br>"
                     ],
                     "guid": "K1#{]tW15E",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -796,7 +787,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Lattice energies",
-                        "Calculated using Born-Haber cycle<br>Use F.A.I.L (formation, atomisation, ionisation (IE &amp; EA), lattice energy)<br><br>For predominantly ionic compounds, experimental lattice energy values are in good agreement with theoretical lattice energy values, suggesting that structure of the lattice for these compounds is quite close to being purely ionic<br><br>For ionic compounds with partial covalent character, experimental lattice energy values differ, suggesting that bonding is not as close to 'purely ionic'. Experimental lattice energy values are more exothermic"
+                        "Calculated using Born-Haber cycle. Use F.A.I.L (formation, atomisation, ionisation (IE &amp; EA), lattice energy).<br><br>For predominantly ionic compounds, experimental lattice energy values are in good agreement with theoretical lattice energy values, suggesting that structure of the lattice for these compounds is quite close to being purely ionic.<br><br>For ionic compounds with partial covalent character, experimental lattice energy values differ, suggesting that bonding is not as close to 'purely ionic'. Experimental lattice energy values are more exothermic.<br><br><img src=\"Screenshot 2024-07-13 at 12.19.25 PM.png\">"
                     ],
                     "guid": "ERQq$W@?WJ",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -806,7 +797,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Aqueous solution formation (2)",
-                        "Separation of ions in the solid ionic lattice into monoatomic gaseous ions (endo) followed by hydration of gaseous ions, forming ion-dipole interactions (exo)<br><br>\\(\\Delta H^\\circ _{soln} = -LE + \\sum \\Delta H^\\circ _{hyd}\\)"
+                        "Separation of ions in the solid ionic lattice into monoatomic gaseous ions (endothermic) followed by hydration of gaseous ions, forming ion-dipole interactions (exothermic).\\[\\Delta H^{\\circ\\kern-0.65em-} _{soln} = -LE + \\sum \\Delta H^{\\circ\\kern-0.65em-} _{hyd}\\]<br>"
                     ],
                     "guid": "siD+7XX%/l",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -837,7 +828,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Spontaneous process",
-                        "A spontaneous process is one that, once started, will continue without any external assistance"
+                        "A spontaneous process is one that, once started, will continue without any external assistance."
                     ],
                     "guid": "K|v6UrI6ji",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -846,8 +837,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Entropy",
-                        "Entropy (\\(S\\)) of a system is a measure of the disorder of matter and energy in the system. The more ways matter in the system can be arranged, and the more ways energy in the system can be dispersed, the more disordered the system is and the larger its entropy"
+                        "Entropy of a system",
+                        "Entropy (\\(S\\)) of a system is a measure of the disorder of matter and energy in the system. The more ways matter in the system can be arranged, and the more ways energy in the system can be dispersed, the more disordered the system is and the larger its entropy."
                     ],
                     "guid": "pu>bDrGPl_",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -857,7 +848,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Factors affecting entropy (4)",
-                        "Change in temperature<br><ul><li>When the temperature of a system is increased, there is broadening of the Boltzmann energy distribution, hence more ways of arranging energy quanta in the hotter system</li></ul>Change in phase<br><ul><li>Solid → liquid, order in solid is destroyed, particles in a liquid are more randomly arranged and more disordered</li><li>Liquid/Solid → gas, gaseoues state is the most disordered since gas particles can move freely and are the most randomly arranged, largest increase in volume, thus even larger increase in entropy</li></ul>Change in the number of particles (especially for gaseous systems)<br><ul><li>More ways to arrange the particles and more ways to distribute the energy in the system</li></ul>Mixing of particles (without chemical reaction)<br><ul><li>Gases always mix completely to create a more disordered state, as there are more ways for the molecules to arrange themselves in the larger volume</li><li>Liquids of similar polarities can be mixed</li><li>Dissolution of an ionic salt in water</li></ul>"
+                        "Change in temperature. When the temperature of a system is increased, there is broadening of the Boltzmann energy distribution, hence more ways of arranging energy quanta in the hotter system.<br><br>Change in phase. For solid to liquid, order in solid is destroyed, particles in a liquid are more randomly arranged and more disordered. For liquid/solid to gas, gaseoues state is the most disordered since gas particles can move freely and are the most randomly arranged, largest increase in volume, thus even larger increase in entropy.<br><br>Change in the number of particles (especially for gaseous systems). More ways to arrange the particles and more ways to distribute the energy in the system.<br><br>Mixing of particles (without chemical reaction). For mixing of gas particles, gases always mix completely to create a more disordered state, as there are more ways for the molecules to arrange themselves in the larger volume. For mixing of liquid molecules (only liquids of similar polarities can be mixed), there are more ways for molecules to arrange themselves in the larger volume."
                     ],
                     "guid": "Oz$~23GO$`",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -867,7 +858,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Gibbs free energy change",
-                        "\\(\\Delta G^{\\circ\\kern-0.65em-} = \\Delta H^{\\circ\\kern-0.65em-} - T\\Delta S^{\\circ\\kern-0.65em-} \\)<br><br>\\(\\Delta H^{\\circ\\kern-0.65em-} \\)&nbsp;and&nbsp;\\(\\Delta S^{\\circ\\kern-0.65em-} \\)&nbsp;can be assumed to be ocnstant unless there is a phase change<br><br>\\(\\Delta G &gt; 0\\), reaction is not spontaneous<br>\\(\\Delta G &lt; 0\\), reaction is spontaneous"
+                        "\\[\\Delta G^{\\circ\\kern-0.65em-} = \\Delta H^{\\circ\\kern-0.65em-} - T\\Delta S^{\\circ\\kern-0.65em-} \\]<br>\\(\\Delta H^{\\circ\\kern-0.65em-} \\)&nbsp;and&nbsp;\\(\\Delta S^{\\circ\\kern-0.65em-} \\)&nbsp;can be assumed to be constant unless there is a phase change.<br><br>For&nbsp;\\(\\Delta G &gt; 0\\), reaction is not spontaneous.<br>For&nbsp;\\(\\Delta G &lt; 0\\), reaction is spontaneous.<br>"
                     ],
                     "guid": "u~v$Y{S.*5",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -877,7 +868,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Limitations of&nbsp;\\(\\Delta G^{\\circ\\kern-0.65em-}\\)",
-                        "\\(\\Delta G^{\\circ\\kern-0.65em-}\\)&nbsp;indicates the thermodynamic feasibility but gives no information about the kinetic feasibility (dependent on the&nbsp;\\(E_a\\))"
+                        "\\(\\Delta G^{\\circ\\kern-0.65em-}\\)&nbsp;indicates the thermodynamic feasibility but gives no information about the kinetic feasibility (dependent on the&nbsp;\\(E_a\\))."
                     ],
                     "guid": "n)l{?Z[Pjf",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -887,7 +878,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Entropy of dissolution of ionic solid in water",
-                        "Can lead to a net increase or decrease in disorder depending on the constituent ions<br><br><img src=\"Screenshot 2024-07-06 at 6.13.59 PM.png\" width=\"505\"><br><img src=\"Screenshot 2024-07-06 at 6.14.04 PM.png\" width=\"505\">"
+                        "Can lead to a net increase or decrease in disorder depending on the constituent ions.<br><br><img src=\"Screenshot 2024-07-06 at 6.13.59 PM.png\" width=\"505\"><br><img src=\"Screenshot 2024-07-06 at 6.14.04 PM.png\" width=\"505\">"
                     ],
                     "guid": "BYU.~zZj~b",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -911,7 +902,6 @@
                 "Screenshot 2024-06-13 at 11.38.51 AM.png",
                 "Screenshot 2024-06-13 at 11.42.33 AM.png",
                 "Screenshot 2024-06-13 at 11.42.37 AM.png",
-                "Screenshot 2024-06-13 at 11.51.28 AM.png",
                 "Screenshot 2024-06-13 at 11.51.35 AM.png",
                 "Screenshot 2024-06-13 at 11.51.43 AM.png",
                 "Screenshot 2024-06-13 at 11.55.12 AM.png",
@@ -1027,8 +1017,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Haber process and catalytic converter",
-                        "<img src=\"Screenshot 2024-06-13 at 11.51.28 AM.png\"><br><br><img src=\"Screenshot 2024-06-13 at 11.51.35 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.51.43 AM.png\">"
+                        "Catalytic converter",
+                        "<img src=\"Screenshot 2024-06-13 at 11.51.35 AM.png\"><br><img src=\"Screenshot 2024-06-13 at 11.51.43 AM.png\">"
                     ],
                     "guid": "n,cK2k5|6p",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1118,8 +1108,6 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Screenshot 2024-07-07 at 1.30.23 PM.png",
-                "paste-980d5cdec7d57816f6344cc00e9067c21577bba1.jpg",
                 "paste-af9c26296a5e1314ebcbfcc9e7c6c842a36c9795.jpg",
                 "paste-de8d360ce6f2f35a0cb8b9bb35f0595305ee1b35.jpg",
                 "paste-efdb5b4851f883ded6b45a80bb989d9174a4ba80.jpg"
@@ -1132,7 +1120,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Reversible reactions",
-                        "Reversible reactions are reactions that proceed in both the forward and backward directions"
+                        "Reversible reactions are reactions that proceed in both the forward and backward directions."
                     ],
                     "guid": "GtI<F>{13T",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1142,7 +1130,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dynamic equilibrium",
-                        "Dynamic equilibrium refers to a state in a reversible system in which the forward and backward reactions are continuing at the same rate, resulting in no net change in the macroscopic properties (e.g. concentrations, partial pressure) of the reactants and products"
+                        "Dynamic equilibrium refers to a state in a reversible system in which the forward and backward reactions are continuing at the same rate, resulting in no net change in the macroscopic properties (e.g. concentrations, partial pressure) of the reactants and products."
                     ],
                     "guid": "d#Y1!=VTYk",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1151,8 +1139,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Reaction quotient, equilibrium constant",
-                        "For reversible reaction&nbsp;\\(aA\\,+\\,bB\\;\\rightleftharpoons\\,cC\\,+\\,dD\\)<br><br>\\(Q_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}\\)<br><br>At equilibrium,&nbsp;\\(Q = K\\)&nbsp;(at the given temperature)<br><br>\\(K_c = \\frac{[C]^c_{eqm} [D]^d_{eqm}}{[A]^a_{eqm} [B]^b_{eqm}}\\)<br><br>\\(K_p = \\frac{p^c_{C}\\;p^d_{D}}{p^a_{A}\\;p^b_{B}}\\)"
+                        "Reaction quotient and equilibrium constant",
+                        "For reversible reaction&nbsp;\\(aA\\,+\\,bB\\;\\rightleftharpoons\\,cC\\,+\\,dD\\)\\[Q_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}\\]<br>At equilibrium,&nbsp;\\(Q = K\\)&nbsp;(at the given temperature)\\[K_c = \\frac{[C]^c_{eqm} [D]^d_{eqm}}{[A]^a_{eqm} [B]^b_{eqm}}\\]<br>Equilibrium constant for gaseous system\\[K_p = \\frac{p^c_{C}\\;p^d_{D}}{p^a_{A}\\;p^b_{B}}\\]<br>"
                     ],
                     "guid": "E}W{Ae=<,",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1161,8 +1149,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Variations of&nbsp;\\(K\\)&nbsp;(3)",
-                        "Forward and backward reaction<br>\\(K_{forward} = \\frac{1}{K_{backward}}\\)<br><br>Overall reaction (sum of two or more reactions)<br>\\(K_{overall} = K_1 \\times K_2 \\times\\, ...\\)<br><br>Coefficients multiplied by common factor,&nbsp;\\(n\\)<br>\\(K_{new} = K^n\\)"
+                        "Variations of K&nbsp;(3)",
+                        "Forward and backward reaction\\[K_{forward} = \\frac{1}{K_{backward}}\\]<br>Overall reaction (sum of two or more reactions)\\[K_{overall} = K_1 \\times K_2 \\times\\, ...\\]<br>Coefficients multiplied by common factor,&nbsp;\\(n\\)\\[K_{new} = K^n\\]<br>"
                     ],
                     "guid": "cW91WK,h?8",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1172,7 +1160,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Factor affecting equilibrium constants",
-                        "\\(K_c\\,(or\\,K_p) = \\frac{k_f}{k_b}\\)&nbsp;where&nbsp;\\(k = Ae^{-E_a / RT}\\)<br><br>\\(K\\)&nbsp;is a constant at a specific temperature and it varies with temperature"
+                        "\\[K_c\\,(or\\,K_p) = \\frac{k_f}{k_b}\\text{, where }k = Ae^{-E_a / RT}\\]<br>\\(K\\)&nbsp;is a constant at a specific temperature and it varies with temperature.<br>"
                     ],
                     "guid": "NQZ)eXgeYu",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1182,7 +1170,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Homogenous and heterogenous equilibria",
-                        "Homogenous (heterogenous) equilibrium refers to an equilibrium system in which all the substances involved are (not) in the same phase<br><br>\\(K\\)&nbsp;expression of heterogenous equilibrium exclude<br><ul><li>the concentration (or partial pressure) of pure solids and pure liquids because they are constant at a given temperature</li><li>the concentration of water when it is present in large amount (as a solvent) in an aqueous solution.&nbsp;\\([H_2O]\\)&nbsp;is approximately constant</li></ul>"
+                        "Homogenous (heterogenous) equilibrium refers to an equilibrium system in which all the substances involved are (not) in the same phase.<br><br>K expression of heterogenous equilibrium exclude the concentration (or partial pressure) of pure solids and pure liquids because they are constant at a given temperature, and the concentration of water when it is present in large amount (as a solvent) in an aqueous solution since&nbsp;\\([H_2O]\\)&nbsp;is approximately constant."
                     ],
                     "guid": "dc;uAPKEb%",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1192,7 +1180,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Degree of dissociation,&nbsp;\\(\\alpha\\)",
-                        "\\(Degree\\;of\\;dissociation,\\,\\alpha = \\frac{amount\\;dissociated}{total\\;initial\\;amount}\\)"
+                        "\\[\\text{Degree of dissociation, }\\alpha = \\frac{\\text{Amount dissociated}}{\\text{Total initial amount}}\\]"
                     ],
                     "guid": "MkJlin8%y_",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1202,7 +1190,7 @@
                     "__type__": "Note",
                     "fields": [
                         "\\(\\Delta G^{\\circ\\kern-0.65em-}\\)&nbsp;and position of equilibrium",
-                        "<img src=\"paste-de8d360ce6f2f35a0cb8b9bb35f0595305ee1b35.jpg\" width=\"537\"><br><br>If&nbsp;\\(\\Delta G &lt; 0\\), forward reaction tending towards the equilibrium is spontaneous; rate of forward reaction is faster than the backward reaction<br>If&nbsp;\\(\\Delta G &gt; 0\\), backward reaction tending towards the equilibrium is spontaneous; rate of backward reaction is faster than the forward reaction<br>At&nbsp;\\(\\Delta G = 0\\), the system is at dynamic equilibrium where the forward rate is equal to the backward rate<br><br>\\(\\Delta G^{\\circ\\kern-0.65em-} = -RT\\;ln\\,K\\)<br><img src=\"paste-af9c26296a5e1314ebcbfcc9e7c6c842a36c9795.jpg\" width=\"544\">"
+                        "If&nbsp;\\(\\Delta G &lt; 0\\), forward reaction tending towards the equilibrium is spontaneous, rate of forward reaction is faster than the backward reaction. If&nbsp;\\(\\Delta G &gt; 0\\), backward reaction tending towards the equilibrium is spontaneous, rate of backward reaction is faster than the forward reaction. At&nbsp;\\(\\Delta G = 0\\), the system is at dynamic equilibrium where the forward rate is equal to the backward rate.<br><br><img src=\"paste-de8d360ce6f2f35a0cb8b9bb35f0595305ee1b35.jpg\" width=\"537\"><br>\\[\\Delta G^{\\circ\\kern-0.65em-} = -RT\\;ln\\,K\\]<br><img src=\"paste-af9c26296a5e1314ebcbfcc9e7c6c842a36c9795.jpg\" width=\"544\"><br>"
                     ],
                     "guid": "mo5gyKqw-w",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1212,7 +1200,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Le Chatelier's Principle",
-                        "Le Chatelier's Principle states that when a system at equilibrium is subjected to a change, the system will react to counteract the change imposed so as to re-establish the equilibrium"
+                        "Le Chatelier's Principle states that when a system at equilibrium is subjected to a change, the system will react to counteract the change imposed so as to re-establish the equilibrium."
                     ],
                     "guid": "Qwp_QQ~[G=",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1231,8 +1219,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "The Haber Process and conditions (5)",
-                        "<img src=\"Screenshot 2024-07-07 at 1.30.23 PM.png\" width=\"682\"><br><br>Aim of producing the maximum amount of product (yield) in the shortest time and at the minimum cost<br><br>Conditions<br>- Temperature: 450 ºC, a compromise to ensure a reasonable rate of production and yield<br>- Pressure: about 200 atm, a compromise to ensure good yield and low cost and risk<br>- Catalyst: finely divided iron catalyst with aluminium oxide as promoter<br>- Continual removal of ammonia: shift P.O.E. to the right to increase yield<br>- Molar ratio of&nbsp;\\(N_2:H_2 = 1:3\\): minimise excess reactants"
+                        "Haber Process and conditions (5)",
+                        "\\[N_2(g)+3H_2(g)\\rightleftharpoons 2NH_3(g)\\text{, }\\Delta H^{\\circ\\kern-0.65em-}=-92kJ\\ mol^{-1}\\]<br>450 ºC, a compromise to ensure a reasonable rate of production and yield.<br>About 200 atm, a compromise to ensure good yield, low cost, and low safety risk.<br>Finely divided iron (Fe) catalyst with aluminium oxide as promoter.<br>Continual removal of ammonia to shift P.O.E. to the right to increase yield.<br>Molar ratio of&nbsp;\\(N_2:H_2 = 1:3\\)&nbsp;to&nbsp;minimise excess reactants.<br>"
                     ],
                     "guid": "mPpP1CU)*B",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1241,8 +1229,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Addition of inert gas (2)",
-                        "<img src=\"paste-980d5cdec7d57816f6344cc00e9067c21577bba1.jpg\" width=\"754\">"
+                        "Effect of addition of inert gas on equilibrium (2)",
+                        "At constant volume, the total pressure of the gaseous system is increased. However, the concentrations (or partial pressures) of the reactants and the products remain unchanged. Quantitatively, Q is still equal to K. Hence, equilibrium position is not affected.<br><br>At constant pressure, the total volume of the gaseous system is increased, and concentration (or partial pressures) of the reactants and products are decreased. Hence, the equilibrium will shift to the side involving greater number of moles of gas."
                     ],
                     "guid": "i48]JB2*q4",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
