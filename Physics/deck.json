@@ -926,7 +926,9 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-688cba03c2862116cee192572bd228054a17a99a.jpg"
+            ],
             "name": "10 Oscillations",
             "newLimit": null,
             "newLimitToday": null,
@@ -1015,7 +1017,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Forced oscillations and resonance",
-                        "Forced oscillations are produced when a body is subjected to a periodic external driving force.<br><br>Resonance occurs when a system responds at maximum amplitude to an external driving force. This occurs when the frequency of the driving force is equal to the natural frequency of the driven system."
+                        "Forced oscillations are produced when a body is subjected to a periodic external driving force.<br><br>Resonance occurs when a system responds at maximum amplitude to an external driving force. This occurs when the frequency of the driving force is equal to the natural frequency of the driven system.<br><br><img src=\"paste-688cba03c2862116cee192572bd228054a17a99a.jpg\">"
                     ],
                     "guid": "Ba9{p7{b=s",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1273,7 +1275,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Fringe separation",
-                        "The formula is only applicable if the rays are almost parallel and the angle of the fringes from the normal is small.\\[x=\\frac{\\lambda D}{a}\\]Typical values for slit width w is 0.2mm, slit separation a is 0.5mm, slit-screen distance D is 1m, wave length of light λ is 500nm.<br>"
+                        "The formula is only applicable if the rays are almost parallel (\\(a &lt;&lt; D)\\)&nbsp;and the angle of the fringes from the normal is small (\\(sin\\,\\theta \\approx tan\\,\\theta\\),&nbsp;\\(a &gt;&gt; \\lambda\\)).\\[x=\\frac{\\lambda D}{a}\\]Typical values for slit width w is 0.2mm, slit separation a is 0.5mm, slit-screen distance D is 1m, wave length of light λ is 500nm.<br>"
                     ],
                     "guid": "q<63aEeb:D",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1435,7 +1437,9 @@
             "extendRev": 0,
             "media_files": [
                 "Screenshot 2024-06-08 at 01.46.14 PM.png",
-                "Screenshot 2024-06-24 at 07.17.05 PM.png"
+                "Screenshot 2024-06-24 at 07.17.05 PM.png",
+                "paste-bcc4eb261d9a7981816bdb8ef97a2a31a13fc2a3.jpg",
+                "paste-c5794f55c9ffd072b3cf8582ce68008efa94ae5f.jpg"
             ],
             "name": "14 Current of Electricity",
             "newLimit": null,
@@ -1538,6 +1542,16 @@
                         "A source of e.m.f. delivers the maximum amount of power to an external load when the resistance of the load is equal to the internal resistance of the source.<br><br><img src=\"Screenshot 2024-06-24 at 07.17.05 PM.png\">"
                     ],
                     "guid": "QgNlE@8@WJ",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I-V characteristics of circuit components",
+                        "Ohmic conductors<br>Temperature constant, resistance constant. Temperaure can be kept constant by immersing the conductor in a constant temperature bath.<br><img src=\"paste-c5794f55c9ffd072b3cf8582ce68008efa94ae5f.jpg\"><br><br>Diodes<br><img src=\"paste-bcc4eb261d9a7981816bdb8ef97a2a31a13fc2a3.jpg\">"
+                    ],
+                    "guid": "JrDqI$4J8=",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
@@ -1812,7 +1826,8 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Screenshot 2024-06-10 at 03.51.05 PM.png"
+                "Screenshot 2024-06-10 at 03.51.05 PM.png",
+                "paste-958b1d875bfb86df2fcaa2ef626fb643b3f91de2.jpg"
             ],
             "name": "18 Alternating Currents",
             "newLimit": null,
@@ -1855,6 +1870,16 @@
                         "A diode is a device that conducts current predominantly in one direction and is used for rectification. When connection is made to a supply so that a diode conducts, it is said to be in forward bias and in the non-conducting state it is in reverse bias.<br><br><img src=\"Screenshot 2024-06-10 at 03.51.05 PM.png\">"
                     ],
                     "guid": "b<Yl88)tzH",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Power loss in transformers (4)",
+                        "<img src=\"paste-958b1d875bfb86df2fcaa2ef626fb643b3f91de2.jpg\" width=\"602\">"
+                    ],
+                    "guid": "HUak%0}97M",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
@@ -2006,7 +2031,7 @@
                     "__type__": "Note",
                     "fields": [
                         "X-ray and X-ray plot",
-                        "X-rays are produced when high-speed electrons are suddenly slowed down.<br><br>The intensity of the&nbsp;\\(K_\\alpha\\)&nbsp;characteristic X-ray is typically greater than the&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-ray.<br><br>Since the energy differences between electrons in the various energy levels are characteristics of the target atom, the wavelengths of the&nbsp;\\(K_\\alpha\\)&nbsp;and&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-rays are unique for each element.<br><br><img src=\"Screenshot 2024-06-10 at 08.36.34 PM.png\">"
+                        "X-rays are produced when high-speed electrons are suddenly slowed down.<br><br>The intensity of the&nbsp;\\(K_\\alpha\\)&nbsp;characteristic X-ray is typically greater than the&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-ray because electrons in the L-shell are nearer to the K-shell, hence there is a greater probability that the vacancy in the K-shell is filled by an electron from the L-shell than from the M-shell.<br><br>Since the energy differences between electrons in the various energy levels are characteristics of the target atom, the wavelengths of the&nbsp;\\(K_\\alpha\\)&nbsp;and&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-rays are unique for each element.<br><br><img src=\"Screenshot 2024-06-10 at 08.36.34 PM.png\">"
                     ],
                     "guid": "pY*Hu.{-1k",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
