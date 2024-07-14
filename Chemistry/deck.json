@@ -1038,7 +1038,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Intermediate",
-                        "An intermediate is a species that is formed in one step of a reaction mechanism and consumed in a subsequent step"
+                        "An intermediate is a species that is formed in one step of a reaction mechanism and consumed in a subsequent step."
                     ],
                     "guid": "nd%r48FXLU",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1048,7 +1048,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Arrhenius equation",
-                        "\\(k = Ae^{-\\frac{E_a}{RT}}\\)"
+                        "\\[k = Ae^{-\\frac{E_a}{RT}}\\]<br>"
                     ],
                     "guid": "okc*fo~&d>",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1058,7 +1058,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Catalyst and inhibitor",
-                        "A catalyst is a substance which increases the rate of a reaction without itself undergoing any permanent chemical change<br><br>An inhibitor is a substance which decreases the rate of a chemical reaction"
+                        "A catalyst is a substance which increases the rate of a reaction without itself undergoing any permanent chemical change.<br><br>An inhibitor is a substance which decreases the rate of a chemical reaction."
                     ],
                     "guid": "Cx}WiF4MeD",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1068,29 +1068,9 @@
                     "__type__": "Note",
                     "fields": [
                         "Autocatalysis",
-                        "Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic.<br><br><img src=\"paste-1affef0726da8601054f71d920762be3fd49e9c3.jpg\" width=\"496\"><br><br>Initially the reaction is slow since it has a high activation energy. As the&nbsp;\\(Mn^{2+}\\)ions are produced, they increase the rate of the reaction by acting as an autocatalyst, providing an alternative pathway with lower activation energy. Towards the end of the reaction, the concentration of the reactants has fallen to a low level and so the rate of the reaction decreases, even though there is an adequate supply of catalyst<br><br><img src=\"paste-3fbbd250dc8836327b9c1ea27b937f3d2e452a1d.jpg\">"
+                        "Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic.<br><br><img src=\"paste-1affef0726da8601054f71d920762be3fd49e9c3.jpg\" width=\"496\"><br><br>Initially the reaction is slow since it has a high activation energy. As the&nbsp;\\(Mn^{2+}\\)ions are produced, they increase the rate of the reaction by acting as an autocatalyst, providing an alternative pathway with lower activation energy. Towards the end of the reaction, the concentration of the reactants has fallen to a low level and so the rate of the reaction decreases, even though there is an adequate supply of catalyst.<br><br><img src=\"paste-3fbbd250dc8836327b9c1ea27b937f3d2e452a1d.jpg\">"
                     ],
                     "guid": "y*o;SZR:#4",
-                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Enzymes and properties (5)",
-                        "Enzymes are proteins which catalyse chemical reactions in living systems<br><br>Nature and size. Enzymes are globular proteins with active sites contained in their three-dimensional structure<br>Efficiency. Enzymes are required in very small amounts<br>Specificity. Enzymes are very specific to a particular reaction or type of reaction<br>Temperature. Enzymes operate most effectively at body temperature, about 37 ºC<br>Sensitivity to pH. Enzymes only work well over a narrow pH range"
-                    ],
-                    "guid": "NyrK}mygp<",
-                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Concentration of substrate and rate of reaction",
-                        "For a fixed amount/concentration of enzyme, there is a finite number of active sites in the enzyme<br><br>At low [substrate], not all of the active sites are occupied, reaction first order w.r.t. substrate<br>At high [substrate], all active sites are occupied, reaction zero order w.r.t substrate"
-                    ],
-                    "guid": "ObC@47u_1*",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
@@ -2007,7 +1987,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Group 17 Applications",
+                        "Group 17 applications (2)",
                         "Solubility of iodine in&nbsp;\\(KI\\)<br><img src=\"paste-57a2cfab66946bd0316d8af7bac8cb40bb21982f.jpg\"><br><br>Distinguishing tests<br><img src=\"paste-5a3ea323446d7c642868cf2021060404863fc605.jpg\"><br>Adding organic solvent (e.g. hexane,&nbsp;\\(CCl_4\\)) to determine halogen present"
                     ],
                     "guid": "A/]{24}24P",

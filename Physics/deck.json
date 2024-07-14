@@ -34,7 +34,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Homogeneity of equations",
-                        "In order for a physical equation to be operational or meaningful, each term in the equation must have the saem base units. When this is the case, the equation is said to be homegeneous or dimensionally constant."
+                        "In order for a physical equation to be operational or meaningful, each term in the equation must have the same base units. When this is the case, the equation is said to be homegeneous or dimensionally constant."
                     ],
                     "guid": "M1vU7X%+K.",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -64,7 +64,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Accuracy and precision",
-                        "Accuracy is the degree of closeness of the mean value of the measurements to the true value. It is affected by systematic error.<br><br>Precision is the dgeree of agreement between repeated measurements of the same quantity. It is affected by random error."
+                        "Accuracy is the degree of closeness of the mean value of the measurements to the true value. It is affected by systematic error.<br><br>Precision is the degree of agreement between repeated measurements of the same quantity. It is affected by random error."
                     ],
                     "guid": "NW5;`MJ,m+",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
