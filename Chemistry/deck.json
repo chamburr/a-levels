@@ -555,6 +555,16 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Dalton's Law of Partial Pressures",
+                        "Dalton's law of partial pressures states that the total pressure of a mixture of non-reacting gases is equal to the sum of the partial pressures of the individual gases in the mixture<br><br>\\(P_T = \\sum_{i=A,B...}P_i\\)"
+                    ],
+                    "guid": "O?{/`2,G-3",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Mole fraction and partial pressure",
                         "The mole fraction of a component A in a non-reacting gas mixture is the ratio of the number of moles of gas A to the total number of moles of all gaseous components present in the mixture.\\[x_A=\\frac{n_A}{n_{total}}\\]<br>The partial pressure of a gas A in a mixture of non-reacting gases is the product of the mole fraction of A in the mixture and the total pressure of the mixture.\\[P_A=x_A\\times P_{total}\\]<br>"
                     ],
@@ -1071,6 +1081,26 @@
                         "Autocatalysis is a type of catalytic action whereby the product of a reaction acts as a catalyst for the reaction. The reaction is said to be autocatalytic.<br><br><img src=\"paste-1affef0726da8601054f71d920762be3fd49e9c3.jpg\" width=\"496\"><br><br>Initially the reaction is slow since it has a high activation energy. As the&nbsp;\\(Mn^{2+}\\)ions are produced, they increase the rate of the reaction by acting as an autocatalyst, providing an alternative pathway with lower activation energy. Towards the end of the reaction, the concentration of the reactants has fallen to a low level and so the rate of the reaction decreases, even though there is an adequate supply of catalyst.<br><br><img src=\"paste-3fbbd250dc8836327b9c1ea27b937f3d2e452a1d.jpg\">"
                     ],
                     "guid": "y*o;SZR:#4",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Enzymes and properties (5)",
+                        "Enzymes are proteins which catalyse chemical reactions in living systems<br><br>Nature and size. Enzymes are globular proteins with active sites contained in their three-dimensional structure<br>Efficiency. Enzymes are required in very small amounts<br>Specificity. Enzymes are very specific to a particular reaction or type of reaction<br>Temperature. Enzymes operate most effectively at body temperature, about 37 ºC<br>Sensitivity to pH. Enzymes only work well over a narrow pH range"
+                    ],
+                    "guid": "NyrK}mygp<",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Concentration of substrate and rate of reaction",
+                        "For a fixed amount/concentration of enzyme, there is a finite number of active sites in the enzyme<br><br>At low [substrate], not all of the active sites are occupied, reaction first order w.r.t. substrate<br>At high [substrate], all active sites are occupied, reaction zero order w.r.t substrate"
+                    ],
+                    "guid": "ObC@47u_1*",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
@@ -3588,11 +3618,241 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "paste-16896ff3bd64de852c46ccc6da45cb465e050c8a.jpg",
+                "paste-1da1b52b7848cf95b732f0178db9fc31726c6210.jpg",
+                "paste-1f919f041447e645204a942599bce51cf17bf894.jpg",
+                "paste-5f516a4291b757bc1d744e049b2e5e25a5ee4e18.jpg",
+                "paste-66ba0cd338a85e6a43ad35c4fbb75ce6101c6ba6.jpg",
+                "paste-6f99b3d4b94deb3509651df8ab76303b86a57a11.jpg",
+                "paste-809c793075d18316216e284a3aba28d1d3afb40a.jpg",
+                "paste-89b3d14102a3f4bedfbfdf50f548527d258f6dde.jpg",
+                "paste-a2f8fabff44bb7d2ef15f48111b321c0787fa83d.jpg",
+                "paste-b083acbff355b65f561088f823de439a83ca5b70.jpg",
+                "paste-cb5cd6d41b0dce3d0d293b0c68342b94f5acc736.jpg",
+                "paste-cc33c365ba9f912dc337ed696565750730da127b.jpg",
+                "paste-d2454e6624f739efe0fbb21523c4d3867088ce4f.jpg",
+                "paste-d8dc6ec6cd344860150870c72c5037762baef040.jpg",
+                "paste-f699df4127978d2adf2bccedfb463d4b22ed777d.jpg",
+                "paste-f7fd88212d68812f7a6f778b733dafe8e6d22227.jpg",
+                "paste-fc0ca79885958c89074356445aba3e8524a8c82c.jpg",
+                "paste-fe8a88ad043eb2253ba080ed46475bae490f163f.jpg"
+            ],
             "name": "23 Transition Elements",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Transition element",
+                        "A transition element is a d-block element which can form one or more stable ions with a partially filled d subshell."
+                    ],
+                    "guid": "f705SbeZ!i",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Physical properties",
+                        "The first-row transition elements are all metals and all elements are remarkably similar in their physical properties.<br><br>- Hard and have high densities<br>- High melting and boiling points<br>- Good conductors of heat and electricity"
+                    ],
+                    "guid": "Qo9fh=l$!=",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Atomic radius",
+                        "The atomic radii of the first-row transition elements (in particular, from&nbsp;\\(V\\)&nbsp;to&nbsp;\\(Cu\\)) in Period 4 are almost constant / relatively invariant."
+                    ],
+                    "guid": "yvMEbWhM;y",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ionisation energies",
+                        "The first ionisation energies of the transition elements from Ti to Cu is almost constant / relatively invariant."
+                    ],
+                    "guid": "dpVET2Wyh2",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Melting and boiling points",
+                        "Comparing s-block and transition elements, the melting point of transition elements are generally higher than the s-block elements in the same period.<br><br>The valence 3d and 4s electrons are close in energy. Both 3d and 4s electrons are available for delocalisation into the sea of electrons. With a greater number of delocalised electrons and higher charge density of the cations, the metallic bonding is stronger in the transition elements."
+                    ],
+                    "guid": "Adl*P~EeB_",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Density",
+                        "Comparing s-block and transition elements, the transition elements are generally much denser than the s-block elements in the same period.<br><br>Transition elements have smaller atomic size/radius and thus have more atoms per unit volume, larger atomic mass compared to s-block elements. Trnsition elements have greater mass per unit volume compared to s-block elements."
+                    ],
+                    "guid": "fvZB)bUsIj",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chemical properties",
+                        "Transition elements form compounds in which the transition element shows a variety of oxidation states while s-block elements form compounds in which they exist in a fixed oxidation state.<br>The transition elements form coloured compounds and ions while s-block elements form compounds that are usually white in the solid state and colourless in aqueous solution.<br>The transition elements and their compounds often show catalytic activity while s-block elements and their compounds show little or no catalytic activity.<br>The transition elements hsow a great tendency to form stable complexes while s-block elements show much less tendency to form stable ocmplexes."
+                    ],
+                    "guid": "j2y<x8kqm-",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Variable oxidation states",
+                        "Transition elements can show variable oxidation states in their compounds primarily due to the close similarity in energy of the 3d and the 4s electrons, that both the 3d and the 4s electrons are available for bond formation (ionic or covalent).<br><br>Lower oxidation states are usually found in ionic compounds.<br><img src=\"paste-fe8a88ad043eb2253ba080ed46475bae490f163f.jpg\"><br><br>Higher oxidation states are usually found in species where the transition element is covalently bonded to other more electronegative atoms.<br><img src=\"paste-f7fd88212d68812f7a6f778b733dafe8e6d22227.jpg\">"
+                    ],
+                    "guid": "oh=pULC/r",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Common oxidation numbers",
+                        "<img src=\"paste-a2f8fabff44bb7d2ef15f48111b321c0787fa83d.jpg\"><br><br>highest possible oxidation state = no. of unpaired d-electrons + 4s electrons<br><br>Oxides of elements in low oxidation states tend to be basic while oxides of elements in high oxidation states tend to be acidic."
+                    ],
+                    "guid": "tSe;esweZ5",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Redox systems",
+                        "Relatively stabilities of different oxidation states are best understood in terms of standard electrode potentials,&nbsp;\\(E^{\\circ\\kern-0.65em-}(M^{3+}/M^{2+})\\).<br><br>Going across the transition elements, there is a general increase in&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;value. THere is a decrease in\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;value from&nbsp;\\(Mn^{3+}/Mn^{2+}\\)&nbsp;to&nbsp;\\(Fe^{3+}/Fe^{2+}\\). Addition of an electron to&nbsp;\\(Fe^{3+}\\)&nbsp;results in a&nbsp;\\(3d^6\\)&nbsp;configuration, where there is inter-electronic repulsion between the paired electrons in the same 3d-orbital."
+                    ],
+                    "guid": "r(;|MC*z>x",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Catalytic activity",
+                        "Heterogenous catalyst<br>The availability of a partially filled 3d subshell allows for ready exchange of electrons to and from reactant molecules, facilitating the formation of weak bonds with the reactant molecules. This is due to the availability of 3d electrons for bond formation with reactant molecules or the availability of low-lying vacant orbitals which can accept electron pairs from the reactant molecules.<br><br>Homogenous catalyst<br>Their ability to exist in different oxidation states and the relative ease of conversion from one oxidation state to another. These features facilitate the formation of, and decomposition of, the intermediate formed from the transition metal ion catalyst and the reactants."
+                    ],
+                    "guid": "Do^GgkF1.N",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Complexes",
+                        "A complex contains a central metal atom or ion linked to one or more surrounding ions or molecules (called ligands) by co-ordinate bond (or dative covalent bond). If species carries an overall charge, it is called a complex ion.<br><br>The number of bonds formed with the metal ion exceeds the oxidation state of the metal ion.<br><br>The co-ordination number of the central metal ion (or atom) is the total number of co-ordinate bonds that the central metal ion (or atom) forms with ligands."
+                    ],
+                    "guid": "pB0}9E.X[>",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ligands",
+                        "A ligand is an ion or a molecule which contains at least one atom bearing a lone pair of electrons which can be donated into a low-lying vacant orbital of a central metal atom or ion forming a co-ordinate bond (or dative covalent bond), resulting in the formation of a complex.<br><br><img src=\"paste-5f516a4291b757bc1d744e049b2e5e25a5ee4e18.jpg\"><br><img src=\"paste-1da1b52b7848cf95b732f0178db9fc31726c6210.jpg\"><br><img src=\"paste-cc33c365ba9f912dc337ed696565750730da127b.jpg\"><br><img src=\"paste-d8dc6ec6cd344860150870c72c5037762baef040.jpg\"><br><img src=\"paste-89b3d14102a3f4bedfbfdf50f548527d258f6dde.jpg\">"
+                    ],
+                    "guid": "E0~aSoQ2L4",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Transition metal complex ions",
+                        "The transition metal ions have low-lying vacant orbitals (e.g. 3d, 4s and 4p orbitals) to accommodate the lone pairs of electrons from the ligands to form co-ordinate bonds.<br>The transition metal ions are relatively small and highly charged. Consequently, they have relatively high charge to size ratio (charge density) and are able to attract the lone pair of electrons from the ligands. Their high charge density and hence polarising power, produces a strong tendency towards covalent bond formation with ligands."
+                    ],
+                    "guid": "kM<|vf0t4}",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aqua complexes",
+                        "Due to their high charge density, transition metal ions exist as aqua complexes in aqueous solution. Each oxygen atom of a water molecule donates a lone pair of electrons into a low-lying vacant orbital of the transition metal ion and forms a coordinate bond.<br><br>Aquous solutions of most transition metal compounds such as&nbsp;\\(CrCl_3(aq)\\),&nbsp;\\(FeCl_3(aq)\\),&nbsp;\\(CuSO_4(aq)\\)&nbsp;and&nbsp;\\(Co(NO_3)_2(aq)\\)&nbsp;are acidic.<br><br><img src=\"paste-f699df4127978d2adf2bccedfb463d4b22ed777d.jpg\">"
+                    ],
+                    "guid": "Cv7BdX315t",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stereochemistry of complexes",
+                        "Shape of the complex ion depends on the coordination number and nature of the metal ion.<br><br><img src=\"paste-66ba0cd338a85e6a43ad35c4fbb75ce6101c6ba6.jpg\"><br><img src=\"paste-fc0ca79885958c89074356445aba3e8524a8c82c.jpg\"><br><img src=\"paste-809c793075d18316216e284a3aba28d1d3afb40a.jpg\">"
+                    ],
+                    "guid": "kU,$Q@L,Hy",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Colour of complexes",
+                        "<img src=\"paste-6f99b3d4b94deb3509651df8ab76303b86a57a11.jpg\"><br><img src=\"paste-b083acbff355b65f561088f823de439a83ca5b70.jpg\"><br>Crystal field theory causes the splitting of the five d-orbitals in octahedral and tetrahedral complexes.<br><img src=\"paste-16896ff3bd64de852c46ccc6da45cb465e050c8a.jpg\">"
+                    ],
+                    "guid": "kXre=SwL)l",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Factors affecting colour of transition metal complexes",
+                        "Identity of metal and its oxidation state (depends on the number of d electrons present). Compounds with a different no. of d-electrons repel the electrons of the ligands to different extent, thus the energy gap between the split d-orbitals are different.<br><br>Nature of the ligands bonded to the central metal ion/atom. Different ligands split the d orbitals of the metal ion into two sets of slightly different eneergy levels to different extents. Different transition metal complexes absorb different wavelengths of light from the visible spectrum for d-d transitions."
+                    ],
+                    "guid": "L(c@.B/k:s",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Stability constant",
+                        "The stability constant,&nbsp;\\(K_{stab}\\), of&nbsp; a complex ion may be defined as the equilibrium constant for its formation. The greater the value of&nbsp;\\(K_{stab}\\), the more stable the complex ion is relative to the aqua complex containing the same metal ion.<br><br><img src=\"paste-cb5cd6d41b0dce3d0d293b0c68342b94f5acc736.jpg\">"
+                    ],
+                    "guid": "ni1zHH5Gt1",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ligands in haemoglobin",
+                        "Haemoglobin is a red pigment in red blood cells, acts as a transporter of oxygen in blood and contains iron(II) which has a co-ordination number of six.<br><br>Five co-ordination sites are taken up by&nbsp;\\(N\\)&nbsp;(4 from porphyrin + 1). The oxygen molecule may become reversibly bonded at the sixth side allowing the haemoglobin to carry oxygen from one part of the body to another. Better ligands than oxygen can bond strongly to the iron(II) and thus destroy the oxygen carrying capacity of haemoglobin, accounting for the toxic nature of&nbsp;\\(CO\\)&nbsp;and&nbsp;\\(CN^-\\)&nbsp;ions."
+                    ],
+                    "guid": "yFI*ps]acD",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ligand exchange and&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;values",
+                        "<img src=\"paste-d2454e6624f739efe0fbb21523c4d3867088ce4f.jpg\" width=\"535\"><br><br><img src=\"paste-1f919f041447e645204a942599bce51cf17bf894.jpg\" width=\"534\">"
+                    ],
+                    "guid": "v20!*%XGht",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         }
