@@ -668,7 +668,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Gravitational potential",
-                        "Gravitational potenetial at a point in a gravitational field is defined as the work done per unit mass by an external force in bringing a small test mass from infinity to that mass.\\[\\phi=\\frac{U}{m}=-\\frac{GM}{r}\\]<br>"
+                        "Gravitational potential at a point in a gravitational field is defined as the work done per unit mass by an external force in bringing a small test mass from infinity to that point.\\[\\phi=\\frac{U}{m}=-\\frac{GM}{r}\\]<br>"
                     ],
                     "guid": "BN|ly4QvF<",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -698,7 +698,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Kepler's third law",
-                        "The square of the period of revolution of the planets are directly proportional to the cubes of their mean distances from the Sun.\\[T^2=\\frac{4\\pi^2}{GM}r^3\\]"
+                        "The squares of the periods of revolution of the planets are directly proportional to the cubes of their mean distances from the Sun.\\[T^2=\\frac{4\\pi^2}{GM}r^3\\]"
                     ],
                     "guid": "P<GVsV#kf%",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
