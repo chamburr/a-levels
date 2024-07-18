@@ -776,7 +776,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Absolute temperature scale and absolute zero",
-                        "Absolute scale of temeprature or the thermodynamic scale of temperature is one that is independent of the property of any substance and has an absolute zero.<br><br>Absolute zero is defined as the zero point (0K) of the thermodynamic temperature scale and the temperature at which all substances have a minimum internal energy."
+                        "Absolute scale of temperature or the thermodynamic scale of temperature is one that is independent of the property of any substance and has an absolute zero.<br><br>Absolute zero is defined as the zero point (0K) of the thermodynamic temperature scale and the temperature at which all substances have a minimum internal energy."
                     ],
                     "guid": "ML/:aI6c2K",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1275,7 +1275,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Fringe separation",
-                        "The formula is only applicable if the rays are almost parallel (\\(a &lt;&lt; D)\\)&nbsp;and the angle of the fringes from the normal is small (\\(sin\\,\\theta \\approx tan\\,\\theta\\),&nbsp;\\(a &gt;&gt; \\lambda\\)).\\[x=\\frac{\\lambda D}{a}\\]Typical values for slit width w is 0.2mm, slit separation a is 0.5mm, slit-screen distance D is 1m, wave length of light λ is 500nm.<br>"
+                        "The formula is only applicable if the rays are almost parallel (\\(a \\ll D\\))&nbsp;and the angle of the fringes from the normal is small (\\(sin\\,\\theta \\approx tan\\,\\theta\\),&nbsp;\\(a \\gg \\lambda\\)).\\[x=\\frac{\\lambda D}{a}\\]Typical values for slit width w is 0.2mm, slit separation a is 0.5mm, slit-screen distance D is 1m, wave length of light λ is 500nm.<br>"
                     ],
                     "guid": "q<63aEeb:D",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1304,7 +1304,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Single-slit vs double-slit vs multiple-slit",
+                        "Single-slit vs double-slit vs multiple-slit (2)",
                         "<img src=\"Screenshot 2024-06-08 at 11.41.02 AM.png\">"
                     ],
                     "guid": "qd4S-S*x*U",
