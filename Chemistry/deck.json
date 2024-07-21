@@ -96,7 +96,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Manganate(VII) titrations (2)",
+                        "Manganate(VII) titrations",
                         "Potassium manganate(VII),&nbsp;\\(KMnO_4\\), is a powerful oxidising agent.<br><br>In acidic medium,&nbsp;\\(Mn^{7+}\\)&nbsp;ion is reduced to aqueous&nbsp;\\(Mn^{2+}\\)&nbsp;(colour change is purple to faint pink/colourless in dilute solutions).\\[MnO_4^-+8H^++5e^-\\to Mn^{2+}+4H_2O\\]<br>In neutral or alkaline medium,&nbsp;\\(MnO_4^-\\)&nbsp;ion is reduced to solid&nbsp;\\(MnO_2\\)&nbsp;(colour change is purple to brown/black solid).\\[MnO_4^-+4H^++3e^-\\to MnO_2+2H_2O\\]"
                     ],
                     "guid": "kK94|E$6v%",
@@ -736,7 +736,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Standard enthalpy change of hydration,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _{hyd}\\)&nbsp;(2)",
+                        "Standard enthalpy change of hydration,&nbsp;\\(\\Delta H^{\\circ\\kern-0.65em-} _{hyd}\\)",
                         "Standard enthalpy change of hydration (\\(\\Delta H^{\\circ\\kern-0.65em-} _{hyd}\\)) of an ion is the <u>energy released</u> when 1 mole of the gaseous ion is dissolved in water under standard conditions (i.e. 1 bar and 298 K).\\[|\\Delta H^{\\circ\\kern-0.65em-} _{hyd}[M^+(g)]| \\propto |\\frac{q_+}{r_+}|\\]\\[|\\Delta H^{\\circ\\kern-0.65em-} _{hyd}[X^-(g)]| \\propto |\\frac{q_-}{r_-}|\\]<br>"
                     ],
                     "guid": "h(M+}mWfRB",
@@ -767,7 +767,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Hess' Law",
-                        "Hess' Law states that the enthalpy change of a chemical reaction is the same regardless of whether the reaction takes place in one step or several steps, provided the initial and final states of the reactions and products are the same."
+                        "Hess' Law states that the enthalpy change of a chemical reaction is the same regardless of whether the reaction takes place in one step or several steps, provided the initial and final states of the reactants and products are the same."
                     ],
                     "guid": "cG]S|-M9aj",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -796,7 +796,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Aqueous solution formation (2)",
+                        "Aqueous solution formation",
                         "Separation of ions in the solid ionic lattice into monoatomic gaseous ions (endothermic) followed by hydration of gaseous ions, forming ion-dipole interactions (exothermic).\\[\\Delta H^{\\circ\\kern-0.65em-} _{soln} = -LE + \\sum \\Delta H^{\\circ\\kern-0.65em-} _{hyd}\\]<br>"
                     ],
                     "guid": "siD+7XX%/l",
