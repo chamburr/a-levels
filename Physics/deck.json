@@ -608,7 +608,10 @@
             "media_files": [
                 "Screenshot 2024-06-07 at 01.58.08 PM.png",
                 "Screenshot 2024-06-07 at 02.07.33 PM.png",
-                "Screenshot 2024-06-07 at 02.17.38 PM.png"
+                "Screenshot 2024-06-07 at 02.17.38 PM.png",
+                "Screenshot 2024-07-21 at 10.51.07 AM.png",
+                "Screenshot 2024-07-21 at 10.51.40 AM.png",
+                "paste-04855a18ad140ec8c23d070b92f0184641b45ea3.jpg"
             ],
             "name": "07 Gravitational Field",
             "newLimit": null,
@@ -731,6 +734,16 @@
                         "A binary star system consists of two stars that are gravitationally bound. The two stars orbit around the center of the mass of the system."
                     ],
                     "guid": "Nht5`93x9P",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Free fall acceleration (3)",
+                        "The free fall acceleration&nbsp;\\(g_{freefall}\\)&nbsp;at the Equator is less than the true gravitational field strength&nbsp;\\(g\\)&nbsp;of the Earth at the Equator. At the Equator, gravitational force is responsible for the centripetal force to keep the object moving in a uniform circular motion and for accelerating the object towards the Earth (acceleration of free fall).<br><br><img src=\"paste-04855a18ad140ec8c23d070b92f0184641b45ea3.jpg\"><br><br><img src=\"Screenshot 2024-07-21 at 10.51.07 AM.png\"><br><img src=\"Screenshot 2024-07-21 at 10.51.40 AM.png\">"
+                    ],
+                    "guid": "r,)Y#H;Hv~",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
