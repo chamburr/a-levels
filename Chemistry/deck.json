@@ -756,7 +756,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Calorimetry",
+                        "Calorimetry and assumptions (4)",
                         "\\[q=mc\\Delta T\\]\\[\\Delta H=-\\frac{q}{n}\\]<br>Assumptions:<br>Negligible heat loss to the surrounding air due to insulation.<br>The density of the solution is approximately that of water (\\(1.00\\;g\\;cm^{-3}\\)).<br>The specific heat capacity of the solution is approximately that of water <br>(\\(4.18\\;J\\;g^{-1}\\;K^{-1}\\)).<br>There is&nbsp;\\(100\\%\\)&nbsp;efficiency in the transfer of heat from the reaction to the solution.<br>"
                     ],
                     "guid": "BPw9qJ_2y<",
