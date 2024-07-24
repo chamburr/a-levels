@@ -1726,7 +1726,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Alkene mild oxidation (2)",
+                        "Alkene mild oxidation",
                         "This reaction occurs without complete cleavage of the C=C bond. Dilute sulfuric acid can be used in place of sodium hydroxide, for decolourisation of the purple potassium managanate(VII).<br><br><img src=\"Screenshot 2024-06-14 at 02.50.00 PM.png\">"
                     ],
                     "guid": "c<[W1vJV.=",
@@ -2595,7 +2595,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Alcohol reactions involving O-H bond (2)",
+                        "Alcohol reactions involving O-H bond (3)",
                         "<img src=\"Screenshot 2024-06-15 at 10.23.01 AM.png\"><br><img src=\"Screenshot 2024-06-15 at 10.23.16 AM.png\">"
                     ],
                     "guid": "teW|uO/zAV",
@@ -3035,7 +3035,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Acyl chloride condensation",
+                        "Acyl chloride condensation (3)",
                         "<img src=\"Screenshot 2024-06-15 at 10.14.29 PM.png\">"
                     ],
                     "guid": "bI.n9XaDR;",
@@ -3374,7 +3374,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Electrode potential and factors (3)",
-                        "If a metal electrode is immersed in an aqueous solution containing a metal oxide, an equilibrium is established which leads to negative charge formation on the electrode. There is a potential difference between the negatively charged metal and the positively charged solution, known as electrode potential.<br><br>Temperature<br>Concentration of ions in aqueous solution<br>Partial pressure of any gas involved in the reaction"
+                        "If a metal electrode is immersed in an aqueous solution containing a metal oxide, an equilibrium is established which leads to negative charge formation on the electrode. The potential difference between the negatively charged metal and the positively charged solution is known as electrode potential.<br><br>Temperature<br>Concentration of ions in aqueous solution<br>Partial pressure of any gas involved in the reaction"
                     ],
                     "guid": "kAj>~Q)Bwm",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -3666,7 +3666,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Transition element chemical properties (4)",
-                        "Transition elements form compounds in which the transition element shows a variety of oxidation states while s-block elements form compounds in which they exist in a fixed oxidation state.<br><br>The transition elements form coloured compounds and ions while s-block elements form compounds that are usually white in the solid state and colourless in aqueous solution.<br><br>The transition elements and their compounds often show catalytic activity while s-block elements and their compounds show little or no catalytic activity.<br><br>The transition elements sgiw a great tendency to form stable complexes while s-block elements show much less tendency to form stable ocmplexes."
+                        "Transition elements form compounds in which the transition element shows a variety of oxidation states while s-block elements form compounds in which they exist in a fixed oxidation state.<br><br>The transition elements form coloured compounds and ions while s-block elements form compounds that are usually white in the solid state and colourless in aqueous solution.<br><br>The transition elements and their compounds often show catalytic activity while s-block elements and their compounds show little or no catalytic activity.<br><br>The transition elements show a great tendency to form stable complexes while s-block elements show much less tendency to form stable complexes."
                     ],
                     "guid": "j2y<x8kqm-",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -3696,7 +3696,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Transition element redox systems",
-                        "Relatively stabilities of different oxidation states are best understood in terms of standard electrode potentials,&nbsp;\\(E^{\\circ\\kern-0.65em-}(M^{3+}/M^{2+})\\).<br><br>Going across the transition elements, there is a general increase in&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;value. THere is a decrease in\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;value from&nbsp;\\(Mn^{3+}/Mn^{2+}\\)&nbsp;to&nbsp;\\(Fe^{3+}/Fe^{2+}\\). Addition of an electron to&nbsp;\\(Fe^{3+}\\)&nbsp;results in a&nbsp;\\(3d^6\\)&nbsp;configuration, where there is inter-electronic repulsion between the paired electrons in the same 3d-orbital."
+                        "Relatively stabilities of different oxidation states are best understood in terms of standard electrode potentials,&nbsp;\\(E^{\\circ\\kern-0.65em-}(M^{3+}/M^{2+})\\).<br><br>Going across the transition elements, there is a general increase in&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;value. There is a decrease in&nbsp;\\(E^{\\circ\\kern-0.65em-}\\)&nbsp;value from&nbsp;\\(Mn^{3+}/Mn^{2+}\\)&nbsp;to&nbsp;\\(Fe^{3+}/Fe^{2+}\\). Addition of an electron to&nbsp;\\(Fe^{3+}\\)&nbsp;results in a&nbsp;\\(3d^6\\)&nbsp;configuration, where there is inter-electronic repulsion between the paired electrons in the same 3d-orbital."
                     ],
                     "guid": "r(;|MC*z>x",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -3706,7 +3706,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Transition element catalytic activity (2)",
-                        "Heterogenous catalyst. The availability of a partially filled 3d subshell allows for ready exchange of electrons to and from reactant molecules, facilitating the formation of weak bonds with the reactant molecules. This is due to the availability of 3d electrons for bond formation with reactant molecules or the availability of low-lying vacant orbitals which can accept electron pairs from the reactant molecules.<br><br>Homogenous catalyst. Their ability to exist in different oxidation states and the relative ease of conversion from one oxidation state to another. These features facilitate the formation of, and decomposition of, the intermediate formed from the transition metal ion catalyst and the reactants."
+                        "Heterogenous catalyst. The availability of a partially filled 3d subshell allows for ready exchange of electrons to and from reactant molecules, facilitating the formation of weak bonds with the reactant molecules. This is due to the availability of 3d electrons for bond formation with reactant molecules or the availability of low-lying vacant orbitals which can accept electron pairs from the reactant molecules.<br><br>Homogenous catalyst. Their ability to exist in different oxidation states and the relative ease of conversion from one oxidation state to another facilitate the formation and decomposition of the intermediate formed from the transition metal ion catalyst and the reactants."
                     ],
                     "guid": "Do^GgkF1.N",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -3746,7 +3746,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Transition metal aqua complexes",
-                        "Due to their high charge density, transition metal ions exist as aqua complexes in aqueous solution. Each oxygen atom of a water molecule donates a lone pair of electrons into a low-lying vacant orbital of the transition metal ion and forms a coordinate bond.<br><br>Aquous solutions of most transition metal compounds such as&nbsp;\\(CrCl_3(aq)\\),&nbsp;\\(FeCl_3(aq)\\),&nbsp;\\(CuSO_4(aq)\\)&nbsp;and&nbsp;\\(Co(NO_3)_2(aq)\\)&nbsp;are acidic.<br><br><img src=\"paste-f699df4127978d2adf2bccedfb463d4b22ed777d.jpg\">"
+                        "Due to their high charge density, transition metal ions exist as aqua complexes in aqueous solution. Each oxygen atom of a water molecule donates a lone pair of electrons into a low-lying vacant orbital of the transition metal ion and forms a coordinate bond.<br><br>Aqueous solutions of most transition metal compounds such as&nbsp;\\(CrCl_3\\),&nbsp;\\(FeCl_3\\),&nbsp;\\(CuSO_4\\)&nbsp;and&nbsp;\\(Co(NO_3)_2\\)&nbsp;are acidic.<br><br><img src=\"paste-f699df4127978d2adf2bccedfb463d4b22ed777d.jpg\">"
                     ],
                     "guid": "Cv7BdX315t",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -3776,7 +3776,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Factors affecting colour of transition metal complexes (2)",
-                        "Identity of metal and its oxidation state (depends on the number of d electrons present). Compounds with a different no. of d-electrons repel the electrons of the ligands to different extent, thus the energy gap between the split d-orbitals are different.<br><br>Nature of the ligands bonded to the central metal ion/atom. Different ligands split the d orbitals of the metal ion into two sets of slightly different eneergy levels to different extents. Different transition metal complexes absorb different wavelengths of light from the visible spectrum for d-d transitions."
+                        "Identity of metal and its oxidation state (depends on the number of d electrons present). Compounds with a different number of d-electrons repel the electrons of the ligands to different extent, thus the energy gap between the split d-orbitals are different.<br><br>Nature of the ligands bonded to the central metal ion/atom. Different ligands split the d orbitals of the metal ion into two sets of slightly different energy levels to different extents. Hence, different transition metal complexes absorb different wavelengths of light from the visible spectrum for d-d transitions."
                     ],
                     "guid": "L(c@.B/k:s",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
