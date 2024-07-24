@@ -848,7 +848,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Factors affecting entropy (4)",
-                        "Change in temperature. When the temperature of a system is increased, there is broadening of the Boltzmann energy distribution, hence more ways of arranging energy quanta in the hotter system.<br><br>Change in phase. For solid to liquid, order in solid is destroyed, particles in a liquid are more randomly arranged and more disordered. For liquid/solid to gas, gaseoues state is the most disordered since gas particles can move freely and are the most randomly arranged, largest increase in volume, thus even larger increase in entropy.<br><br>Change in the number of particles (especially for gaseous systems). More ways to arrange the particles and more ways to distribute the energy in the system.<br><br>Mixing of particles (without chemical reaction). For mixing of gas particles, gases always mix completely to create a more disordered state, as there are more ways for the molecules to arrange themselves in the larger volume. For mixing of liquid molecules (only liquids of similar polarities can be mixed), there are more ways for molecules to arrange themselves in the larger volume."
+                        "Change in temperature. When the temperature of a system is increased, there is broadening of the Boltzmann energy distribution, hence more ways of arranging energy quanta in the hotter system.<br><br>Change in phase. For solid to liquid, order in solid is destroyed, particles in a liquid are more randomly arranged and more disordered. For liquid/solid to gas, gaseous state is the most disordered since gas particles can move freely and are the most randomly arranged, largest increase in volume, thus even larger increase in entropy.<br><br>Change in the number of particles (especially for gaseous systems). More ways to arrange the particles and more ways to distribute the energy in the system.<br><br>Mixing of particles (without chemical reaction). For mixing of gas particles, gases always mix completely to create a more disordered state, as there are more ways for the molecules to arrange themselves in the larger volume. For mixing of liquid molecules (only liquids of similar polarities can be mixed), there are more ways for molecules to arrange themselves in the larger volume."
                     ],
                     "guid": "Oz$~23GO$`",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1110,7 +1110,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Dynamic equilibrium",
-                        "Dynamic equilibrium refers to a state in a reversible system in which the forward and backward reactions are continuing at the same rate, resulting in no net change in the macroscopic properties (e.g. concentrations, partial pressure) of the reactants and products."
+                        "Dynamic equilibrium refers to a state in a reversible system within a closed system in which the forward and backward reactions are continuing at the same rate, resulting in no net change in the macroscopic properties (e.g. concentrations, partial pressure) of the reactants and products."
                     ],
                     "guid": "d#Y1!=VTYk",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
