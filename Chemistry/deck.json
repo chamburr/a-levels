@@ -3106,7 +3106,8 @@
                 "Screenshot 2024-06-16 at 11.51.22 AM.png",
                 "Screenshot 2024-06-16 at 11.51.30 AM.png",
                 "Screenshot 2024-06-16 at 11.51.40 AM.png",
-                "Screenshot 2024-06-16 at 11.54.12 AM.png"
+                "Screenshot 2024-06-16 at 11.54.12 AM.png",
+                "paste-0a927d6880ddd20166ac2850221a994dca3bf02a.jpg"
             ],
             "name": "21 Nitrogen Compounds",
             "newLimit": null,
@@ -3329,6 +3330,16 @@
                         "Condensation polymers are formed when monomers containing two functional groups come together and lose a small molecule such as&nbsp;\\(H_2O\\)&nbsp;or&nbsp;\\(HCl\\).<br><br><img src=\"Screenshot 2024-06-16 at 11.54.12 AM.png\">"
                     ],
                     "guid": "v}TN8z~kFc",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nitrogen compounds distinguishing tests",
+                        "<img src=\"paste-0a927d6880ddd20166ac2850221a994dca3bf02a.jpg\">"
+                    ],
+                    "guid": "p@*DU#[R)i",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
