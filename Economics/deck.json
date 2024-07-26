@@ -310,7 +310,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Price and quantity controls",
+                        "Price and quantity controls (3)",
                         "Minimum price/price floor is a legally established minimum price to prevent prices from falling below a certain level. The price floor must be set above the market equilibrium price.<br><br>Maximum price/price ceiling is a legally established maximum price to prevent prices from rising above a certain level. the price ceiling must be set below the market equilibrium price.<br><br>A quota is a limit on the quantity produced imposed by the government through legislation and regulation. The quantitative restriction must be set below the market equilibrium quantity."
                     ],
                     "guid": "u*UD_Nl6wX",
@@ -532,7 +532,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Price discrimination and conditions (3)",
-                        "Price discrimination occurs when a producer sells the same good at different prices whereby the price difference does not reflect differences in the cost of supplying the customer.<br><br>The seller must have market power.<br>The firm must be able to identify and segment the market according to differences in price elasticity of demand (customer characteristics, location, past purchase behaviour).<br>The firm must be able to prevent resale and abitrage."
+                        "Price discrimination occurs when a producer sells the same good at different prices whereby the price difference does not reflect differences in the cost of supplying the customer.<br><br>The seller must have market power.<br>The firm must be able to identify and segment the market according to differences in price elasticity of demand (customer characteristics, location, past purchase behaviour).<br>The firm must be able to prevent resale and arbitrage."
                     ],
                     "guid": "J@lPI0Y%Rd",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -541,8 +541,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Price discrimination benefits and limitations (6)",
-                        "Capture consumer surplus<br>Consumers who are more price sensitive will be able to enter the market<br>Produce in cases where cost of providing a good or service cannot be covered by the low revenue generated<br><br>Price discrimination is only if firms are successful in segmenting the market and preventing resale<br>Price discrimination can create opportunities for the resale market to grow."
+                        "Price discrimination benefits and limitations (5)",
+                        "Capture consumer surplus<br>Consumers who are more price sensitive will be able to enter the market<br>Produce in cases where cost of providing a good or service cannot be covered by the low revenue generated<br><br>Price discrimination is only if firms are successful in segmenting the market and preventing resale<br>Price discrimination can create opportunities for the resale market to grow"
                     ],
                     "guid": "Ez}Nt@~[#t",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -640,7 +640,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Positive/negative externalities from production/consumption",
-                        "The self-interested consumers/producers are only concerned with the private benefits of [...], and would ignore external benefits/costs of [...]. The presence of these marginal external benefit/cost causes a deviation of marginal society benefit (MPB+MEB) from the marginal private benefit curve. The free market equilibrium is where MPB=MPC, which is higher than societal optimal quantity where MSC=MCB. The overconsumption/underconsumption of [...] units result in deadweight/welfare loss represented by ABC. For each additional unit consumed/produced more/less than equilibrium, [...]."
+                        "The self-interested consumers/producers are only concerned with the private benefits of [...], and would ignore external benefits/costs of [...]. The presence of these marginal external benefit/cost causes a deviation of marginal society benefit (MPB+MEB) from the marginal private benefit curve. The free market equilibrium is where MPB=MPC, which is higher/lower than societal optimal quantity where MSC=MCB. The overconsumption/underconsumption of [...] units result in deadweight/welfare loss represented by ABC. For each additional unit consumed/produced more/less than equilibrium, [...]."
                     ],
                     "guid": "fcnksF.a|K",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1219,7 +1219,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Exchange rate and types of systems (3)",
-                        "Exchange rate is the price of one country's currency in terms of another currency or a basket of foreign currencies.<br><br>Free float exchange rate system<br>Fixed exchange rate system<br>Mannaged float exchange rate system"
+                        "Exchange rate is the price of one country's currency in terms of another currency or a basket of foreign currencies.<br><br>Free float exchange rate system<br>Fixed exchange rate system<br>Managed float exchange rate system"
                     ],
                     "guid": "r|dK_GzpLc",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
