@@ -1784,7 +1784,8 @@
                 "Screenshot 2024-06-13 at 10.44.38 AM.png",
                 "Screenshot 2024-06-13 at 10.45.52 AM.png",
                 "Screenshot 2024-06-13 at 10.46.24 AM.png",
-                "Screenshot 2024-06-13 at 10.46.46 AM.png"
+                "Screenshot 2024-06-13 at 10.46.46 AM.png",
+                "paste-04b1817523fb593bda93d7df4976166cb8ea8cb1.jpg"
             ],
             "name": "12 The Periodic Table I",
             "newLimit": null,
@@ -1877,6 +1878,16 @@
                         "Cations with high charge density and hence high polarising power are able to distort the electron cloud of the water molecules, weakening the O-H bond. The O-H bond undergoes heterolytic fission readily to release&nbsp;\\(H^+\\). The stronger the polarising power of the cation, the greater the extent of hydrolysis.<br><br>\\(SiCl_4\\)&nbsp;can undergo hydrolysis because the silicon atom is larger in size than the carbon atom and there is less steric hindrance around the silicon atom for the water molecule to attack, and because silicon has empty, low-lying 3d orbitals to accept the lone pair of electrons from water.<br><br>\\(CCl_4\\)&nbsp;cannot undergo hydrolysis as the electron deficient carbon is attached to four large chlorine atoms which hinder the approach of the water nucleophile, and because carbon has no low-lying empty orbitals to accept the lone pair of electrons from water."
                     ],
                     "guid": "CvBbLf5u=`",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Diagonal relationship in the Periodic Table",
+                        "<img src=\"paste-04b1817523fb593bda93d7df4976166cb8ea8cb1.jpg\">"
+                    ],
+                    "guid": "Gy(rO+i``o",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
                 }
