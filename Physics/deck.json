@@ -1333,6 +1333,26 @@
                     "guid": "wT=PJ7,R%A",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Conditions for observable interference (4)",
+                        "The waves or wave sources must be coherent.<br>The waves must have similar amplitude.<br>The waves must overlap and be of the same type.<br>For EM waves, they must be unpolarised or polarised in the same plane."
+                    ],
+                    "guid": "ma4XmoD2$t",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Progressive wave",
+                        "A progressive wave is a periodic disturbance in a medium or in space, which transfers energy from one place to another by vibrations of the disturbance."
+                    ],
+                    "guid": "G]fI7C6l0/",
+                    "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
