@@ -1770,7 +1770,8 @@
             "extendRev": 0,
             "media_files": [
                 "Screenshot 2024-06-10 at 10.13.34 AM.png",
-                "Screenshot 2024-06-10 at 10.17.10 AM.png"
+                "Screenshot 2024-06-10 at 10.17.10 AM.png",
+                "Screenshot 2024-08-23 at 06.18.47 PM.png"
             ],
             "name": "17 Electromagnetic Induction",
             "newLimit": null,
@@ -1780,7 +1781,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Faraday's law of electromagnetic induction",
-                        "Faraday's law of electromagnetic induction states that the induced e.m.f. is proportional to the rate of change of magnetic flux linkage.\\[\\text{Induced e.m.f.}=-\\frac{d\\Phi}{dt}\\]<br>"
+                        "Faraday's law of electromagnetic induction states that the induced e.m.f. is proportional to the rate of change of magnetic flux linkage.\\[\\text{Induced e.m.f.}=-\\frac{d\\Phi}{dt}\\]<br><img src=\"Screenshot 2024-08-23 at 06.18.47 PM.png\"><br>"
                     ],
                     "guid": "P+Z@dk*sz~",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
