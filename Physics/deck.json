@@ -1932,11 +1932,11 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Screenshot 2024-06-10 at 06.30.22 PM.png",
                 "Screenshot 2024-06-10 at 06.48.15 PM.png",
                 "Screenshot 2024-06-10 at 08.18.08 PM.png",
                 "Screenshot 2024-06-10 at 08.19.28 PM.png",
-                "Screenshot 2024-06-10 at 08.36.34 PM.png"
+                "Screenshot 2024-06-10 at 08.36.34 PM.png",
+                "Screenshot 2024-08-29 at 07.20.33 PM.png"
             ],
             "name": "19 Quantum Physics",
             "newLimit": null,
@@ -1966,7 +1966,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Photoelectric experiment",
-                        "<img src=\"Screenshot 2024-06-10 at 06.30.22 PM.png\"><br><br>Case 1: Collector C is sufficiently positive with respect to emitter E. Ammeter reads a constant saturated (maximum) photocurrent&nbsp;\\(i_0\\)&nbsp;and rate of emission of photoelectron is&nbsp;\\(\\frac{i_0}{e}\\).<br><br>Case 2: Collector C is sufficiently negative with respect to emitter E. Photocurrent&nbsp;\\(i\\)&nbsp;is zero and maximum kinetic energy of photoelectron is&nbsp;\\(eV_s\\)."
+                        "<img src=\"Screenshot 2024-08-29 at 07.20.33 PM.png\">"
                     ],
                     "guid": "wq+v,1|)Em",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
