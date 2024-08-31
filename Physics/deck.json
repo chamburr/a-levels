@@ -2106,7 +2106,8 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Screenshot 2024-06-11 at 10.13.39 PM.png"
+                "Screenshot 2024-06-11 at 10.13.39 PM.png",
+                "Screenshot 2024-08-31 at 03.32.21 PM.png"
             ],
             "name": "20 Nuclear Physics",
             "newLimit": null,
@@ -2216,7 +2217,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Types of radiation (3)",
-                        "Alpha radiations produce tracks that are short and thick (strong ionising power) and of similar length (same kinetic energies). It is common when nucleus is too large.<br><br>Beta radiations produce tracks that are long and thin (moderate ionising power) and of varying lengths (a range of kinetic energies).&nbsp;\\(\\beta^-\\)&nbsp;decay is common when nucleus has too many neutrons.&nbsp;\\(\\beta^+\\)&nbsp;decay is common when nucleus has too many protons.<br><br>Gamma radiations (low ionising power) leave behind a cloud of wiggly, short and thin tracks due to ionised electrons. It is common when nucleus has excess energy after a decay."
+                        "Alpha radiations produce tracks that are short and thick (strong ionising power) and of similar length (same kinetic energies). It is common when nucleus is too large.<br><br>Beta radiations produce tracks that are long and thin (moderate ionising power) and of varying lengths (a range of kinetic energies).&nbsp;\\(\\beta^-\\)&nbsp;decay is common when nucleus has too many neutrons.&nbsp;\\(\\beta^+\\)&nbsp;decay is common when nucleus has too many protons.<br><br>Gamma radiations (low ionising power) leave behind a cloud of wiggly, short and thin tracks due to ionised electrons. It is common when nucleus has excess energy after a decay.<br><br><img src=\"Screenshot 2024-08-31 at 03.32.21 PM.png\">"
                     ],
                     "guid": "NBvH2:`@Ms",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
