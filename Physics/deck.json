@@ -289,7 +289,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Principle of conservation of momentum",
-                        "The principle of conservation of momentum states that when bodies in a system interact, the total momentum of the system remains constant, provided no net external force acts on it."
+                        "The principle of conservation of momentum states that when bodies in a system interact, the total momentum of the system remains constant, provided no resultant external force acts on it."
                     ],
                     "guid": "mV!8c3Y222",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2157,7 +2157,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Nuclear binding energy",
-                        "Nuclear binding energy is the energy required to separate to infinity all the nucleons of a nucleus.\\[B.E.=\\Delta m_{nucleus}c^2\\]<br>"
+                        "Nuclear binding energy is the energy equivalent of the mass defect of a nucleus. It is the energy required to separate to infinity all the nucleons of a nucleus.\\[B.E.=\\Delta m_{nucleus}c^2\\]<br>"
                     ],
                     "guid": "b%CQhz(x_O",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2227,7 +2227,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Background radiation",
-                        "&nbsp;Background radiation is the ionising radiation in our environment that humans are constantly exposed too. The sources of background radiation can be natural or artificial.<br><br><img src=\"Screenshot 2024-06-11 at 10.13.39 PM.png\">"
+                        "Background radiation is the ionising radiation in our environment that humans are constantly exposed too. The sources of background radiation can be natural or artificial.<br><br><img src=\"Screenshot 2024-06-11 at 10.13.39 PM.png\">"
                     ],
                     "guid": "f|p(`o*i,g",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
