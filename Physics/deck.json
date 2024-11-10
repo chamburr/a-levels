@@ -34,7 +34,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Homogeneity of equations",
-                        "In order for a physical equation to be operational or meaningful, each term in the equation must have the same base units. When this is the case, the equation is said to be homegeneous or dimensionally constant."
+                        "In order for a physical equation to be operational or meaningful, each term in the equation must have the same base units. When this is the case, the equation is said to be homogeneous or dimensionally constant."
                     ],
                     "guid": "M1vU7X%+K.",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -249,7 +249,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Newton's second law of motion",
-                        "Newton's second law of motion states that the rate of change of momentum of a body is proportional to the resultant force acting on it and occurs in the direction of the force.\\[F_{net}=m\\frac{dv}{dt}+v\\frac{dm}{dt}\\]<br>When mass is constant,&nbsp;\\(F_{net}=m\\frac{dv}{dt}=ma\\).<br>When velocity is constant,&nbsp;\\(F_{net}=v\\frac{dm}{dt}\\)."
+                        "Newton's second law of motion states that the rate of change of momentum of a body is proportional to the resultant force acting on it and occurs in the direction of the force.\\[F_{net}=m\\frac{dv}{dt}+v\\frac{dm}{dt}\\]<br>When mass is constant, \\(F_{net}=m\\frac{dv}{dt}=ma\\).<br>When velocity is constant, \\(F_{net}=v\\frac{dm}{dt}\\)."
                     ],
                     "guid": "ka*~CqTP_5",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -259,7 +259,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Newton",
-                        "One newton is defined as the force which will give a mass of&nbsp;\\(1kg\\)&nbsp;an acceleration of&nbsp;\\(1m\\ s^{-2}\\)&nbsp;in the direction of the force."
+                        "One newton is defined as the force which will give a mass of \\(1kg\\) an acceleration of \\(1m\\ s^{-2}\\) in the direction of the force."
                     ],
                     "guid": "jk`5Wdu9!s",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -279,7 +279,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Impulse",
-                        "Impulse is defined as the product of a force&nbsp;\\(F\\)&nbsp;acting on an object and the time&nbsp;\\(\\Delta t\\)&nbsp;for which the force acts. The impulse acting on a body is equal to its change in momentum after time&nbsp;\\(\\Delta t\\).\\[\\Delta p=F\\Delta t\\]<br>Impulse is the area under a&nbsp;\\(F-t\\)&nbsp;graph."
+                        "Impulse is defined as the product of a force \\(F\\) acting on an object and the time \\(\\Delta t\\) for which the force acts. The impulse acting on a body is equal to its change in momentum after time \\(\\Delta t\\).\\[\\Delta p=F\\Delta t\\]<br>Impulse is the area under a \\(F-t\\) graph."
                     ],
                     "guid": "nRuxDu0}39",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -448,7 +448,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Work done on a system",
-                        "Work done by a constant force is the product of the force and the displacement in the direction of the force.\\[W=Fs\\cos\\theta\\]<br>Work done by a variable force is equal to the area under the&nbsp;\\(F-s\\)&nbsp;graph."
+                        "Work done by a constant force is the product of the force and the displacement in the direction of the force.\\[W=Fs\\cos\\theta\\]<br>Work done by a variable force is equal to the area under the \\(F-s\\) graph."
                     ],
                     "guid": "yu}5~#j8nl",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -661,7 +661,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Gravitational potential energy",
-                        "Gravitational potential energy of a mass at a point in a gravitational field is defined as the work done by an external force in bringing the mass from infinity to that point.&nbsp;The point at infinity is defined to have zero gravitational potential energy.\\[U=-\\frac{GMm}{r}\\]<br>"
+                        "Gravitational potential energy of a mass at a point in a gravitational field is defined as the work done by an external force in bringing the mass from infinity to that point. The point at infinity is defined to have zero gravitational potential energy.\\[U=-\\frac{GMm}{r}\\]<br>"
                     ],
                     "guid": "VvybD^?)|",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -680,7 +680,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\(\\phi-r\\)&nbsp;and&nbsp;\\(g-r\\)&nbsp;graph between two masses",
+                        "\\(\\phi-r\\) and \\(g-r\\) graph between two masses",
                         "<img src=\"Screenshot 2024-06-07 at 02.07.33 PM.png\">"
                     ],
                     "guid": "t*wSPm=OWS",
@@ -741,7 +741,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Free fall acceleration",
-                        "The free fall acceleration&nbsp;\\(g_{freefall}\\)&nbsp;at the Equator is less than the true gravitational field strength&nbsp;\\(g\\)&nbsp;of the Earth at the Equator. At the Equator, gravitational force is responsible for the centripetal force to keep the object moving in a uniform circular motion and for accelerating the object towards the Earth (acceleration of free fall).<br><br><img src=\"paste-04855a18ad140ec8c23d070b92f0184641b45ea3.jpg\"><br><img src=\"Screenshot 2024-07-21 at 10.51.07 AM.png\"><br><img src=\"Screenshot 2024-07-21 at 10.51.40 AM.png\">"
+                        "The free fall acceleration \\(g_{freefall}\\) at the Equator is less than the true gravitational field strength \\(g\\) of the Earth at the Equator. At the Equator, gravitational force is responsible for the centripetal force to keep the object moving in a uniform circular motion and for accelerating the object towards the Earth (acceleration of free fall).<br><br><img src=\"paste-04855a18ad140ec8c23d070b92f0184641b45ea3.jpg\"><br><img src=\"Screenshot 2024-07-21 at 10.51.07 AM.png\"><br><img src=\"Screenshot 2024-07-21 at 10.51.40 AM.png\">"
                     ],
                     "guid": "r,)Y#H;Hv~",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -799,7 +799,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Ideal gas",
-                        "An ideal gas is a gas which obeys the equation of state&nbsp;\\(pV=nRT\\)&nbsp;at all pressures, volumes and temperatures."
+                        "An ideal gas is a gas which obeys the equation of state \\(pV=nRT\\) at all pressures, volumes and temperatures."
                     ],
                     "guid": "PBjUm>8h=b",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -919,7 +919,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Information from&nbsp;\\(p-V\\)&nbsp;graph",
+                        "Information from \\(p-V\\) graph",
                         "<img src=\"Screenshot 2024-06-07 at 10.48.15 PM.png\"><br><br>Work done is the area under the graph. It is negative when there is an increase in volume. It is positive when there is a decrease in volume."
                     ],
                     "guid": "p_5C}&0lm2",
@@ -930,7 +930,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Special processes (5)",
-                        "Isothermal process (T is constant)<br>Isobaric process (p is constant)<br>Isovulmetric/isochloric/isometric process (V is constant)<br>Adiabatic process (no heat transfer, Q=0)<br>Cyclic process"
+                        "Isothermal process (T is constant)<br>Isobaric process (p is constant)<br>Isovolumetric/isochoric/isometric process (V is constant)<br>Adiabatic process (no heat transfer, Q=0)<br>Cyclic process"
                     ],
                     "guid": "nYw:F.LlIv",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1030,7 +1030,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Light, critical and heavy damping",
-                        "Light damping results in osclliations whereby the amplitude decays exponentially with time. The frequency of oscillations is slightly smaller than the undamped frequency.<br><br>Critical damping results in no oscillation and the system returns to the equilibrium position in the shortest time.<br><br>Heavy damping results in no oscillation and the system takes a long time to return to its equilibrium position."
+                        "Light damping results in oscillations whereby the amplitude decays exponentially with time. The frequency of oscillations is slightly smaller than the undamped frequency.<br><br>Critical damping results in no oscillation and the system returns to the equilibrium position in the shortest time.<br><br>Heavy damping results in no oscillation and the system takes a long time to return to its equilibrium position."
                     ],
                     "guid": "e@^ri{J(y@",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1050,7 +1050,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Examples of resonance (3)",
-                        "Tuning a radio receiver (eletrical resonance)<br>Increasing the intensity of a note produced by a string in a musical instrument (acoustic resonance)<br>Magnetic resonance"
+                        "Tuning a radio receiver (electrical resonance)<br>Increasing the intensity of a note produced by a string in a musical instrument (acoustic resonance)<br>Magnetic resonance"
                     ],
                     "guid": "O(msd(*t8t",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1088,7 +1088,7 @@
                     "__type__": "Note",
                     "fields": [
                         "In phase, out of phase and anti-phase",
-                        "Particles of a wave are considered to be in phase when they execute the same motion at the same time.<br><br>Particules that show different stages of motion are out of phase with each other. They have a non-zero phase difference.<br><br>Particles in a wave are in anti-phase when they execute motions that are out of phase by π rad or 180°."
+                        "Particles of a wave are considered to be in phase when they execute the same motion at the same time.<br><br>Particles that show different stages of motion are out of phase with each other. They have a non-zero phase difference.<br><br>Particles in a wave are in anti-phase when they execute motions that are out of phase by π rad or 180°."
                     ],
                     "guid": "j4N.%e.v*`",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1258,8 +1258,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Interference, constructive and destructive intereference",
-                        "Interference is the superposition of two or more waves to give a resultant wave whose resultant amplitude is given by the principle of superposition.<br><br>Constructive inteference occurs when two coherent waves arrive at the same point with a phase difference of zero to produce a maximum.<br><br>Destructive inteference occurs when two coherent waves arrive at the same point with a phase difference of π rad&nbsp;to produce a minimum."
+                        "Interference, constructive and destructive interference",
+                        "Interference is the superposition of two or more waves to give a resultant wave whose resultant amplitude is given by the principle of superposition.<br><br>Constructive interference occurs when two coherent waves arrive at the same point with a phase difference of zero to produce a maximum.<br><br>Destructive interference occurs when two coherent waves arrive at the same point with a phase difference of π rad to produce a minimum."
                     ],
                     "guid": "h,khfg=n0/",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1299,7 +1299,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Fringe separation",
-                        "The formula is only applicable if the rays are almost parallel (\\(a \\ll D\\))&nbsp;and the angle of the fringes from the normal is small (\\(sin\\,\\theta \\approx tan\\,\\theta\\),&nbsp;\\(a \\gg \\lambda\\)).\\[x=\\frac{\\lambda D}{a}\\]Typical values for slit width w is 0.2mm, slit separation a is 0.5mm, slit-screen distance D is 1m, wave length of light λ is 500nm.<br>"
+                        "The formula is only applicable if the rays are almost parallel (\\(a \\ll D\\)) and the angle of the fringes from the normal is small (\\(sin\\,\\theta \\approx tan\\,\\theta\\), \\(a \\gg \\lambda\\)).\\[x=\\frac{\\lambda D}{a}\\]Typical values for slit width w is 0.2mm, slit separation a is 0.5mm, slit-screen distance D is 1m, wave length of light λ is 500nm.<br>"
                     ],
                     "guid": "q<63aEeb:D",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1309,7 +1309,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Diffraction grating",
-                        "A diffraction grating consists of a large number of parallel, equally spaced lines of equal width.<br><br>Since the waves passing through all the slits are in phase, for constructive interference,&nbsp;\\(d\\sin\\theta_n=n\\lambda\\). We can determine the maximum order of the bright fringes since&nbsp;\\(n&lt;\\frac{d}{\\lambda}\\).<br><br><img src=\"Screenshot 2024-06-08 at 11.31.27 AM.png\">"
+                        "A diffraction grating consists of a large number of parallel, equally spaced lines of equal width.<br><br>Since the waves passing through all the slits are in phase, for constructive interference, \\(d\\sin\\theta_n=n\\lambda\\). We can determine the maximum order of the bright fringes since \\(n&lt;\\frac{d}{\\lambda}\\).<br><br><img src=\"Screenshot 2024-06-08 at 11.31.27 AM.png\">"
                     ],
                     "guid": "J)FAQ<aKWq",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1449,7 +1449,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\\(V-r\\)&nbsp;and&nbsp;\\(E-r\\)&nbsp;graphs",
+                        "\\(V-r\\) and \\(E-r\\) graphs",
                         "<img src=\"Screenshot 2024-06-08 at 01.26.12 PM.png\"><br><img src=\"Screenshot 2024-06-08 at 01.26.19 PM.png\">"
                     ],
                     "guid": "p;Di)kD!pe",
@@ -1503,7 +1503,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Drift velocity",
-                        "When there is an electric current in a conductor, the free charge carriers in the conductor move with an average velocity in the order of&nbsp;\\(10^{-4}ms^{-1}\\), this is called the drift velocity&nbsp;\\(v_D\\).\\[I=nAv_Dq\\]<br><img src=\"Screenshot 2024-06-08 at 01.46.14 PM.png\"><br>"
+                        "When there is an electric current in a conductor, the free charge carriers in the conductor move with an average velocity in the order of \\(10^{-4}ms^{-1}\\), this is called the drift velocity \\(v_D\\).\\[I=nAv_Dq\\]<br><img src=\"Screenshot 2024-06-08 at 01.46.14 PM.png\"><br>"
                     ],
                     "guid": "I>?Hh]~4>K",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1563,7 +1563,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Effect of temperature (non-ohmic behaviour)",
-                        "As current increases, more charge carriers move through the conductor per unit time which results in more collisions with the lattice ions. This increases the temperature of the conductor which affects resistivity in two ways.<br><br>Conductivity increases. Electrons gain enough energy to break free, which results in an increase in the number density of charge carriers.<br><br>Resisitivity increases. Lattice ions gain thermal energy and start to vibrate faster with greater amplitude. This causes more collisions between the charge carriers and the lattice ions which in turn slows down the movement of charge carriers."
+                        "As current increases, more charge carriers move through the conductor per unit time which results in more collisions with the lattice ions. This increases the temperature of the conductor which affects resistivity in two ways.<br><br>Conductivity increases. Electrons gain enough energy to break free, which results in an increase in the number density of charge carriers.<br><br>Resistivity increases. Lattice ions gain thermal energy and start to vibrate faster with greater amplitude. This causes more collisions between the charge carriers and the lattice ions which in turn slows down the movement of charge carriers."
                     ],
                     "guid": "fn+b(mI-mz",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1593,7 +1593,7 @@
                     "__type__": "Note",
                     "fields": [
                         "I-V characteristics of circuit components",
-                        "Ohmic conductors<br>Temperature constant, resistance constant. Temperaure can be kept constant by immersing the conductor in a constant temperature bath.<br><img src=\"paste-c5794f55c9ffd072b3cf8582ce68008efa94ae5f.jpg\"><br><br>Diodes<br><img src=\"paste-bcc4eb261d9a7981816bdb8ef97a2a31a13fc2a3.jpg\">"
+                        "Ohmic conductors<br>Temperature constant, resistance constant. Temperature can be kept constant by immersing the conductor in a constant temperature bath.<br><img src=\"paste-c5794f55c9ffd072b3cf8582ce68008efa94ae5f.jpg\"><br><br>Diodes<br><img src=\"paste-bcc4eb261d9a7981816bdb8ef97a2a31a13fc2a3.jpg\">"
                     ],
                     "guid": "JrDqI$4J8=",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1728,7 +1728,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Parellel current-carrying conductors",
+                        "Parallel current-carrying conductors",
                         "Like currents attract, unlike currents repel.<br><br>The force per unit length on each wire is given by the equation:\\[\\frac{F}{L}=\\frac{\\mu_0I_1I_2}{2\\pi d}\\]"
                     ],
                     "guid": "ruF,*~f)=,",
@@ -1811,7 +1811,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Magnetic flux linkage",
-                        "The magnetic flux linkage of a coil is the product of the magnetic flux through the coil and the number of turns of the coil.\\[\\Phi=N\\phi\\]The S.I. unit for both&nbsp;\\(\\Phi\\)&nbsp;and&nbsp;\\(\\phi\\)&nbsp;is the weber (Wb).<br>"
+                        "The magnetic flux linkage of a coil is the product of the magnetic flux through the coil and the number of turns of the coil.\\[\\Phi=N\\phi\\]The S.I. unit for both \\(\\Phi\\) and \\(\\phi\\) is the weber (Wb).<br>"
                     ],
                     "guid": "m!vkE/>}(g",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1892,7 +1892,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Transformer",
-                        "Transformer is a device that uses mutual electromagnetic induction to vary an alternating voltage.<br><br>The A.C. voltage source&nbsp;\\(V_P\\)&nbsp;causes an alternating current&nbsp;\\(I_P\\)&nbsp;to flow through the primary coil. This sets up a varying magnetic field in the iron core which links the primary coil with the secondary coil. In accordance to Faraday's law of electromagnetic induction, the changing magnetic field induces an alternating e.m.f. across each turn of wire in both the primary and secondary coils."
+                        "Transformer is a device that uses mutual electromagnetic induction to vary an alternating voltage.<br><br>The A.C. voltage source \\(V_P\\) causes an alternating current \\(I_P\\) to flow through the primary coil. This sets up a varying magnetic field in the iron core which links the primary coil with the secondary coil. In accordance to Faraday's law of electromagnetic induction, the changing magnetic field induces an alternating e.m.f. across each turn of wire in both the primary and secondary coils."
                     ],
                     "guid": "Dldl#Z.xF?",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1966,7 +1966,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Stopping potential",
-                        "Stopping potential&nbsp;\\(V_S\\)&nbsp;is the&nbsp;magnitude of the negative potential of collector with respect to emitter which prevents the most energetic photoelectrons from reaching the collector and hence resulting in zero photocurrent."
+                        "Stopping potential \\(V_S\\) is the magnitude of the negative potential of collector with respect to emitter which prevents the most energetic photoelectrons from reaching the collector and hence resulting in zero photocurrent."
                     ],
                     "guid": "Me`wqg(=~f",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2006,7 +2006,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Work function energy",
-                        "The work function energy&nbsp;\\(\\Phi\\)&nbsp;of a metal is defined as the minimum amount of energy necessary for an electron to escape from the surface of a material.\\[\\Phi=hf_0\\]"
+                        "The work function energy \\(\\Phi\\) of a metal is defined as the minimum amount of energy necessary for an electron to escape from the surface of a material.\\[\\Phi=hf_0\\]"
                     ],
                     "guid": "QPB*]B&39B",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2076,7 +2076,7 @@
                     "__type__": "Note",
                     "fields": [
                         "X-ray and X-ray plot",
-                        "X-rays are produced when high-speed electrons are suddenly slowed down.<br><br>The intensity of the&nbsp;\\(K_\\alpha\\)&nbsp;characteristic X-ray is typically greater than the&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-ray because electrons in the L-shell are nearer to the K-shell, hence there is a greater probability that the vacancy in the K-shell is filled by an electron from the L-shell than from the M-shell.<br><br>Since the energy differences between electrons in the various energy levels are characteristics of the target atom, the wavelengths of the&nbsp;\\(K_\\alpha\\)&nbsp;and&nbsp;\\(K_\\beta\\)&nbsp;characteristic X-rays are unique for each element.<br><br><img src=\"Screenshot 2024-06-10 at 08.36.34 PM.png\">"
+                        "X-rays are produced when high-speed electrons are suddenly slowed down.<br><br>The intensity of the \\(K_\\alpha\\) characteristic X-ray is typically greater than the \\(K_\\beta\\) characteristic X-ray because electrons in the L-shell are nearer to the K-shell, hence there is a greater probability that the vacancy in the K-shell is filled by an electron from the L-shell than from the M-shell.<br><br>Since the energy differences between electrons in the various energy levels are characteristics of the target atom, the wavelengths of the \\(K_\\alpha\\) and \\(K_\\beta\\) characteristic X-rays are unique for each element.<br><br><img src=\"Screenshot 2024-06-10 at 08.36.34 PM.png\">"
                     ],
                     "guid": "pY*Hu.{-1k",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2086,7 +2086,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Continuous spectrum and characteristic X-rays",
-                        "Continuous spectrum is the high-energy EM radiation produced when highly energetic electrons are decelerated. It is characterized by a minimum wavelength corresponding to photon emitted by the loss of maximum energy of an electron. The shortest wavelength is given by:\\[eV=hf_{max}=h\\frac{c}{\\lambda_{min}}\\]<br>Characteristic X-rays is the high-energy EM radiation produced when electrons from a higher shell de-excite to a vacancy in the lower shell, created by highly energetic electrons.&nbsp;The wavelengths are given by (where n=2,3,...):\\[hf=\\frac{hc}{\\lambda}=E_n-E_1\\]<br>"
+                        "Continuous spectrum is the high-energy EM radiation produced when highly energetic electrons are decelerated. It is characterized by a minimum wavelength corresponding to photon emitted by the loss of maximum energy of an electron. The shortest wavelength is given by:\\[eV=hf_{max}=h\\frac{c}{\\lambda_{min}}\\]<br>Characteristic X-rays is the high-energy EM radiation produced when electrons from a higher shell de-excite to a vacancy in the lower shell, created by highly energetic electrons. The wavelengths are given by (where n=2,3,...):\\[hf=\\frac{hc}{\\lambda}=E_n-E_1\\]<br>"
                     ],
                     "guid": "KN4%km8;?@",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2096,7 +2096,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Heisenberg uncertainty principle",
-                        "The Heisenberg uncertainty principle states that if a measurement of the position of a particle is made with uncertainty&nbsp;\\(\\Delta x\\)&nbsp;and a simultaneous measurement of its x-component of momentum is made with uncertainty&nbsp;\\(\\Delta p\\), the product of the two uncertainties can never be smaller than&nbsp;\\(\\frac{\\hbar}{2}\\).\\[\\Delta x\\Delta p_x\\ge\\frac{\\hbar}{2}\\]\\(\\hbar=\\frac{h}{2\\pi}\\)&nbsp;is the reduced Planck constant.<br>"
+                        "The Heisenberg uncertainty principle states that if a measurement of the position of a particle is made with uncertainty \\(\\Delta x\\) and a simultaneous measurement of its x-component of momentum is made with uncertainty \\(\\Delta p\\), the product of the two uncertainties can never be smaller than \\(\\frac{\\hbar}{2}\\).\\[\\Delta x\\Delta p_x\\ge\\frac{\\hbar}{2}\\]\\(\\hbar=\\frac{h}{2\\pi}\\) is the reduced Planck constant.<br>"
                     ],
                     "guid": "d!0R,R&Nd=",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2227,7 +2227,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Types of radiation (3)",
-                        "Alpha radiations produce tracks that are short and thick (strong ionising power) and of similar length (same kinetic energies). It is common when nucleus is too large.<br><br>Beta radiations produce tracks that are long and thin (moderate ionising power) and of varying lengths (a range of kinetic energies).&nbsp;\\(\\beta^-\\)&nbsp;decay is common when nucleus has too many neutrons.&nbsp;\\(\\beta^+\\)&nbsp;decay is common when nucleus has too many protons.<br><br>Gamma radiations (low ionising power) leave behind a cloud of wiggly, short and thin tracks due to ionised electrons. It is common when nucleus has excess energy after a decay.<br><br><img src=\"Screenshot 2024-08-31 at 03.32.21 PM.png\">"
+                        "Alpha radiations produce tracks that are short and thick (strong ionising power) and of similar length (same kinetic energies). It is common when nucleus is too large.<br><br>Beta radiations produce tracks that are long and thin (moderate ionising power) and of varying lengths (a range of kinetic energies). \\(\\beta^-\\) decay is common when nucleus has too many neutrons. \\(\\beta^+\\) decay is common when nucleus has too many protons.<br><br>Gamma radiations (low ionising power) leave behind a cloud of wiggly, short and thin tracks due to ionised electrons. It is common when nucleus has excess energy after a decay.<br><br><img src=\"Screenshot 2024-08-31 at 03.32.21 PM.png\">"
                     ],
                     "guid": "NBvH2:`@Ms",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2247,7 +2247,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Law of radioactive decay",
-                        "The number of undecayed nuclei N at time t is given by:\\[N=N_0e^{-\\lambda t}\\]\\(N_0\\)&nbsp;represents the number of radioactive nuclei at time t=0.<br>"
+                        "The number of undecayed nuclei N at time t is given by:\\[N=N_0e^{-\\lambda t}\\]\\(N_0\\) represents the number of radioactive nuclei at time t=0.<br>"
                     ],
                     "guid": "mH>V8K7jq,",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -2257,7 +2257,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Activity",
-                        "The activity of a radioactive source is the number of radioactive decays per unit time in the source.\\[A=\\lambda N=A_0e^{-\\lambda t}\\]The S.I. unit of activity is the becquerel (Bq) where 1 becequerel = 1 decay/s."
+                        "The activity of a radioactive source is the number of radioactive decays per unit time in the source.\\[A=\\lambda N=A_0e^{-\\lambda t}\\]The S.I. unit of activity is the becquerel (Bq) where 1 becquerel = 1 decay/s."
                     ],
                     "guid": "fUbZp*jsXm",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",

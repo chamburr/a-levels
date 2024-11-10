@@ -121,7 +121,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Market adjustment process",
-                        "There is a surplus in the market since quantity supplied exceeds the quantity demanded, resulting in a downward pressure on the price. To sell the surplus, producers will begin to lower prices. As price falls, consumers are willing and able to buy more causing quantity demanded to increase. As price falls, producers will also be less incentivised to produce due to a fall in profitability, causing quantity supplied to decrease. This fall in price continues until the equilibrium price is reached.<br><br>There is a shortage in the market since ququantity demanded exceeds quantity supplied, resulting in an upward pressure on the price. Consumers will try outbid one another for existing supplies. As price increases, producers will be incentivised to produce more due to an increase in profitability. Due to the increased price, consumers will be less willing and able to buy, thereby causing quantity demanded to fall. This rise in price continues until the equilibrium price is reached."
+                        "There is a surplus in the market since quantity supplied exceeds the quantity demanded, resulting in a downward pressure on the price. To sell the surplus, producers will begin to lower prices. As price falls, consumers are willing and able to buy more causing quantity demanded to increase. As price falls, producers will also be less incentivised to produce due to a fall in profitability, causing quantity supplied to decrease. This fall in price continues until the equilibrium price is reached.<br><br>There is a shortage in the market since quantity demanded exceeds quantity supplied, resulting in an upward pressure on the price. Consumers will try outbid one another for existing supplies. As price increases, producers will be incentivised to produce more due to an increase in profitability. Due to the increased price, consumers will be less willing and able to buy, thereby causing quantity demanded to fall. This rise in price continues until the equilibrium price is reached."
                     ],
                     "guid": "vw34vqrYI0",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -582,7 +582,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Growth strategies (2)",
-                        "Mergers and acquisition<br>- Horizontal integration<br>- Vertical intergration (forward integration, backward integration)<br>- Diversification/Conglomeration<br>Franchising"
+                        "Mergers and acquisition<br>- Horizontal integration<br>- Vertical integration (forward integration, backward integration)<br>- Diversification/Conglomeration<br>Franchising"
                     ],
                     "guid": "c>m~/P&(sE",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -650,7 +650,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Information failure (2)",
-                        "Imperfect information<br>Asymmetric information<br>- Adverse selection<br>- Moral harzard"
+                        "Imperfect information<br>Asymmetric information<br>- Adverse selection<br>- Moral hazard"
                     ],
                     "guid": "y<.fM8ARY&",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -960,7 +960,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wealth, interest rate and international subsitution effects",
+                        "Wealth, interest rate and international substitution effects",
                         "The wealth effect occurs when the general price level falls, causing the purchasing power of households to increase.<br><br>The interest rate effect occurs when the general price level falls, causing households to require less money to purchase a given quantity of goods and services. Given a fixed supply of money, a fall in demand of money would cause interest rates to fall. A lower interest rate encourages borrowing by households for consumption on interest sensitive items.<br><br>The international substitution effect occurs when the domestic general price level falls while foreign prices remain constant, causing domestically produced goods to become cheaper relative to foreign substitutes. Residents are likely to demand less foreign goods. Foreigners are likely to purchase more of this country's goods."
                     ],
                     "guid": "y~@RB>+x+e",
@@ -1051,7 +1051,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Multiplier effect",
-                        "With an increase in [...], there will be an equivalent increase in aggregate demand. The AD curve shifts to the right from AD<sub>1</sub>&nbsp;to AD<sub>1a</sub>. To meet this rise in AD, firms affected wil need to produce more output and hire more factors of production. Firms will pay out income to the factors of production in return for the output produced. Hence, real national income will increase from Y<sub>1</sub>&nbsp;to Y<sub>1a</sub>.<br><br>Households spend a proportion of this increase in income on buying domestically produced consumer goods and services (based on MPC). This increase in induced consumption causes AD<sub>1a</sub>&nbsp;to rise to AD<sub>1b</sub>. Again, in response to rising AD, production and thus income increases. This second round of income induced further consumption, and subsequently increasing AD and income again.<br><br>However, this process does not continue infinitely because of the presence of withdrawals in the form of savings, taxes and import expenditure. This causes the additional increase in spending and income to be a fraction of the previous addition to the circular flow, and the rightward shifts in the AD curve becomes smaller and smaller in each successive round. Eventually when the cumulative sum of withdrawals equals the initial increase in autonomous AD, the multiplier process will stop.<br><br>The initial rise in AD has resulted in a more than proportionate rise in real national income, the multiplied increase in real national income represents actual economic growth.<br><br><img src=\"Screenshot 2024-06-06 at 12.13.45 PM.png\">"
+                        "With an increase in [...], there will be an equivalent increase in aggregate demand. The AD curve shifts to the right from AD<sub>1</sub> to AD<sub>1a</sub>. To meet this rise in AD, firms affected wil need to produce more output and hire more factors of production. Firms will pay out income to the factors of production in return for the output produced. Hence, real national income will increase from Y<sub>1</sub> to Y<sub>1a</sub>.<br><br>Households spend a proportion of this increase in income on buying domestically produced consumer goods and services (based on MPC). This increase in induced consumption causes AD<sub>1a</sub> to rise to AD<sub>1b</sub>. Again, in response to rising AD, production and thus income increases. This second round of income induced further consumption, and subsequently increasing AD and income again.<br><br>However, this process does not continue infinitely because of the presence of withdrawals in the form of savings, taxes and import expenditure. This causes the additional increase in spending and income to be a fraction of the previous addition to the circular flow, and the rightward shifts in the AD curve becomes smaller and smaller in each successive round. Eventually when the cumulative sum of withdrawals equals the initial increase in autonomous AD, the multiplier process will stop.<br><br>The initial rise in AD has resulted in a more than proportionate rise in real national income, the multiplied increase in real national income represents actual economic growth.<br><br><img src=\"Screenshot 2024-06-06 at 12.13.45 PM.png\">"
                     ],
                     "guid": "qxsP8Zg313",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1340,7 +1340,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Discretionary fiscal policy and types (2)",
-                        "Discretionary fiscal policy refers to a deliberate change in government expenditure and/or taxes to bring about the desired change in the level of AD.<br><br>Expansionary fiscal policy is used to boost economic growth and other economic indicators (increase government expenditure, reduce taxes).<br><br>Contractionary fiscal policy is used to curb excessively high aggregate demand that brings about inflationary pressures (reduce government expensiture, increase taxes)."
+                        "Discretionary fiscal policy refers to a deliberate change in government expenditure and/or taxes to bring about the desired change in the level of AD.<br><br>Expansionary fiscal policy is used to boost economic growth and other economic indicators (increase government expenditure, reduce taxes).<br><br>Contractionary fiscal policy is used to curb excessively high aggregate demand that brings about inflationary pressures (reduce government expenditure, increase taxes)."
                     ],
                     "guid": "l{|tYzp&^g",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1419,7 +1419,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Limitations of expansionary monetary policy&nbsp;using interest rate (6)",
+                        "Limitations of expansionary monetary policy using interest rate (6)",
                         "Interest elasticity of demand for investment<br>Expectations of the future state of the economy<br>Liquidity trap<br>Time lags between implementation and impact on the economy<br>Inability to achieve specific macroeconomic objectives<br>Unintended consequences: conflicts with other macroeconomic aims"
                     ],
                     "guid": "le!VK)|N6H",
@@ -1429,7 +1429,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Limitations of contractionary monetary policy&nbsp;using interest rate&nbsp;(2)",
+                        "Limitations of contractionary monetary policy using interest rate (2)",
                         "Short/long term basis of projects<br>Conflicts with other economic goals"
                     ],
                     "guid": "yvQW@hxcCj",
@@ -1530,7 +1530,7 @@
                     "__type__": "Note",
                     "fields": [
                         "J-curve effect",
-                        "In the short run, the price elasticities of demand for exports and imports may be low and the Marshall-Lerner Condition may not be satisfied in the initial period following a&nbsp;depreciation of the currency.<br><br>However, over a longer time period, changes in consumption pattern will take place and substitutes can be found. Contracts binding importers and exporters will expire. As a result, the demand for exports and imports can become less price inelastic. When this happens, it is more likely that the Marshall-Lerner Condition is fulfilled, resulting in an improvement of the Balance of Trade arising from a depreciation of the country's currency.<br><br><img src=\"Screenshot 2024-07-08 at 05.29.00 PM.png\">"
+                        "In the short run, the price elasticities of demand for exports and imports may be low and the Marshall-Lerner Condition may not be satisfied in the initial period following a depreciation of the currency.<br><br>However, over a longer time period, changes in consumption pattern will take place and substitutes can be found. Contracts binding importers and exporters will expire. As a result, the demand for exports and imports can become less price inelastic. When this happens, it is more likely that the Marshall-Lerner Condition is fulfilled, resulting in an improvement of the Balance of Trade arising from a depreciation of the country's currency.<br><br><img src=\"Screenshot 2024-07-08 at 05.29.00 PM.png\">"
                     ],
                     "guid": "i(qB[w*nQI",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
@@ -1592,7 +1592,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Patterns of trade",
-                        "Before the trade, the domestic price of wheat is where the domestic demand and supply curve intersect. If the countries decide to trade freely, China would import wheat and US would export wheat ad producers are attracted by the higher prices in China, while Chinese consumers would find it cheaper to import wheat from US.<br><br>When trade takes place, the additional supply into China, created by imports, reduces the market price paid by Chinese consumers, while the additional demand for exports increases the market price received by US producers. The world price eventually settles at&nbsp;\\(P_W\\), where&nbsp;\\(Q_1-Q_2=Q_3-Q_4\\).<br><br><img src=\"Screenshot 2024-07-11 at 04.26.55 PM.png\">"
+                        "Before the trade, the domestic price of wheat is where the domestic demand and supply curve intersect. If the countries decide to trade freely, China would import wheat and US would export wheat ad producers are attracted by the higher prices in China, while Chinese consumers would find it cheaper to import wheat from US.<br><br>When trade takes place, the additional supply into China, created by imports, reduces the market price paid by Chinese consumers, while the additional demand for exports increases the market price received by US producers. The world price eventually settles at \\(P_W\\), where \\(Q_1-Q_2=Q_3-Q_4\\).<br><br><img src=\"Screenshot 2024-07-11 at 04.26.55 PM.png\">"
                     ],
                     "guid": "j3?<PQ=o^P",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
