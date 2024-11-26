@@ -1902,7 +1902,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Ideal transformer",
-                        "There is no energy loss in the coils and the core during operation. It has no flux leakage. At any instance, the magnetic flux through each turn is the same in both the primary and secondary coils.\\[\\frac{V_S}{V_P}=\\frac{I_S}{I_P}=\\frac{N_S}{N_P}\\]"
+                        "There is no energy loss in the coils and the core during operation. It has no flux leakage. At any instance, the magnetic flux through each turn is the same in both the primary and secondary coils.\\[\\frac{V_S}{V_P}=\\frac{I_P}{I_S}=\\frac{N_S}{N_P}\\]"
                     ],
                     "guid": "A)1P_(s=vx",
                     "note_model_uuid": "7b0377f0-3a11-11ef-b932-bbccfa9cc2f3",
